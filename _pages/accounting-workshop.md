@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Accounting Workshop
-
 permalink: /accounting-workshop/
+description:
 ---
 [mk_page_section bg_image="https://www.teambusiness.com/uploads/2016/11/thumb_img_4085_1024.jpg" attachment="fixed" bg_position="center center" bg_stretch="true" enable_3d="true" speed_factor="0.5" video_color_mask="#0a0000" full_height="true" padding_top="0" padding_bottom="0" sidebar="sidebar-1" first_page="false" last_page="false"][vc_column width="1/6"][/vc_column][vc_column width="2/3"][mk_fancy_title tag_name="h3" color="#ffffff" size="30" force_font_size="true" size_smallscreen="20" size_tablet="20" font_weight="400" font_style="italic" txt_transform="uppercase" letter_spacing="1" margin_bottom="0" font_family="none" align="center"]ACCOUNTING WORKSHOP[/mk_fancy_title][mk_fancy_title tag_name="h3" color="#ffffff" size="50" force_font_size="true" size_smallscreen="36" size_tablet="36" font_weight="900" font_style="normal" txt_transform="uppercase" letter_spacing="1" margin_bottom="0" font_family="none" align="center"]Critical Financial Acumen[/mk_fancy_title][vc_column_text]<span style="color: #fff;">Whether in the corporate, non-profit or hospital environment, accounting can be a difficult topic to learn and understand. Understanding accounting is fundamental to knowing the “business” of your business and making sound business decisions.</span>[/vc_column_text][/vc_column][vc_column width="1/6"][/vc_column][/mk_page_section][vc_row fullwidth="true" attached="true" padding="0"][vc_column width="1/6"][/vc_column][vc_column width="1/6"][/vc_column][/vc_row][vc_row fullwidth="true" fullwidth_content="false" css=".vc_custom_1495415052105{padding-top: 0px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}"][vc_column][vc_column_text align="center"]
 <p style="font-size: 25px; margin-top: 15px; text-align: left;"><strong>

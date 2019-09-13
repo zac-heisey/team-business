@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Terms of Use
-
 permalink: /terms-of-use/
+description:
 ---
 [mk_page_section][vc_column][mk_fancy_title size="50" force_font_size="true" size_smallscreen="20" size_tablet="20" font_weight="400" txt_transform="uppercase" font_family="none" align="center"]Terms of Use[/mk_fancy_title][vc_separator border_width="2"][vc_column_text]TERMS OF USE
 

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Accounting Comes Alive
-
 permalink: /programs/accounting-comes-alive/
+description:
 ---
 [mk_page_section bg_image="https://www.test.teambusiness.com/wp-content/uploads/2016/11/dsc_2102.jpg" bg_position="center top" bg_repeat="no-repeat" bg_stretch="true" video_color_mask="#00a6b2" video_opacity="0.8" padding_top="100" padding_bottom="50" top_shape_color="#ffffff" bottom_shape_color="#ffffff" sidebar="sidebar-1"][vc_column][mk_fancy_title tag_name="h3" color="#ffffff" size="50" force_font_size="true" size_smallscreen="36" size_tablet="36" font_weight="900" font_style="normal" txt_transform="uppercase" letter_spacing="1" font_family="none" align="center"]Accounting Comes Alive[/mk_fancy_title][vc_empty_space height="50px"][vc_custom_heading text="Critical Financial Literacy" font_container="tag:h2|text_align:left|color:%23ffffff" use_theme_fonts="yes" css=".vc_custom_1481401281288{padding-bottom: 10px !important;}"][/vc_column][vc_column width="1/2"][vc_column_text]<span style="color: #ffffff;">The Accounting Comes Alive program gives participants complete financial literacy training through real life business scenarios using our trademarked process known as Color Accounting™.</span>
 

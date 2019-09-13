@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Programs
-
 permalink: /programs/
+description:
 ---
 [mk_page_section bg_image="https://www.test.teambusiness.com/wp-content/uploads/2016/11/thumb_img_4066_1024-1.jpg" attachment="fixed" bg_position="center center" bg_stretch="true" enable_3d="true" speed_factor="0.5" video_color_mask="#00c8d7" video_opacity="0.8" full_height="true" padding_top="0" padding_bottom="0" sidebar="sidebar-1" first_page="false" last_page="false"][vc_column width="1/6"][/vc_column][vc_column width="2/3"][mk_fancy_title tag_name="h3" color="#ffffff" size="50" force_font_size="true" size_smallscreen="36" size_tablet="36" font_weight="900" font_style="normal" txt_transform="uppercase" letter_spacing="1" margin_bottom="0" font_family="none" align="center"]There's no substitute for experience.
 That's why we teach it.[/mk_fancy_title][mk_divider style="thin_solid" divider_width="custom_width" custom_width="25" thin_single_color="#ffffff" thickness="4" margin_top="40" margin_bottom="40"][vc_column_text align="center"]

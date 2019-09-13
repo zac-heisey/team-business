@@ -1,8 +1,8 @@
 ---
 layout: page
 title: What We Do
-
 permalink: /what-we-do/
+description:
 ---
 [mk_page_section][vc_column][mk_fancy_title tag_name="h3" size="50" force_font_size="true" size_smallscreen="36" size_tablet="36" font_weight="900" font_style="normal" txt_transform="uppercase" letter_spacing="1" font_family="none" align="center"]WHAT WE DO[/mk_fancy_title][vc_separator style="shadow"][/vc_column][/mk_page_section][mk_page_section][vc_column][mk_fancy_title tag_name="h3" size="28" force_font_size="true" size_smallscreen="20" size_tablet="20" font_weight="400" font_style="italic" txt_transform="uppercase" font_family="none"]<span id="colleges"></span>
 Universities, Colleges and High Schools[/mk_fancy_title][vc_column_text]Team Business offers team-based, experiential business workshops to Universities, Colleges and High Schools. Our workshops give faculty and students a hands-on experience that enriches their education. The experiential and highly interactive nature of our programs provide the added benefit of rapid team bonding and the opportunity to observe personality traits in a safe environment. We are not a replacement for the lessons learned; we augment the classroom with practical and fundamental experience-based examples that help to make the curriculum real.[/vc_column_text][vc_separator][/vc_column][/mk_page_section][mk_page_section][vc_column][mk_fancy_title tag_name="h3" size="28" force_font_size="true" size_smallscreen="20" size_tablet="20" font_weight="400" font_style="italic" txt_transform="uppercase" font_family="none"]<span id="corporations"></span>

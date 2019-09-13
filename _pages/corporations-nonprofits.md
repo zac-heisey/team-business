@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Corporations and Non Profits
-
 permalink: /corporations-nonprofits/
+description:
 ---
 [mk_page_section bg_image="https://www.test.teambusiness.com/wp-content/uploads/2016/11/thumb_img_4063_1024-1.jpg" bg_position="center top" bg_repeat="no-repeat" bg_stretch="true" video_color_mask="#0a0303" video_opacity="0.8" padding_top="100" padding_bottom="50" top_shape_color="#ffffff" bottom_shape_color="#ffffff" sidebar="sidebar-1"][vc_column][mk_fancy_title tag_name="h3" color="#ffffff" size="30" force_font_size="true" size_smallscreen="20" size_tablet="20" font_weight="400" font_style="italic" txt_transform="uppercase" letter_spacing="1" font_family="none" align="center"]WHO WE HELP[/mk_fancy_title][mk_fancy_title tag_name="h1" color="#ffffff" size="50" force_font_size="true" size_smallscreen="36" size_tablet="36" font_weight="900" font_style="normal" txt_transform="uppercase" letter_spacing="1" margin_bottom="0" font_family="none" align="center"]Corporations and Non Profits[/mk_fancy_title][vc_column_text disable_pattern="false"]<span style="color: #fff;">Our group workshops and narrative-based exercises help your team fully comprehend what complex set of decisions go into making a business work. We work alongside your team, guiding them through a structured program. Our programs can deliver value as a team building experience and can rapidly improve the business decisions your teams make – leading to better collaboration and business results. If you offer internship programs, enhance your offerings by giving participants actionable workshops that teach them foundational business principles. These programs enhance their contribution to your business during their internship, as well as reveal important character and behavioral traits.</span>
 

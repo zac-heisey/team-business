@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Accounting Comes Alive
-
 permalink: /corporate-programs/accounting-comes-alive-plus/
+description:
 ---
 CORPORATE PROGRAMS[/mk_fancy_title][mk_fancy_title tag_name="h1" color="#ffffff" size="50" force_font_size="true" size_smallscreen="36" size_tablet="36" font_weight="900" font_style="normal" txt_transform="uppercase" letter_spacing="1" margin_bottom="0" font_family="none" align="center"]Accounting Comes Alive[/mk_fancy_title][vc_empty_space height="50px"][/vc_column][vc_column width="1/2"][vc_custom_heading text="Critical Financial Literacy" font_container="tag:h1|text_align:left|color:%23ffffff" use_theme_fonts="yes" css=".vc_custom_1481299150004{padding-bottom: 10px !important;}"][vc_column_text]<span style="font-weight: 400; color: #ffffff;">The Accounting Comes Alive program gives participants complete financial literacy training through real life business scenarios using our trademarked process known as Color Accounting™.</span>[/vc_column_text][/vc_column][vc_column width="1/2"][vc_column_text]<span style="font-weight: 400; color: #ffffff;">Accounting Comes Alive completely eliminates the guesswork and the complexity normally associated with accounting principles, so that participants of all backgrounds and knowledge levels can acquire broad-based financial literacy.</span>
 

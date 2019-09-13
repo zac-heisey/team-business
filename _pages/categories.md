@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /categories/
 title: Categories
+permalink: /categories/
 description: All the posts are sorted based on their category.
 ---
 

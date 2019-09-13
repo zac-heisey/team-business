@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Client Stories
-
 permalink: /client-stories/
+description:
 ---
 [mk_page_section bg_image="https://www.test.teambusiness.com/wp-content/uploads/2016/11/startup-593343_1920.jpg" bg_color="#0a0a0a" attachment="fixed" bg_position="center center" bg_repeat="no-repeat" bg_stretch="true" enable_3d="true" speed_factor="0.5" video_color_mask="#00c8d7" full_height="true" padding_top="0" padding_bottom="0" top_shape_color="#ffffff" bottom_shape_color="#ffffff" sidebar="sidebar-1" first_page="false" last_page="false"][vc_column width="1/6"][/vc_column][vc_column width="2/3"][mk_fancy_title tag_name="h3" color="#ffffff" size="50" force_font_size="true" size_smallscreen="36" size_tablet="36" font_weight="900" font_style="normal" txt_transform="uppercase" letter_spacing="1" margin_bottom="0" font_family="none" align="center"]Team Business offers team-based, experiential business simulations to Universities, Colleges, High Schools, Businesses and Organization.[/mk_fancy_title][/vc_column][vc_column width="1/6"][/vc_column][/mk_page_section][vc_row padding="0"][vc_column css=".vc_custom_1410359515138{padding-top: 140px !important;padding-bottom: 140px !important;}"][mk_fancy_title tag_name="h3" color="#222222" size="28" font_weight="900" txt_transform="uppercase" font_family="none" align="center"]Our simulations give participants hands-on experience that accelerates the learning of business acumen.[/mk_fancy_title][vc_column_text]
 <p class="p1"><span class="s1">The tactile, experiential and highly interactive nature of our programs compliment our solid business acumen training with the added benefit of rapid team bonding and the opportunity for managers to observe personality traits in a safe environment.</span></p>
