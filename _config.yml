@@ -1,15 +1,4 @@
-#
-#    ,---.                                  ,--.
-#   /  O  \,--.  ,--.,---.  ,---. ,--,--. ,-|  | ,---.
-#  |  .-.  |\  `'  /| .-. || .--'' ,-.  |' .-. || .-. |
-#  |  | |  | \    / ' '-' '\ `--.\ '-'  |\ `-' |' '-' '
-#  `--' `--'  `--'   `---'  `---' `--`--' `---'  `---'
-
-
-# Almost all the things in the website can be customized from here.
-# Changing title and description according to your website requirement is important.
-
-
+---
 title: Avocado
 description: Avacado is a minimal jekyll theme to show off your skills online.
 email: john@doe.com # The contact form submission will be done to this email address.
@@ -19,12 +8,12 @@ default-image: /assets/images/avocado-cover.png # This image will be shown on sh
 
 # Author details shows up at the end of every article
 author:
-    name: John Doe
-    bio: "John is an astronaut. He likes to hang out with his friends when he's not in space. He writes his experiences here."
-    image: author-image.jpg # Choose a 200x200px image and place it inside /images directory.
-    facebook: https://facebook.com
-    twitter: https://twitter.com
-    quora: https://www.quora.com/
+  name: John Doe
+  bio: "John is an astronaut. He likes to hang out with his friends when he's not in space. He writes his experiences here."
+  image: author-image.jpg # Choose a 200x200px image and place it inside /images directory.
+  facebook: https://facebook.com
+  twitter: https://twitter.com
+  quora: https://www.quora.com/
 
 
 # Kramdown is supported by Github
@@ -35,7 +24,6 @@ enable-mathjax: yes
 
 # Charts
 enable-chartjs: yes
-
 
 # This defines how the URLs should look like
 permalink: /blog/:title/
@@ -48,10 +36,9 @@ paginate_path: /blog/page:num/
 name: John Doe
 projects: I work
 
-
 # Jekyll will read contents inside _pages only if we tell it to
 include:
-    - _pages
+  - _pages
 
 # Google Ananlytics Tracker
 analytics: UA-92266803-2  # Sign up with Google analytics and replce with your analytics ID
@@ -62,18 +49,9 @@ tawkto-id: 5cb170e9c1fe2560f3fea30c # Sign up with tawk.to and go to Admin >> Pr
 # Share buttons
 share: yes # Change it to `no` to remove share buttons.
 
-
 # Comments by Disqus # Sign up with Disqus to get your shortcode. Leave it blank if you do not want to run diqus code on the website.
 disqus: webjeda-demo
 
-
-#
-#   ,-----.                                                    ,--.
-#  '  .--./ ,---. ,--,--,--. ,---. ,--.--. ,---.  ,---.  ,---. `--' ,---. ,--,--,
-#  |  |    | .-. ||        || .-. ||  .--'| .-. :(  .-' (  .-' ,--.| .-. ||      \
-#  '  '--'\' '-' '|  |  |  || '-' '|  |   \   --..-'  `).-'  `)|  |' '-' '|  ||  |
-#   `-----' `---' `--`--`--'|  |-' `--'    `----'`----' `----' `--' `---' `--''--'
-#                           `--'
 # All compression variables are declared here.
 
 sass:
@@ -91,17 +69,14 @@ compress_html:
   profile: false
   startings: []
 
-####################################################################################################
-
-destination: _avocado
+#########################################
 
 exclude:
-    - .git
-
+  - .git
 
 # These plugins are supported by github by default and can be installed locally using ruby gems
 plugins:
-    - jekyll-sitemap    # Adds sitemap to the website at /sitemap.xml
-    - jekyll-feed       # Adds feed to the website at /feed.xml
-    - jekyll-paginate   # Used for sorting posts by page numbers.
-    - jekyll-seo-tag    # Adds all the important SEO meta tags by default.
+  - jekyll-sitemap    # Adds sitemap to the website at /sitemap.xml
+  - jekyll-feed       # Adds feed to the website at /feed.xml
+  - jekyll-paginate   # Used for sorting posts by page numbers.
+  - jekyll-seo-tag    # Adds all the important SEO meta tags by default.
