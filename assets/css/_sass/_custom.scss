@@ -1,1 +1,40 @@
-/* Add your own style here */
+/*== CUSTOM STYLES ==*/
+
+/* Page Layout Header Styles */
+
+.header-image {
+  margin-top: 100px;
+  height: 100vh;
+  width: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
+
+
+  @include media-query($on-palm) {
+    height: 35vh;
+    margin-top: 50px;
+  }
+}
+
+.page-title {
+  font-weight: 900;
+  line-height: 1.8em;
+  font-size: 5rem;
+  text-transform: uppercase;
+  top: 0;
+  width: 100%;
+  color: white;
+
+    @include media-query($on-palm) {
+      line-height: 1.5em;
+      font-size: 1.6em;
+    }
+
+  &.no-image {
+    margin-top: 100px;
+    margin-bottom: -50px;
+  }
+
+}
