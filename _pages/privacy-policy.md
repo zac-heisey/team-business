@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy-policy/
 description:
 ---
-[mk_page_section][vc_column][mk_fancy_title size="50" force_font_size="true" size_smallscreen="20" size_tablet="20" font_weight="400" txt_transform="uppercase" font_family="none" align="center"]Privacy Policy[/mk_fancy_title][vc_separator border_width="2"][vc_column_text]Team Business LLC
+Privacy PolicyTeam Business LLC
 
 <strong>COMMITMENT TO YOUR PRIVACY</strong>
 
@@ -90,4 +90,4 @@ Opting not to participate in certain interactive areas, which completely allevia
 
 <strong>YOUR CONSENT</strong>
 
-By using this site, you consent to the collection and use of this information by Team Business LLC. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.[/vc_column_text][/vc_column][/mk_page_section]
+By using this site, you consent to the collection and use of this information by Team Business LLC. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
