@@ -1,65 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-
-	<!-- Required meta tags -->
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-	<!-- Prefetch DNS for faster page speed -->
-	<link rel="dns-prefetch" href="//fonts.googleapis.com">
-	<link rel="dns-prefetch" href="//google-analytics.com">
-	<link rel="dns-prefetch" href="//www.google-analytics.com">
-	<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
-	<link rel="dns-prefetch" href="//ajax.googleapis.com">
-	<link rel="dns-prefetch" href="//fonts.gstatic.com">
-	{% if page.url contains 'blog' %}
-	<!-- Prefetch disqus DNS for faster page speed -->
-	<link rel="dns-prefetch" href="https://{{site.disqus}}.disqus.com/">
-	{% endif %}
-
-	{% if page.url == '/' %}
-	<!-- Prerender next pages for faster page speed -->
-	<link rel="prerender" href="{{site.baseurl}}/contact/" />
-	<link rel="prerender" href="{{site.baseurl}}/about/" />
-	<link rel="prerender" href="{{site.baseurl}}/blog/" />
-	{% endif %}
-
-	{% seo %}
-
-	{% if page.layout != 'post' %}
-	<meta property="og:image" content="{{site.url}}{{site.logo}}" />
-	{% endif %}
-
-	<!-- Custom CSS -->
-	<link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css">
-
-
-	<!-- Fontawesome Icons CSS -->
-	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-
-	<!-- Replace these icons with your own. -->
-	<link rel="icon" href="{{site.baseurl}}/favicon.ico" type="image/x-icon">
-
-	{% if site.analytics %}
-
-	<!-- Google Analytics code. <head> tag is the right place for analytics code as directed by Google. This is unofficial light version which loads blazing fast! Implemented for faster page load.  -->
-	{% include analytics-lite.html %}
-
-	{% endif %}
-
-{% if site.enable-mathjax %}
-		<script async
-	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
-	</script>
-{% endif %}
-
-{% if site.enable-chartjs %}
-	<script  src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
-{% endif %}
-
-</head>
+{% include head.html %}
 
 <body>
 	<div class="loader">
@@ -159,6 +101,7 @@
 	<script>
 		window.sr = ScrollReveal();
 		sr.reveal('.rev', {
+			viewFactor: 0.025,
 			duration: 1000
 		});
 

@@ -7,14 +7,27 @@ This layout is used for pages for example about.md, contact.ms etc...
 Making any change will effect all the pages(not posts) -->
 <main>
 	{% if page.image %}
-	<header class="position-relative text-center rev header-image" style="background-image: url({% if page.image contains 'cloudinary' %}{{ page.image }}{% else %}{{ site.baseurl }}{{ page.image }}{% endif %}), linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6))" title="{{ page.title }} | Team Business" alt="{{ page.title }} featured image">
-		<h1 class="page-title">{{page.title}}</h1>
-		<h2>{{page.intro-1}}</h2>
-		<h3>{{page.intro-2}}</h3>
+	<header class="position-relative text-center rev">
+		<div class="header-image page" style="background-image: url({% if page.image contains 'cloudinary' %}{{ page.image }}{% else %}{{ site.baseurl }}{{ page.image }}{% endif %}), linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6))" title="{{ page.title }} | Team Business" alt="{{ page.title }} featured image"></div>
+		<div class="position-absolute page-intro">
+			{% if page.section-title %}
+			<p id="section-title">{{ page.section-title }}</p>
+			{% endif %}
+			<h2 id="intro-1">{{ page.intro-1 }}</h2>
+			<hr class="divider">
+			<p id="intro-2">{{ page.intro-2 }}</p>
+		</div>
 	</header>
 	{% else %}
 	<header class="position-relative text-center rev">
-		<h1 class="page-title no-image">{{page.title}}</h1>
+		<div class="no-image">
+			{% if page.section-title %}
+			<p id="section-title">{{ page.section-title }}</p>
+			{% endif %}
+			<h2 id="intro-1">{{ page.intro-1 }}</h2>
+			<hr class="divider">
+			<p id="intro-2">{{ page.intro-2 }}</p>
+		</div>
 	</header>
 	{% endif %}
 	<div class="page-container rev">

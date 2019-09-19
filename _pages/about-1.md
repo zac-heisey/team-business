@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About Team Business
+title: About
 permalink: /about-1/
 description:
 image: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1568839102/teambusiness/about-bg.jpg
+section-title:
 intro-1: Our Experience Can Improve Your Learning Experience
 intro-2: Team Business believes that hands-on experiences are the best way to build business experience. So our goal is to create safe places for those experiences to happen.
 ---
