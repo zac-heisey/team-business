@@ -25,6 +25,6 @@ description: Search anything in the site from here.
     noResultsText: 'No results found',
     limit: 20,
     fuzzy: false,
-    exclude: 
-  })
+    exclude: ['Welcome'] 
+  });
 </script>
