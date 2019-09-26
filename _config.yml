@@ -17,6 +17,9 @@ author:
 # Kramdown is supported by Github
 markdown: kramdown
 
+kramdown:
+  auto_ids: false
+
 # Mathjax setting
 enable-mathjax: no
 
