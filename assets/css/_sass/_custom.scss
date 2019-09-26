@@ -1,5 +1,23 @@
 /*== CUSTOM STYLES ==*/
 
+/* Global Styles */
+
+h2 {
+  text-align: center;
+  width: 75%;
+  max-width: 832px;
+  margin: 2rem auto;
+}
+
+h2:after {
+  content: "";
+  display: block;
+  border-bottom: 3px solid #00C8D7;
+  width: 30%;
+  margin: 1rem auto;
+}
+
+
 /* Page Layout Header Styles */
 
 .header-image.page {
