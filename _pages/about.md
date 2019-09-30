@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about-1/
+permalink: /about/
 description:
 image: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1568839102/teambusiness/about-bg.jpg
 section-title:
@@ -11,11 +11,21 @@ intro-2: Team Business believes that hands-on experiences are the best way to bu
 
 ## Team Business is honored to work with top universities, colleges, high schools, businesses and organizations.
 
-// Schools & Orgs Icons Go Here
+<!-- Client Logo Display -->
+<div class="client-logo-wrapper">
+  {% for client in site.clients %}
+  <div class="client-logo-item" style="background-image: url({{ client.logo }});"></div>
+  {% endfor%}
+</div>
 
 ## See Our Programs in Action
 
 <iframe class="video" src="https://www.youtube.com/embed/M9_TtXZFefc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## What Our Clients Say
+
+<!-- Testimonials -->
+{% include testimonial.html %}
 
 ## Team Business offers business education programs in the form of hands-on simulations that are designed to teach through experience.
 
@@ -27,7 +37,7 @@ We believe in learning through doing, so we create a safe environment to make mi
 <div style="display:flex; justify-content:center; flex-wrap:wrap; margin:2rem 0;">
   <a href="#" class="btn btn-default" style="margin:10px;">Learn More About Our Programs</a>
   <a href="#" class="btn btn-default" style="margin:10px;">View Our Corporate Offerings</a>
-</div>  
+</div>
 
 ## Who is Team Business?
 

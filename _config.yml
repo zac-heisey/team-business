@@ -6,6 +6,11 @@ phone: +1-301-537-8980
 url: https://teambusiness.com
 logo: /assets/images/logo.png # This image will be shown on sharing any page on social media. For example: Homepage, about page etc. This image should be bigger than 200x200px. This image is not used for posts. Posts use their own image mentioned in individual posts.
 
+collections:
+  clients:
+    title: Clients
+    output: false
+
 # Author details shows up at the end of every article
 author:
   name: Lara Azzam

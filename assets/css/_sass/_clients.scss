@@ -1,3 +1,4 @@
+/*== CLIENT STYLES ==*/
 
 #clients {
 	img {
@@ -6,5 +7,37 @@
 	.carousel-3 {
 		padding: 80px 0;
 	}
-	
+
+}
+
+/* Client Logo Display */
+
+.client-logo-wrapper {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+
+	.client-logo-item {
+		background-repeat: no-repeat;
+		background-position: center;
+		width: 25%;
+		height: 110px;
+		margin-bottom: 1rem;
+	}
+
+}
+
+/*== MEDIA QUERIES ==*/
+
+@include media-query($on-laptop) {
+
+	.client-logo-wrapper {
+		flex-direction: column;
+
+		.client-logo-item {
+			width: 100%;
+		}
+
+	}
+
 }

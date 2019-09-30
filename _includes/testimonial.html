@@ -1,22 +1,20 @@
 <section id="testimonial" class="">
 	<div class="container">
-		<div class="row">
+		<!-- <div class="row">
 			<div class="col-md-12">
 				<h3 class="section-title text-center position-relative rev">Testimonials</h3>
 			</div>
-		</div>
+		</div> -->
 		<div class="owl-carousel owl-theme carousel-2 position-relative rev">
 
-			{% for item in site.data.testimonials %}
+			{% for client in site.clients %}
 			<div class="item">
 				<div class="testimonial-box card">
 					<div class="row">
-						<div class="col-md-3 text-center">
-							<img class="rounded-circle" src="{{item.image}}">
-						</div>
-						<div class="col-md-9">
-							<blockquote>{{item.comment}}</blockquote>
-							<small>{{item.name}}</small>
+						<div class="col-md-12">
+							<blockquote>{{ client.testimonial }}</blockquote>
+							<small>{{ client.name }} | {{ client.client }}</small>
+							<img src="{{ client.logo }}" alt="{{ client.client }} logo">
 						</div>
 					</div>
 				</div>
