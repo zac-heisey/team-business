@@ -2,14 +2,14 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12">
-				<h3 class="section-title text-center rev">Our Clients</h3>
+				<h2>Who We've Worked With</h2>
 			</div>
 		</div>
 
 		<div class="owl-carousel owl-theme carousel-3 rev">
-			{% for item in site.data.clients %}
+			{% for client in site.clients %}
 			<div class="item">
-				<img height="100" width="100%" src="{{item.image}}" alt="{{item.title}}" title="{{item.title}}">
+				<img src="{{ client.logo }}" alt="{{ client.client }} logo" title="{{ client.client }}">
 			</div>
 			{% endfor %}
 		</div>
