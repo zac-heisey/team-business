@@ -6,8 +6,8 @@
 			</div>
 		</div> -->
 		<div class="owl-carousel owl-theme carousel-2 position-relative rev">
-
-			{% for client in site.clients %}
+		{% for client in site.clients %}
+			{% if client.testimonial %}
 			<div class="item">
 				<div class="testimonial-box card">
 					<div class="row">
@@ -19,8 +19,8 @@
 					</div>
 				</div>
 			</div>
-			{% endfor %}
-
+			{% endif %}
+		{% endfor %}
 		</div>
 	</div>
 </section>

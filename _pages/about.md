@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-description:
+description: Team Business helps universities, colleges, high schools, businesses, and organizations build business experience through specialized programs and workshops.
 image: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1568839102/teambusiness/about-bg.jpg
 section-title:
 intro-1: Our Experience Can Improve Your Learning Experience
@@ -41,17 +41,4 @@ We believe in learning through doing, so we create a safe environment to make mi
 
 ## Who is Team Business?
 
-// Loop Through Team Collection Here (replace content below)
-
-Lara Azzam
-President, Team BusinessLara Azzam has worked in the telecommunications sector in sales and marketing since 1991. She gained extensive marketing experience including customer communications, direct acquisition and retention marketing, marketing strategy and marketing campaign performance analysis, as well as sales and sales operations. She was responsible for business process redesign and the development of a web based workflow management application for a high technology sales organization.
-
-Lara founded the US operation for Team Business and is responsible for launching the Team Business product portfolio in the US marketplace. Lara holds an MBA from Wharton Business School and a Masters in International Studies from Lauder Institute.André van der Bergh
-Vice President of Programs, Team BusinessPrior to embarking on a career as a facilitator of Team Business programs, André was intimately involved in the retail industry in South Africa and the Middle East for more than 25 years, specializing in process re-engineering and automation.
-
-In 1998, André began implementing Team Business programs for his retail clients with tremendous results – for example, one of his clients took 6,000 staff through the program as a part of a successful turn-around initiative. André is certified to facilitate all the programs in the Team Business portfolio and is the primary facilitator in the United States.Lela Mrakovic
-Middle East and CroatiaFor over 25 years Lela Mrakovic has worked in varying industries including retail, real estate, tourism, publishing, and recruitment. For most of her career she was an entrepreneur and successfully established several new businesses, from concept to fully operational status.
-
-Lela knows the real world challenges of managing all areas of business including marketing & PR, business development and planning, recruitment and staff training. Her broad experience and sound leadership skills bring experience and insight to the challenge of business education.
-
-// CTA Here
+{% include team.html %}

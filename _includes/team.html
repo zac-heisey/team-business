@@ -1,0 +1,16 @@
+<div id="team">
+	<div class="team-container">
+		<div class="row">
+      {% for member in site.team-members %}
+			<div class="col-md-4 individual">
+				<img width="150" height="150" class="team-image rounded-circle" src="{{ member.image }}" alt="{{ member.name }} headshot">
+				<h4 class="name">{{ member.name }}</h4>
+				<p class="position"><small>{{ member.title }}</small></p>
+			</div>
+      <div class="col-md-8">
+        <p style="padding-top: 6%; text-align: left;">{{ member.bio }}</p>
+      </div>
+      {% endfor %}
+		</div>
+	</div>
+</div>

@@ -10,6 +10,9 @@ collections:
   clients:
     title: Clients
     output: false
+  team-members:
+    title: Team Members
+    output: false
 
 # Author details shows up at the end of every article
 author:
