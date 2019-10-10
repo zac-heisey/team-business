@@ -1,7 +1,28 @@
 #cta {
+
 	p {
-		font-style: italic;
-		color: $grey-color;
-		font-weight: 300;
+		color: #fff;
+		font-size: 1.5rem;
 	}
+
+	&.bg-light {
+		background-color: #fff;
+	}
+
+	&.bg-brand {
+		background-color: $brand-color;
+	}
+
+	.btn-cta {
+		color: $brand-color;
+		background-color: #fff;
+		border: 1px solid #fff;
+
+		&:hover {
+			color: #fff;
+			background-color: $brand-color;
+		}
+
+	}
+
 }
