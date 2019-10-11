@@ -4,7 +4,6 @@
 
 h2 {
   text-align: center;
-  width: 75%;
   max-width: 832px;
   margin: 2rem auto;
 }
@@ -21,22 +20,13 @@ h2:after {
 
 #intro {
 
-  .text-container {
-    width: 720px;
-    bottom: 50%;
-    margin-bottom: -150px;
-    left: 50%;
-    margin-left: -360px;
-  }
-
-  h2, p {
+  h1, p {
     color: #fff;
     background: none;
     text-align: center;
   }
 
 }
-
 
 /* Page Layout Header Styles */
 
@@ -53,6 +43,11 @@ h2:after {
   left: 0;
   right: 0;
   color: #fff;
+
+  &.hero {
+    top: 40%;
+  }
+
 }
 
 .no-image {
@@ -74,6 +69,7 @@ h2:after {
 #intro-2 {
   font-size: 1.5rem;
   font-weight: 300;
+  text-transform: none;
 }
 
 hr.divider {
@@ -89,6 +85,7 @@ hr.divider {
 
 /*== MEDIA QUERIES ==*/
 
+// 800px
 @include media-query($on-laptop) {
 
   .header-image.page {
@@ -111,32 +108,13 @@ hr.divider {
     font-size: 1rem;
   }
 
-  #intro {
-
-    .text-container {
-      width: 500px;
-      margin-bottom: -175px;
-      margin-left: -250px;
-    }
-
-  }
-
 }
 
+// 600px
 @include media-query($on-palm) {
 
   .owl-carousel.carousel-1 .item {
-    height: 50vh;
-  }
-
-  #intro {
-
-    .text-container {
-      width: 320px;
-      margin-bottom: -160px;
-      margin-left: -160px;
-    }
-
+    height: 75vh;
   }
 
 }

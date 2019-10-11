@@ -1,14 +1,14 @@
-- title:      Web Design
-  description:  Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quaerat fugit quas veniam perferendis repudiandae sequi, dolore quisquam illum? Eos autem natus et veniam perspiciatis.			
-  fa-icon:      fa-object-group
-  link:         
+- title: Educational Programs
+  description: Our simulations give professors, teachers, students, and faculty a hands-on experience that enriches their education. We are not a replacement for the lessons learned, we augment the classroom with practical and fundamental experience-based examples that help to make the curriculum real.
+  fa-icon: fa-graduation-cap
+  link:
+  
+- title: Internships
+  description: Enhance the offerings to your internship program by giving participants actionable workshops that teach them foundational principles. These programs enhance their contribution to your business during their internship, as well as reveal important character and behavioral traits.
+  fa-icon: fa-paper-plane
+  link:
 
-- title:      Web Development
-  description:  Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quaerat fugit quas veniam perferendis repudiandae sequi, dolore quisquam illum? Eos autem natus et veniam perspiciatis.			
-  fa-icon:      fa-code
-  link:         
-
-- title:      Marketing
-  description:  Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quaerat fugit quas veniam perferendis repudiandae sequi, dolore quisquam illum? Eos autem natus et veniam perspiciatis.			
-  fa-icon:      fa-paper-plane-o
-  link:         
+- title: Corporate Retreats
+  description: Our group simulations and narrative-based exercises help your team fully comprehend what complex set of decisions go into making a business work. We work alongside your team, guiding them through a structured program. Better than a trust fall.
+  fa-icon: fa-chart-bar
+  link:
