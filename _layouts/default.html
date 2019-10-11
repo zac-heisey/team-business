@@ -109,7 +109,7 @@
 
 	<script>
 		$('.carousel-1').owlCarousel({
-			loop: true,
+			loop: false, // was true
 			nav: false,
 			dots: true,
 			autoplay: true,
@@ -125,7 +125,8 @@
 				1000: {
 					items: 1
 				}
-			}
+			},
+			mouseDrag: false // added to disable dragging on homepage hero
 		});
 
 	</script>

@@ -17,6 +17,26 @@ h2:after {
   margin: 1rem auto;
 }
 
+/* Homepage Intro Styles */
+
+#intro {
+
+  .text-container {
+    width: 720px;
+    bottom: 50%;
+    margin-bottom: -150px;
+    left: 50%;
+    margin-left: -360px;
+  }
+
+  h2, p {
+    color: #fff;
+    background: none;
+    text-align: center;
+  }
+
+}
+
 
 /* Page Layout Header Styles */
 
@@ -89,6 +109,34 @@ hr.divider {
 
   #intro-2 {
     font-size: 1rem;
+  }
+
+  #intro {
+
+    .text-container {
+      width: 500px;
+      margin-bottom: -175px;
+      margin-left: -250px;
+    }
+
+  }
+
+}
+
+@include media-query($on-palm) {
+
+  .owl-carousel.carousel-1 .item {
+    height: 50vh;
+  }
+
+  #intro {
+
+    .text-container {
+      width: 320px;
+      margin-bottom: -160px;
+      margin-left: -160px;
+    }
+
   }
 
 }
