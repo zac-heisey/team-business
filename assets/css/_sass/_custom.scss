@@ -16,7 +16,7 @@ h2:after {
   margin: 1rem auto;
 }
 
-/* Homepage Intro Styles */
+/* Homepage Styles */
 
 #intro {
 
@@ -26,9 +26,18 @@ h2:after {
     text-align: center;
   }
 
+  #car-image {
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('https://res.cloudinary.com/zheisey/image/upload/f_auto/v1570826236/teambusiness/homepage-hero-bg.jpg');
+    background-size: cover;
+    width: 101%;
+    height: 100%;
+  }
+
 }
 
-/* Page Layout Header Styles */
+
+
+/* Page Styles */
 
 .header-image.page {
   height: 75vh;
@@ -45,7 +54,7 @@ h2:after {
   color: #fff;
 
   &.hero {
-    top: 40%;
+    top: 30%;
   }
 
 }

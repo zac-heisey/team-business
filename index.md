@@ -19,6 +19,7 @@ You can edit them there.
   <div class="row">
     <div class="col-md-12">
       <h2>There's An Easier Way to Learn the Hard Way</h2>
+      <p>Fast-track your team’s business acumen with hands-on business training simulations. For anyone from students to executives, Team Business can help turn principles of business operation into habits.</p>
       <iframe class="video" src="https://www.youtube.com/embed/zWNO2mUUcYA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <div class="col-md-6"><p>{{ page.intro-1 }}</p></div>
