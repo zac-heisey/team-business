@@ -5,9 +5,8 @@
 				<h3 class="section-title text-center rev">Our Work</h3>
 			</div>
 		</div> -->
-
 		<div class="portfolio__project-wrapper row">
-			{% for item in site.data.portfolio %}
+			{% for item in site.data.programs %}
 			<div class="portfolio__project col-xs-12 col-sm-6 col-lg-4 text-center rev">
 				<a href="{{item.link}}">
 					<div class="portfolio__project__preview" style="background-image: url({{item.image}})">

@@ -29,8 +29,8 @@ You can edit them there.
 
 <hr>
 
-<h2>Our Programs (COMING SOON!)</h2>
-{% include portfolio.html %}
+<h2>Our Programs</h2>
+{% include programs.html %}
 
 <hr>
 
