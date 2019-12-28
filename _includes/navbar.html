@@ -11,15 +11,6 @@
 				{% for item in site.data.nav %}
 				<a class="nav-item nav-link {% if page.url == item.link %}active{% endif %}" href="{{item.link}}">{{item.title}}</a>
 				{% endfor %}
-				<li class="nav-item dropdown">
-					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-						Workshops
-					</a>
-					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-						<a class="dropdown-item nav-link" href="/programs/">Educational Workshops</a>
-						<a class="dropdown-item nav-link" href="/corporate-programs/">Corporate Workshops</a>
-					</div>
-				</li>
 			</div>
 		</div>
 	</div>
