@@ -1,17 +1,11 @@
 <section id="clients" class="bg-white">
-	<div class="container">
-		<!-- <div class="row">
-			<div class="col-md-12">
-				<h2>Who We've Worked With</h2>
-			</div>
-		</div> -->
-
-		<div class="owl-carousel owl-theme carousel-3 rev">
-			{% for client in site.clients %}
-			<div class="item">
-				<img src="{{ client.logo }}" alt="{{ client.client }} logo" title="{{ client.client }}">
-			</div>
-			{% endfor %}
+	<div class="container" style="text-align: center;">
+		{% for client in site.clients %}
+		{% if client.featured == true %}
+		<div class="featured-client">
+			<img src="{{ client.logo }}" alt="{{ client.client }} logo" title="{{ client.client }}">
 		</div>
+		{% endif %}
+		{% endfor %}
 	</div>
 </section>
