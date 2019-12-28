@@ -11,7 +11,7 @@ h2 {
 h2:after {
   content: "";
   display: block;
-  border-bottom: 3px solid #00C8D7;
+  border-bottom: 2px solid $brand-color;
   width: 30%;
   margin: 1rem auto;
 }
@@ -32,6 +32,11 @@ h2:after {
     height: 100%;
   }
 
+}
+
+.featured-client {
+  display: inline-block;
+  margin: 0 1rem;
 }
 
 /* Page Styles */
