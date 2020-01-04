@@ -3,29 +3,11 @@ layout: page
 title: About
 permalink: /about/
 description: Team Business helps universities, colleges, high schools, businesses, and organizations build business experience through specialized programs and workshops.
-image: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1568839102/teambusiness/about-bg.jpg
+header-image: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1568839102/teambusiness/about-bg.jpg
 section-title:
 intro-1: Our Experience Can Improve Your Learning Experience
 intro-2: Team Business believes that hands-on experiences are the best way to build business experience. So our goal is to create safe places for those experiences to happen.
 ---
-
-## Team Business is honored to work with top universities, colleges, high schools, businesses and organizations.
-
-<!-- Client Logo Display -->
-<div class="client-logo-wrapper">
-  {% for client in site.clients %}
-  <div class="client-logo-item" style="background-image: url({{ client.logo }});"></div>
-  {% endfor%}
-</div>
-
-## See Our Programs in Action
-
-<iframe class="video" src="https://www.youtube.com/embed/M9_TtXZFefc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## What Our Clients Say
-
-<!-- Testimonials -->
-{% include testimonial.html %}
 
 ## Team Business offers business education programs in the form of hands-on simulations that are designed to teach through experience.
 
@@ -38,6 +20,22 @@ We believe in learning through doing, so we create a safe environment to make mi
   <a href="#" class="btn btn-default" style="margin:10px;">Learn More About Our Programs</a>
   <a href="#" class="btn btn-default" style="margin:10px;">View Our Corporate Offerings</a>
 </div>
+
+<!-- Team Business Programs Video -->
+{% include video.html id="M9_TtXZFefc" heading="See Our Programs in Action" sub-text="" %}
+
+## Team Business is honored to work with top universities, colleges, high schools, businesses and organizations.
+
+<!-- Client Logo Display -->
+<div class="client-logo-wrapper">
+  {% for client in site.clients %}
+  <div class="client-logo-item" style="background-image: url({{ client.logo }});"></div>
+  {% endfor%}
+</div>
+
+## What Our Clients Say
+<!-- Testimonials -->
+{% include testimonial.html %}
 
 ## Who is Team Business?
 

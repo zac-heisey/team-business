@@ -17,7 +17,7 @@ description: All the posts are sorted based on their category.
     <div class="col-md-4">
      <a class="nostyle" href="{{ site.baseurl }}{{ post.url }}">
        <div class="cards">
-           <div class="image" style="background-image: url({{site.baseurl}}{{post.image}})"></div>
+           <div class="image" style="background-header-image: url({{site.baseurl}}{{post.image}})"></div>
             <p class="text-center">{{post.title}}</p>
         </div>
      </a>

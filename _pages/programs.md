@@ -3,7 +3,7 @@ layout: page
 title: Programs
 permalink: /programs/
 description:
-image: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1577559608/teambusiness/programs-bg.jpg
+header-image: https://res.cloudinary.com/zheisey/image/upload/f_auto/v1577559608/teambusiness/programs-bg.jpg
 section-title:
 intro-1: There's no substitute for experience. That's why we teach it.
 intro-2: Our programs and simulations have been designed to accelerate business learning for those who want to learn, and proven by those who practice the same business principles every day
