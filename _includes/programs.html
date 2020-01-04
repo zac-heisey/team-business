@@ -1,19 +1,13 @@
-<section id="portfolio" class="main-section">
+<section id="programs" class="main-section">
 	<div class="container">
-		<div class="portfolio__project-wrapper row">
+		<div class="row">
 			{% for item in site.data.programs %}
-			<div class="portfolio__project col-xs-12 col-sm-6 col-lg-4 text-center rev">
-				<a href="{{item.link}}">
-					<div class="portfolio__project__preview" style="background-image: url({{item.image}})">
-					</div>
-					<div class="portfolio__project__description">
-						<div class="info-wrapper">
-							<h3 class="portfolio__project__name">{{item.title}}</h3>
-							<p class="portfolio__project__category">{{item.description}}</p>
-							<p>LEARN MORE</p>
-						</div>
-					</div>
-				</a>
+			<div class="col-xs-12 col-sm-6 col-lg-4 text-center">
+				<div class="program">
+					<h3 class="program-title" style="font-weight: 400;">{{item.title}}</h3>
+					<p class="program-description">{{item.description}}</p>
+					<a href="{{item.link}}">LEARN MORE</a>
+				</div>
 			</div>
 			{% endfor %}
 		</div>

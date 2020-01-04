@@ -34,6 +34,30 @@ h2:after {
 
 }
 
+.program {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 195px;
+  margin-bottom: 2rem;
+}
+
+.program-name {
+  color: $brand-color;
+}
+
+.program-description {
+  font-size: 1rem;
+  margin-bottom: .6em;
+  font-weight: 300;
+
+  + a {
+    font-size: 1rem;
+    font-weight: 400;
+  }
+}
+
+
 .featured-client {
   display: inline-block;
   margin: 0 1rem;
@@ -121,5 +145,9 @@ hr.divider {
   .owl-carousel.carousel-1 .item {
     height: 75vh;
   }
+
+  // .program-description, .program-description + a {
+  //   font-size: 1rem;
+  // }
 
 }
