@@ -12,7 +12,7 @@ fields:
   label: Page Title
   config:
     max: ''
-    required: false
+    required: true
   description: Title of your page
 - type: text
   name: permalink
