@@ -31,7 +31,7 @@ sections:
   create: documents
   match: "**/*"
 upload_dir: zheisey/image/upload/teambusiness
-public_path: https://res.cloudinary.com/zheisey/image/upload/f_auto/teambusiness
+public_path: https://res.cloudinary.com/zheisey/image/upload/teambusiness
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
