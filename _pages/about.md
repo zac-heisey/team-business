@@ -9,7 +9,7 @@ intro-1: Our Experience Can Improve Your Learning Experience
 intro-2: Team Business believes that hands-on experiences are the best way to build
   business experience. So our goal is to create safe places for those experiences
   to happen.
-header-image: "/assets/images/julia-caesar-15080-unsplash.jpg"
+header-image: "/assets/images/about-bg.jpg"
 
 ---
 ## Team Business offers business education programs in the form of hands-on simulations that are designed to teach through experience.
