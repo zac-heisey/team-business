@@ -46,3 +46,5 @@ fields:
   name: header-image
   label: Header Image
   description: Header background image
+pages:
+- _pages/about.md
