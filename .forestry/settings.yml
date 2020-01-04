@@ -30,8 +30,8 @@ sections:
   label: Clients
   create: documents
   match: "**/*"
-upload_dir: zheisey/image/upload/teambusiness
-public_path: https://res.cloudinary.com/zheisey/image/upload/teambusiness
+upload_dir: assets/images
+public_path: "/assets/images"
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
