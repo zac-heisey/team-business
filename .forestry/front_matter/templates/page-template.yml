@@ -1,0 +1,48 @@
+---
+label: Page Template
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  default: page
+  hidden: true
+- type: text
+  name: title
+  label: Page Title
+  config:
+    max: ''
+    required: true
+  description: Title of your page
+- type: text
+  name: permalink
+  label: permalink
+  hidden: true
+- type: textarea
+  name: description
+  label: Page Description
+  description: Description of your page for SEO
+  config:
+    wysiwyg: false
+    max: '170'
+- type: text
+  name: section-title
+  label: Small Title
+  description: Adds a small title in your header above the larger intro text
+- type: text
+  name: intro-1
+  label: Intro Text 1
+  description: Primary intro text in header
+  config:
+    required: true
+- type: textarea
+  name: intro-2
+  label: Intro Text 2
+  description: Secondary intro text in header
+  config:
+    wysiwyg: false
+    required: true
+- type: file
+  name: header-image
+  label: Header Image
+  description: Header background image
