@@ -48,3 +48,4 @@ fields:
   description: Header background image
 pages:
 - _pages/about.md
+- _pages/accounting-workshop.md
