@@ -46,3 +46,5 @@ Participants will inevitably discover things about their behavior under stress a
 * Benchmarking
 * Understanding of critical business drivers: staff, time, resources, information and processes and the how to manage constraints
 * How these drivers can be used to identify shortcomings and opportunities for improvement within a business
+
+Teams typically have 7-10 members each, and a workshop can be up to 120 people. Participants of all disciplines can participate. The program can be run in 4 hours in a single session.
