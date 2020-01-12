@@ -22,7 +22,7 @@ body {
     height: 100%;
 	overflow-x: hidden;
     @include media-query($on-palm) {
-        font-size: $base-fs * 0.7;
+        font-size: 1rem;
     }
 }
 
@@ -35,39 +35,41 @@ h1, h2, h3, h4, h5, h6 {
 
 
 h1 {
-    font-size: 1.6em;
+    font-size: 1.6rem;
         @include media-query($on-palm) {
-        font-size: 1.8em;
+        font-size: 1.8rem;
     }
 }
 
 
 h2 {
-    font-size: 1.4em;
+    font-size: 1.4rem;
         @include media-query($on-palm) {
-        font-size: 1.5em;
+        font-size: 1.5rem;
     }
 }
 
 
 h3 {
-    font-size: 1.25em;
+    font-size: 1.25rem;
+    color: $brand-color;
         @include media-query($on-palm) {
-            font-size: 1.3em;
+            font-size: 1.3rem;
         }
 }
 
 
 h4, h5, h6 {
-    font-size: 1em;
+    font-size: 1rem;
         @include media-query($on-palm) {
-        font-size: 1.1em;
+        font-size: 1.1rem;
     }
 }
 
 
-p {
+p, li {
   font-size: 1.2rem;
+  font-weight: 300;
    @include media-query($on-palm) {
       font-size: 1rem;
   }
