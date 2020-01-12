@@ -15,25 +15,28 @@ CAR puts participants in an immersive and competitive environment that gives the
 
 By thinking hard about the critical business inputs of staff, time, resources, information, and processes, participants gain an understanding of how to identify opportunities for improvement within the business. They gain a dramatic appreciation for the relationship between quality, volume, and cost inside a classic business operational structure.
 
-![car program planning of efficient production](/assets/images/car-1.png "CAR Program: Planning Efficient Production")
-
-### The Planning of Efficient Production
-Participants will see and experience the result and repercussions of planning and efficiency
-
-![car program application of limited resources](/assets/images/car-2.png "CAR Program: Application of Limited Resources")
-
-### The Application of Limited Resources
-Participants will learn how to apply both human and capital resources in order to accomplish business goals
-
-![car program concept of benchmarking](/assets/images/car-3.png "CAR Program: Concept of Benchmarking")
-
-### The Concept of Benchmarking
-Participants will learn the proper measurement of performance and how performance affects a business
-
-![car program understanding causality](/assets/images/car-4.png "CAR Program: Understanding of Causality")
-
-### An Understanding of Causality
-Participants experience the relationship between decisions made, and outcomes realized
+<div style="display:flex; flex-wrap:wrap; justify-content:space-around;">
+  <div class="car-program" style="width:400px;">
+    <img src="/assets/images/car-1.png" alt="car program planning of efficient production">
+    <h3>The Planning of Efficient Production</h3>
+    <p>Participants will see and experience the result and repercussions of planning and efficiency.</p>
+  </div>
+  <div class="car-program" style="width:400px;">
+    <img src="/assets/images/car-2.png" alt="car program application of limited resources">
+    <h3>The Application of Limited Resources</h3>
+    <p>Participants will learn how to apply both human and capital resources in order to accomplish business goals.</p>
+  </div>
+  <div class="car-program" style="width:400px;">
+    <img src="/assets/images/car-3.png" alt="car program concept of benchmarking">
+    <h3>The Concept of Benchmarking</h3>
+    <p>Participants will learn the proper measurement of performance and how performance affects a business.</p>
+  </div>
+  <div class="car-program" style="width:400px">
+    <img src="/assets/images/car-4.png" alt="car program understanding causality">
+    <h3>An Understanding of Causality</h3>
+    <p>Participants experience the relationship between decisions made, and outcomes realized.</p>
+  </div>
+</div>
 
 ## No One Gets to Hide in a Team Business Workshop
 
