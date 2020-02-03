@@ -46,44 +46,6 @@ fields:
   name: header-image
   label: Header Image
   description: Header background image
-- name: authors
-  type: field_group_list
-  fields:
-  - name: field_1
-    type: text
-    config:
-      required: false
-    label: Field 1
-  - name: field_2
-    type: boolean
-    label: Field 2
-  config:
-    min: 
-    max: 
-    labelField: 
-  label: Authors
-  description: list of authors
-  hidden: false
-- name: author
-  type: field_group
-  config: {}
-  fields:
-  - name: text_field
-    type: text
-    config:
-      required: false
-    label: Text Field
-  - name: number_field
-    type: number
-    label: Number Field
-    description: ''
-    default: 0
-    required: true
-    config:
-      min: 
-      max: 
-      step: 
-  label: Author
 pages:
 - _pages/about.md
 - _pages/accounting-workshop.md
