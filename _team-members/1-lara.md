@@ -1,6 +1,10 @@
 ---
 name: Lara Azzam
 title: President, Team Business
-image: /assets/images/lara.jpg
-bio: Lara Azzam has worked in the telecommunications sector in sales and marketing since 1991. She gained extensive marketing experience including customer communications, direct acquisition and retention marketing, marketing strategy and marketing campaign performance analysis, as well as sales and sales operations. She was responsible for business process redesign and the development of a web based workflow management application for a high technology sales organization.
+image: "/assets/images/lara.jpg"
+bio: |-
+  Lara Azzam has entrepreneur in her DNA and absolutely loves startups and being part of a start-up ecosystem! Her 25+ year career consists of building ‘firsts’ for companies ranging from non-profits, small and large manufacturing companies, technology companies and universities. The companies ranged from start-ups, including her own, to established multi-billion-dollar businesses. Lara founded Team Business in 2002 which offers experiential learning programs teaching business, leadership and team dynamics.
+
+  Lara holds an MBA from The Wharton School and a Masters in International Studies from The Lauder Institute.
+
 ---
