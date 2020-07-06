@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Value Based Management
-permalink: /corporate-programs/value-based-management/
-description:
+title: Value Based Management DELETE
+permalink: "/corporate-programs/value-based-management/"
+description: 
+
 ---
 CORPORATE PROGRAMSValue Based Management<span style="color: #ffffff;">The Value Based Management program is a dynamic, hands-on business workshop that helps your employees make better decisions for your business and trains them to understand the decisions of their colleagues, resulting in improved profitability.</span><span style="color: #ffffff;">This program picks up where <a style="color: #ffffff;" href="https://www.test.teambusiness.com/corporate-programs/box-plus/">BOX+</a> left off, and takes the learning from the simulation and applies it to your real business.</span>BOOK THIS EXPERIENCE
 <p style="font-size: 24px;">Your employees learn about your business, its challenges and opportunities, and how they, as individuals or leaders can make your business more successful.</p>
