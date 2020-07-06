@@ -5,8 +5,8 @@ permalink: "/programs/car/"
 description: ''
 section-title: The CAR Program
 intro-1: Learn Critical Business Drivers
-intro-2: By thinking hard about the business inputs of staff, time, resources, information
-  and processes, participants gain an understanding of how to identify opportunities
+intro-2: By thinking hard about the business inputs of Staff, Time, Resources, Information
+  and Processes, participants gain an understanding of how to identify opportunities
   for improvement with bottom-line impact.
 header-image: "/assets/images/car-program.jpg"
 
