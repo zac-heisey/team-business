@@ -6,9 +6,10 @@ description: Team Business helps universities, colleges, high schools, businesse
   and organizations build business experience through specialized programs and workshops.
 section-title: ''
 intro-1: Our Experience Can Improve Your Learning Experience
-intro-2: Team Business believes that hands-on experiences are the best way to build
-  business experience. So our goal is to create safe places for those experiences
-  to happen.
+intro-2: Team Business offers business education programs that improve business decision
+  making through simulations. Our programs improve critical thinking, collaboration
+  and business outcomes by enabling new ways of thinking in a risk-free environment
+  with immediate impact to your business performance.
 header-image: "/assets/images/about-bg.jpg"
 
 ---
