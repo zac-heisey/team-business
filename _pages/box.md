@@ -38,7 +38,7 @@ The BOX workshop uses a hands-on, experiential simulation as a tool to improve y
 
 ![box program step 6](/assets/images/box-6.png "BOX Program Step 6")
 
-### 6) Most critically, they reflect on what happened, and learn from their mistakes and successes
+### 6) Most critically, they reflect on what happened and learn from their mistakes and successes
 
 ## No One Gets to Hide in a Team Business Workshop
 
