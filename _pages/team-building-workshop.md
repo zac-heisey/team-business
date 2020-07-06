@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Team Building Workshop
+title: Team Building Workshop LARA WORK ON THIS
 permalink: "/team-building-workshop/"
 description: ''
 section-title: Team Dynamics and Team Building Workshop
