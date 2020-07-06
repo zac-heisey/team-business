@@ -44,7 +44,7 @@ The BOX workshop uses a hands-on, experiential simulation as a tool to improve y
 
 Everyone is challenged to participate in the fun and competitive production and management of a product. Starting with a kickoff meeting, roles and processes are established. Participants are presented with the management of a number of concepts and activities.
 
-**Key Learnings:**
+### **KEY LEARNINGS**
 
 * Supply and demand forecasting
 * Competition in the “marketplace”
