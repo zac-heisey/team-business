@@ -1,8 +1,9 @@
 ---
 layout: page
-title: What We Do
-permalink: /what-we-do/
-description:
+title: What We Do DELETE
+permalink: "/what-we-do/"
+description: 
+
 ---
 WHAT WE DO<span id="colleges"></span>
 Universities, Colleges and High SchoolsTeam Business offers team-based, experiential business workshops to Universities, Colleges and High Schools. Our workshops give faculty and students a hands-on experience that enriches their education. The experiential and highly interactive nature of our programs provide the added benefit of rapid team bonding and the opportunity to observe personality traits in a safe environment. We are not a replacement for the lessons learned; we augment the classroom with practical and fundamental experience-based examples that help to make the curriculum real.<span id="corporations"></span>
