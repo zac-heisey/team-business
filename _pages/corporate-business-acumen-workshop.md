@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Corporate Business Acumen Workshop
-permalink: /corporate-business-acumen-workshop/
-description:
+title: Corporate Business Acumen Workshop DELETE
+permalink: "/corporate-business-acumen-workshop/"
+description: 
+
 ---
 OUR BUSINESS IS SEEING YOUR BUSINESS EXCEL<span style="color: #000; font-size: 45px;">BUSINESS ACUMEN TRAINING</span>
 <p style="text-align: left;">Hands-on experience based simulations accelerate business learning! Whether in the corporate, non-profit or hospital environment, accounting can be a difficult topic to learn and understand. Understanding accounting is fundamental to knowing the “business” of your business and making sound business decisions.</p>
@@ -18,5 +19,3 @@ OUR BUSINESS IS SEEING YOUR BUSINESS EXCEL<span style="color: #000; font-size: 
  	<li style="text-align: left;">Confidence in reading and interpreting your financial statements</li>
 </ul>
 <style>div.wpforms-container-full .wpforms-form input, div.wpforms-container-full .wpforms-form button, div.wpforms-container-full .wpforms-form .wpforms-page-button{background:#000!important;}</style>
-
-
