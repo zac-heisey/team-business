@@ -17,7 +17,7 @@ CIS focuses competing teams on the following **key drivers of profitability**: *
 
 ### **THE SIMULATION PROCESS**
 
-As employees of a car manufacturing division, teams are challenged with achieving targets set by management.  Competing 7-10 membere teams, fight to ensure they are not the least profitable division, which will be forced to close down.  
+As employees of a car manufacturing division, teams are challenged with achieving targets set by management.  Competing teams, fight to ensure they are not the least profitable division, which will be forced to close down.  
 
 <div style="display:flex; flex-wrap:wrap; justify-content:space-around;">
 <div class="car-program" style="width:400px;">
