@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Accounting Comes Alive
-permalink: /corporate-programs/accounting-comes-alive-plus/
-description:
+title: Accounting Comes Alive DELETE
+permalink: "/corporate-programs/accounting-comes-alive-plus/"
+description: 
+
 ---
 CORPORATE PROGRAMSAccounting Comes Alive<span style="font-weight: 400; color: #ffffff;">The Accounting Comes Alive program gives participants complete financial literacy training through real life business scenarios using our trademarked process known as Color Accounting™.</span><span style="font-weight: 400; color: #ffffff;">Accounting Comes Alive completely eliminates the guesswork and the complexity normally associated with accounting principles, so that participants of all backgrounds and knowledge levels can acquire broad-based financial literacy.</span>
 
