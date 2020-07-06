@@ -37,5 +37,5 @@ The result is your employees will use a common language, understand where they f
 
 * Confidence in reading and interpreting your financial statements
 * Use financial analysis to drive your business decision-making
-* Justify your business decisions
-* Use financials to collaborate with your colleagues and to explain the “why” of your business decisions
+* Justify business decisions
+* Use financials to collaborate with your colleagues and to explain the “why” of  business decisions
