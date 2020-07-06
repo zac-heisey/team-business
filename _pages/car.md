@@ -13,7 +13,7 @@ header-image: "/assets/images/car-program.jpg"
 ---
 **The Continous Improvement Simulation (CIS)** puts participants in an immersive and competitive environment that gives them a front-row seat to the stresses and complexities of running and operating a business.
 
-CIS focuses competing teams on the following key drivers of profitability: **Staff, Time, Resources, Information, and Processes** (STRIP). Teams make high-level strategy decisions on their main business focus: **Quality** (with price being an element of quality), **Volume** (increasing) or **Cost** (decreasing). Based on how their team is able to perform and deliver business results, they evaluate their performance against the STRIP indicators and continuously improve through analysis and modification.
+CIS focuses competing teams on the following **key drivers of profitability**: **Staff, Time, Resources, Information, and Processes** (STRIP). Teams make high-level strategy decisions on their main business focus: **Quality** (with price being an element of quality), **Volume** (increasing) or **Cost** (decreasing). Based on how their team is able to perform and deliver business results, they evaluate their performance against the STRIP indicators and continuously improve through analysis and modification.
 
 ### KEY LEARNINGS
 
