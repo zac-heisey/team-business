@@ -17,7 +17,7 @@ CIS focuses competing teams on the following **key drivers of profitability**: *
 
 ### **THE SIMULATION PROCESS**
 
-As employees of a car manufacturing division, teams are challenged with achieving targets set by management.  Competing teams, fight to ensure they are not the least profitable division, which will be forced to close down.  
+As employees of a car manufacturing division, teams are challenged with achieving targets set by management.  Competing teams, fight to ensure they are not the least profitable division, which will be forced to close down.
 
 <div style="display:flex; flex-wrap:wrap; justify-content:space-around;">
 <div class="car-program" style="width:400px;">
@@ -44,7 +44,9 @@ As employees of a car manufacturing division, teams are challenged with achievin
 
 ## No One Gets to Hide in a Team Business Workshop
 
-Participants will inevitably discover things about their behaviour under stress and their innate abilities, all cultivated in a safe and supportive learning environment. Participants will have an intense--yet fun--experience whose impact goes beyond just learning, and into self-discovery. SIMULATION KEY LEARNINGS
+When participants are under pressure to perform and make good business decisions, they are very energized and have a great deal of fun in the process. This making the learning experience that much more memorable and therefore, that much more valuable to the individuals and your company.
+
+### SIMULATION KEY LEARNINGS
 
 Participants gain an understanding of how to identify opportunities for improvement within the business with a direct impact on profitability. They gain a dramatic appreciation for the relationship between quality, volume, and cost inside a classic business operational structure.
 
@@ -58,7 +60,7 @@ Participants gain an understanding of how to identify opportunities for improvem
 
 Having completed the simulation, participants are able to translate the learning to the challenges faced by your business.  They will have a keen ability to identify and define shortcoming and opportunities within the business.
 
-**Staff will be able to:** 
+**Staff will be able to:**
 
 * Pinpoint which key business drivers, if focused upon, is likely to produce the greatest increase in profitability
 * identify which inputs they are to acquire more of, or use better, that will produce the most value in pursuit of improvement objectives regarding Quality, Volume or Cost
