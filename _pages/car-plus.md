@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Car+ Program
-permalink: /corporate-programs/car-plus/
-description:
+title: Car+ Program DELETE
+permalink: "/corporate-programs/car-plus/"
+description: 
+
 ---
 CORPORATE PROGRAMSThe CAR+ Program<span style="color: #ffffff;">The CAR+ Simulation teaches participants basic business skills by focusing on how to continuously improve by using the operational processes of a large-scale manufacturing business.</span><span style="color: #ffffff;">By thinking hard about the business inputs of staff, time, resources, information, and processes, participants gain an understanding of how to identify opportunities for improvement within the business. They gain a dramatic appreciation for the relationship between quality, volume, and cost inside a classic business operational structure.</span>BOOK THIS EXPERIENCE
 <p style="font-size: 24px;">CAR+ puts participants in an immersive and competitive environment that gives them a front-row seat to the stresses and complexities of running &amp; operating every aspect of a business.</p>
