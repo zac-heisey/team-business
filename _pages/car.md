@@ -56,6 +56,15 @@ Participants gain an understanding of how to identify opportunities for improvem
 
 ### APPLICATION BACK TO THE BUSINESS
 
+Having completed the simulation, participants are able to translate the learning to the challenges faced by your business.  They will have a keen ability to identify and define shortcoming and opportunities within the business.
+
+**Staff will be able to:** 
+
+* Pinpoint which key business drivers, if focused upon, is likely to produce the greatest increase in profitability
+* identify which inputs they are to acquire more of, or use better, that will produce the most value in pursuit of improvement objectives regarding Quality, Volume or Cost
+* Better understand the impact that input behaviour and performance have on the bottom-line
+* 
+
 ### PROGRAM SIZE
 
 Teams typically have 7-10 members each, and a workshop can be up to 120 people. Participants of all disciplines can participate. The program can be run in 4 hours in a single session.
