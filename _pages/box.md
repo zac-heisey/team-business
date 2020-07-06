@@ -58,7 +58,7 @@ Everyone is challenged to participate in the fun and competitive production and
 
 ### APPLICATION BACK TO THE BUSINESS
 
-All the learning can then be applied to real challenges in the business, using the value-chain as the foundation for applied learning process.
+All the learning can then be applied to real challenges in the business, using the value-chain as the foundation for making business changes with bottom-line impact.
 
 ### PROGRAM SIZE
 
