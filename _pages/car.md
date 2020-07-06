@@ -63,7 +63,6 @@ Having completed the simulation, participants are able to translate the learning
 * Pinpoint which key business drivers, if focused upon, is likely to produce the greatest increase in profitability
 * identify which inputs they are to acquire more of, or use better, that will produce the most value in pursuit of improvement objectives regarding Quality, Volume or Cost
 * Better understand the impact that input behaviour and performance have on the bottom-line
-* 
 
 ### PROGRAM SIZE
 
