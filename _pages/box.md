@@ -16,6 +16,8 @@ The BOX workshop uses a hands-on, experiential simulation as a tool to improve y
 
 ### **THE SIMULATION PROCESS**
 
+Everyone is challenged to participate in the fun and competitive production and management of a product. Starting with a kickoff meeting, roles and processes are established. Participants are presented with the management of a number of concepts and activities.
+
 ![box program step 1](/assets/images/box-1.png "BOX Program Step 1")
 
 ### 1) Your cross-functional teams receive a business assignment
