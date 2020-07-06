@@ -5,9 +5,9 @@ permalink: "/programs/car/"
 description: ''
 section-title: The CAR Program
 intro-1: Learn Critical Business Drivers
-intro-2: The CAR Simulation teaches participants basic business skills by focusing
-  on how to continuously improve by using the operational processes of a large-scale
-  manufacturing business.
+intro-2: By thinking hard about the business inputs of staff, time, resources, information
+  and processes, participants gain an understanding of how to identify opportunities
+  for improvement with bottom-line impact.
 header-image: "/assets/images/car-program.jpg"
 
 ---
