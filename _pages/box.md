@@ -58,7 +58,7 @@ Everyone is challenged to participate in the fun and competitive production and
 
 ### APPLICATION BACK TO THE BUSINESS
 
-There is a 
+All the learning can then be applied to real challenges in the business, using the value-chain as the foundation for applied learning process.
 
 ### PROGRAM SIZE
 
