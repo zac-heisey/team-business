@@ -44,9 +44,7 @@ As employees of a car manufacturing division, teams are challenged with achievin
 
 ## No One Gets to Hide in a Team Business Workshop
 
-Participants will inevitably discover things about their behavior under stress and their innate abilities, all cultivated in a safe and supportive learning environment. Participants will have an intense--yet fun--experience whose impact goes beyond just learning, and into self discovery. Students come away with many important experiences.
-
-### SIMULATION KEY LEARNINGS
+Participants will inevitably discover things about their behavior under stress and their innate abilities, all cultivated in a safe and supportive learning environment. Participants will have an intense--yet fun--experience whose impact goes beyond just learning, and into self discovery. SIMULATION KEY LEARNINGS
 
 Participants gain an understanding of how to identify opportunities for improvement within the business with a direct impact on profitability. They gain a dramatic appreciation for the relationship between quality, volume, and cost inside a classic business operational structure.
 
