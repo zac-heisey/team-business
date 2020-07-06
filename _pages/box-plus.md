@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Box+ Program
-permalink: /corporate-programs/box-plus/
-description:
+title: Box+ Program DELETE
+permalink: "/corporate-programs/box-plus/"
+description: 
+
 ---
 CORPORATE PROGRAMSThe BOX+ Program<span style="color: #ffffff;">The BOX+ entrepreneurship program is a carefully constructed full or half day entrepreneurship mindset training that gives participants–both intellectually and emotionally–the experience of what it really takes to start and build a business.</span><span style="color: #ffffff;">Participants are led through an imaginary 4 to 6 months in the development of a new business and are faced with competition from other groups all developing products in the same market. Leaders will rise to the surface but quickly find that team cooperation trumps individual brilliance.</span>BOOK THIS EXPERIENCE
 <p style="font-size: 24px;">BOX+ is a fast-paced competitive environment, specifically crafted for the business world, that presents the importance of communication, teamwork, and listening skills. It is an intense, but exciting learning experience that is not soon forgotten.</p>
