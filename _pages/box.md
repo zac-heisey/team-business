@@ -7,9 +7,9 @@ section-title: The BOX Program
 header-image: "/assets/images/box-program.jpg"
 intro-1: Training Entrepreneurs
 intro-2: Transform your people from thinking like an ‘employee’ to thinking like a
-  ‘business owner’.  The BOX entrepreneurship program is a carefully constructed full
-  or half-day entrepreneurship training that will teach participants–both intellectually
-  and emotionally–what it really takes to start and build a business.
+  ‘business owner’.  The BOX entrepreneurship program is a carefully constructed entrepreneurship
+  training that will teach participants–both intellectually and emotionally–what it
+  really takes to start and build a business.
 
 ---
 BOX is a fast-paced competitive environment that forces everyone involved to powerfully appreciate the importance of communication, teamwork, and listening skills. It is an intense, but exciting learning experience that is not soon forgotten.
