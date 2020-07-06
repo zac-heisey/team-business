@@ -48,7 +48,7 @@ Participants will inevitably discover things about their behavior under stress a
 
 ### KEY LEARNINGS
 
-Participants gain an understanding of how to identify opportunities for improvement within the business with a direct impact on profitability. They gain a dramatic appreciation for the relationship between quality, volume, and cost inside a classic business operational structure.**Key Learnings:**
+Participants gain an understanding of how to identify opportunities for improvement within the business with a direct impact on profitability. They gain a dramatic appreciation for the relationship between quality, volume, and cost inside a classic business operational structure.
 
 * Business drivers: quality, volume and cost
 * How changing these drivers affects profitability
