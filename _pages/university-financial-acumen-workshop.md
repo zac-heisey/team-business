@@ -1,8 +1,9 @@
 ---
 layout: page
-title: University Financial Acumen Workshop
-permalink: /university-financial-acumen-workshop/
-description:
+title: University Financial Acumen Workshop - DELETE
+permalink: "/university-financial-acumen-workshop/"
+description: 
+
 ---
 OUR BUSINESS IS SEEING YOUR STUDENTS EXCEL<span style="color: #000; font-size: 45px;">GO FROM ZERO KNOWLEDGE TO INTERPRETING FINANCIAL STATEMENTS IN JUST ONE DAY </span>
 <p style="text-align: left;">In our <strong>Accounting Comes Alive</strong> seminar, participants are presented with real business scenarios, which must be analyzed using standard accounting principles and terminology.  <strong>Color Accounting</strong> is a revolutionary new way of quickly and easily understanding financial information in one day. It uses diagrams and logical colors to show graphically how accounting works – it builds a potent model of how business works. The result? Your students go from zero financial acumen to interpreting real financial statements in just one day.</p>
@@ -17,5 +18,3 @@ OUR BUSINESS IS SEEING YOUR STUDENTS EXCEL<span style="color: #000; font-size: 4
  	<li style="text-align: left;">Business and Financial Communication</li>
 </ul>
 <style>div.wpforms-container-full .wpforms-form input, div.wpforms-container-full .wpforms-form button, div.wpforms-container-full .wpforms-form .wpforms-page-button{background:#000!important;}</style>
-
-
