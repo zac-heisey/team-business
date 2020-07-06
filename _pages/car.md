@@ -11,9 +11,11 @@ intro-2: By thinking hard about the business inputs of Staff, Time, Resources, I
 header-image: "/assets/images/car-program.jpg"
 
 ---
-The Continous Improvement Simulation puts participants in an immersive and competitive environment that gives them a front-row seat to the stresses and complexities of running & operating a business.
+The Continous Improvement Simulation (CIS) puts participants in an immersive and competitive environment that gives them a front-row seat to the stresses and complexities of running and operating a business.
 
-By thinking hard about the critical business inputs of staff, time, resources, information, and processes, participants gain an understanding of how to identify opportunities for improvement within the business. They gain a dramatic appreciation for the relationship between quality, volume, and cost inside a classic business operational structure.
+CIS focuses competing teams on the following key drivers of profitability: **Staff, Time, Resources, Information, and Processes** (STRIP). Teams make high-level strategy decisions on their main business focus: **Quality** (with price being an element of quality), **Volume** (increasing) or **Cost** (decreasing).
+
+ participants gain an understanding of how to identify opportunities for improvement within the business. They gain a dramatic appreciation for the relationship between quality, volume, and cost inside a classic business operational structure.
 
 <div style="display:flex; flex-wrap:wrap; justify-content:space-around;">
 <div class="car-program" style="width:400px;">
