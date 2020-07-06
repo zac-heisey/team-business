@@ -54,4 +54,6 @@ Everyone is challenged to participate in the fun and competitive production and
 * How the engagement of the entire team is needed to achieve stronger business results
 * How to think of the whole business and not just your silo
 
+### PROGRAM SIZE
+
 Teams typically have 4-5 members each, and a workshop is ideally between 16-30 people. Participants of all disciplines can participate.
