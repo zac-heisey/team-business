@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Corporate Accounting Workshop
-permalink: /corporate-accounting-workshop/
-description:
+title: Corporate Accounting Workshop DELETE
+permalink: "/corporate-accounting-workshop/"
+description: 
+
 ---
 OUR BUSINESS IS SEEING YOUR BUSINESS EXCEL<span style="color: #000; font-size: 45px;">UNDERSTANDING ACCOUNTING IS UNDERSTANDING BUSINESS</span>
 <p style="text-align: left;">Complete financial acumen training with real life business scenarios! Whether in the corporate, non-profit or hospital environment, accounting can be a difficult topic to learn and understand. Understanding accounting is fundamental to knowing the “business” of your business and making sound business decisions.</p>
@@ -19,5 +20,3 @@ OUR BUSINESS IS SEEING YOUR BUSINESS EXCEL<span style="color: #000; font-size: 
  	<li style="text-align: left;">Business and Financial Communication</li>
 </ul>
 <style>div.wpforms-container-full .wpforms-form input, div.wpforms-container-full .wpforms-form button, div.wpforms-container-full .wpforms-form .wpforms-page-button{background:#000!important;}</style>
-
-
