@@ -39,3 +39,5 @@ The result is your employees will use a common language, understand where they f
 * Use financial analysis to drive your business decision-making
 * Justify business decisions
 * Use financials to collaborate with your colleagues and to explain the “why” of  business decisions
+
+Participants will have an intense - yet fun experience whose impact goes beyond learning and into discovery.
