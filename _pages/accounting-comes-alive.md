@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Accounting Comes Alive
-permalink: /programs/accounting-comes-alive/
-description:
+title: Accounting Comes Alive DELETE
+permalink: "/programs/accounting-comes-alive/"
+description: 
+
 ---
 Accounting Comes Alive<span style="color: #ffffff;">The Accounting Comes Alive program gives participants complete financial literacy training through real life business scenarios using our trademarked process known as Color Accounting™.</span>
 
