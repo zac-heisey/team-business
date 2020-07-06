@@ -3,7 +3,7 @@ layout: page
 title: Car Program
 permalink: "/programs/car/"
 description: ''
-section-title: The CAR Program - Continuous Improvement Simulation
+section-title: The CAR Program - Continuous Improvement Simulation (CIS)
 intro-1: Learn Critical Business Drivers
 intro-2: By thinking hard about the business inputs of Staff, Time, Resources, Information
   and Processes, participants gain an understanding of how to identify opportunities
