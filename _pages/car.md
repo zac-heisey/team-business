@@ -15,10 +15,6 @@ header-image: "/assets/images/car-program.jpg"
 
 CIS focuses competing teams on the following **key drivers of profitability**: **Staff, Time, Resources, Information, and Processes** (STRIP). Teams make high-level strategy decisions on their main business focus: **Quality** (with price being an element of quality), **Volume** (increasing) or **Cost** (decreasing). Based on how their team is able to perform and deliver business results, they evaluate their performance against the STRIP indicators and continuously improve through analysis and modification.
 
-### KEY LEARNINGS
-
- Participants gain an understanding of how to identify opportunities for improvement within the business with a direct impact on profitability. They gain a dramatic appreciation for the relationship between quality, volume, and cost inside a classic business operational structure.
-
 ### **THE SIMULATION PROCESS**
 
 <div style="display:flex; flex-wrap:wrap; justify-content:space-around;">
@@ -48,7 +44,9 @@ CIS focuses competing teams on the following **key drivers of profitability**: *
 
 Participants will inevitably discover things about their behavior under stress and their innate abilities, all cultivated in a safe and supportive learning environment. Participants will have an intense--yet fun--experience whose impact goes beyond just learning, and into self discovery. Students come away with many important experiences.
 
-**Key Learnings:**
+### KEY LEARNINGS
+
+ Participants gain an understanding of how to identify opportunities for improvement within the business with a direct impact on profitability. They gain a dramatic appreciation for the relationship between quality, volume, and cost inside a classic business operational structure.**Key Learnings:**
 
 * Business drivers: quality, volume and cost
 * How changing these drivers affects profitability
