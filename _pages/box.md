@@ -46,12 +46,12 @@ Everyone is challenged to participate in the fun and competitive production and
 
 ### **KEY LEARNINGS**
 
-* Supply and demand forecasting
-* Competition in the “marketplace”
-* The impact of technology
-* The role of advertising
-* The impact of quality (or lack thereof)
-* Looking at the bottom line (profitability)
-* The challenge of the future, planning for the unforeseen
+* The importance of understanding the customer and their needs (internal and external)
+* The importance of using this understanding to influence your vendors or internal suppliers
+* How to adapt in a continuously changing environment
+* How to troubleshoot and think creatively
+* How to influence others
+* How the engagement of the entire team is needed to achieve stronger business results
+* How to think of the whole business and not just your silo
 
 Teams typically have 4-5 members each, and a workshop is ideally between 16-30 people. Participants of all disciplines can participate.
