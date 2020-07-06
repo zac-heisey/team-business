@@ -1,8 +1,9 @@
 ---
 layout: page
-title: University Team Building
-permalink: /universityl-teambuilding/
-description:
+title: University Team Building DELETE
+permalink: "/universityl-teambuilding/"
+description: 
+
 ---
 TEACH TEAMWORK THROUGH FAST PACED, DYNAMIC COMPETITION<span style="color: #000; font-size: 45px;">LEADERSHIP, TEAMWORK, STRATEGY AND EXECUTION</span>
 <p style="text-align: left;">The <strong>TEAM workshop</strong> teaches teamwork skills and creates bonds in a group that last beyond the workshop.  Participants learn not only about the importance of teamwork and communication, but also their own strengths and limitations in intense situations. The emotional power of these interactions has a powerful and lasting effect and is for many, a road to increased self-awareness and self- confidence.</p>
@@ -16,5 +17,3 @@ TEACH TEAMWORK THROUGH FAST PACED, DYNAMIC COMPETITION<span style="color: #000; 
  	<li style="text-align: left;">The experience breaks down barriers and encourages cooperation beyond the workshop</li>
 </ul>
 <style>div.wpforms-container-full .wpforms-form input, div.wpforms-container-full .wpforms-form button, div.wpforms-container-full .wpforms-form .wpforms-page-button{background:#000!important;}</style>
-
-
