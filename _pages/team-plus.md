@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Team+ Program
-permalink: /corporate-programs/team-plus/
-description:
+title: Team+ Program DELETE
+permalink: "/corporate-programs/team-plus/"
+description: 
+
 ---
 CORPORATE PROGRAMSThe TEAM+ Program<span style="color: #ffffff;">The TEAM+ workshop teaches teamwork skills and creates bonds in a group that often last beyond the workshop. In this simulation, business competition among the teams is structured to be particularly intense and dynamic. As the workshop progresses, new business challenges put competitors under extreme time pressure, allowing teams to observe behaviors under stress.</span><span style="color: #ffffff;">Participants learn not only about the importance of teamwork and communication, but also their own strengths and limitations in intense situations. The emotional power of these interactions has a powerful and lasting effect and is for many, a road to increased self awareness and self confidence.</span>BOOK THIS EXPERIENCE
 <p style="font-size: 24px;">Participants get a clear view into how they and their peers behave in a “pressure-cooker” environment.</p>
