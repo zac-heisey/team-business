@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Strategy Workshop MBA in a Day
+title: Strategy Workshop MBA in a Day LARA WORK ON THIS ONE
 permalink: "/strategy-workshop-mba-in-a-day/"
 description: ''
 section-title: MBA in a Day - Strategy Workshop
