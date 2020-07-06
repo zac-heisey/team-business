@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Corporate Improve Employee Decision Making
-permalink: /corporate-employee-decision-making/
-description:
+title: Corporate Improve Employee Decision Making DELETE
+permalink: "/corporate-employee-decision-making/"
+description: 
+
 ---
 OUR BUSINESS IS SEEING YOUR EMPLOYEES EXCEL<span style="color: #000; font-size: 45px;">WHAT IF YOUR EMPLOYEES ACTED </span>
 
@@ -20,5 +21,3 @@ OUR BUSINESS IS SEEING YOUR EMPLOYEES EXCEL<span style="color: #000; font-size:
  	<li style="text-align: left;">Finally, they take the plans back to the workplace and implement and track them</li>
 </ul>
 <style>div.wpforms-container-full .wpforms-form input, div.wpforms-container-full .wpforms-form button, div.wpforms-container-full .wpforms-form .wpforms-page-button{background:#000!important;}</style>
-
-
