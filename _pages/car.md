@@ -17,9 +17,9 @@ CIS focuses competing teams on the following **key drivers of profitability**: *
 
 ### KEY LEARNINGS
 
- Participants gain an understanding of how to identify opportunities for improvement within the business. They gain a dramatic appreciation for the relationship between quality, volume, and cost inside a classic business operational structure.
+ Participants gain an understanding of how to identify opportunities for improvement within the business with a direct impact on profitabilty. They gain a dramatic appreciation for the relationship between quality, volume, and cost inside a classic business operational structure.
 
-**THE SIMULATION PROCESS**
+### **THE SIMULATION PROCESS**
 
 <div style="display:flex; flex-wrap:wrap; justify-content:space-around;">
 <div class="car-program" style="width:400px;">
