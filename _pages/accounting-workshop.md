@@ -4,9 +4,10 @@ title: Accounting Workshop
 permalink: "/accounting-workshop/"
 description: ''
 header-image: "/assets/images/accounting-workshop.jpg"
-intro-2: Whether in the corporate, non-profit or hospital environment, accounting
-  can be a difficult topic to learn and understand. Understanding accounting is fundamental
-  to knowing the “business” of your business and making sound business decisions.
+intro-2: Whether in the corporate, non-profit, hospital or university environment,
+  accounting can be a difficult topic to learn and understand. Understanding accounting
+  is fundamental to knowing the “business” of your business and making sound business
+  decisions.
 intro-1: Critial Financial Accumen
 section-title: Accounting Workshop
 
