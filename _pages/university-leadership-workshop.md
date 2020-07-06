@@ -1,8 +1,9 @@
 ---
 layout: page
-title: University Leadership Workshop
-permalink: /university-leadership-workshop/
-description:
+title: University Leadership Workshop DELETE
+permalink: "/university-leadership-workshop/"
+description: 
+
 ---
 OUR BUSINESS IS SEEING YOUR STUDENTS BECOME LEADERS<span style="color: #000; font-size: 45px;">ENRICH YOUR LEADERSHIP TRAINING WITH HANDS-ON,
 INTERACTIVE, LEARNING EXPERIENCES</span>
@@ -17,5 +18,3 @@ INTERACTIVE, LEARNING EXPERIENCES</span>
  	<li style="text-align: left;">The experience breaks down barriers and encourages cooperation beyond the workshop</li>
 </ul>
 <style>div.wpforms-container-full .wpforms-form input, div.wpforms-container-full .wpforms-form button, div.wpforms-container-full .wpforms-form .wpforms-page-button{background:#000!important;}</style>
-
-
