@@ -26,6 +26,7 @@ The result is your employees will use a common language, understand where they f
 
 * A clear appreciation that accounting is fundamental in understanding business
 * And therefore how this helps make sound business decisions
+* The process and concepts involved in Financial Analysis
 * Interpreting balance sheets and income statements
 * Profitability and Loss
 * Management Ratios
