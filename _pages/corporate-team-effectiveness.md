@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Corporate Improve Team Effectiveness
-permalink: /corporate-team-effectiveness/
-description:
+title: Corporate Improve Team Effectiveness DELETE
+permalink: "/corporate-team-effectiveness/"
+description: 
+
 ---
 TEACH TEAMWORK THROUGH FAST PACED, DYNAMIC COMPETITION<span style="color: #000; font-size: 45px;">CORPORATE TEAM BUILDING</span>
 <p style="text-align: left;">The <strong>TEAM + team effectiveness</strong> <strong>workshop</strong> is a full or half day group simulation designed to expose participants to how team dynamics in the workplace strongly impact business relationships and performance.</p>
@@ -18,5 +19,3 @@ TEACH TEAMWORK THROUGH FAST PACED, DYNAMIC COMPETITION<span style="color: #000; 
  	<li style="text-align: left;">Participants learn not only about the importance of teamwork, communication and team dynamics in the work place, but also their own strengths and limitations in intense situations. The emotional power of these interactions has a powerful and lasting effect and is for many a road to increased self-awareness and self-confidence.</li>
 </ul>
 <style>div.wpforms-container-full .wpforms-form input, div.wpforms-container-full .wpforms-form button, div.wpforms-container-full .wpforms-form .wpforms-page-button{background:#000!important;}</style>
-
-
