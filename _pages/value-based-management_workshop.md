@@ -14,23 +14,35 @@ header-image: "/assets/images/accounting-workshop.jpg"
 
 Inspire team members to utilize C-Suite thinking by learning how to use financial tools to develop innovative plans, benchmark against the competition and drive results.
 
-In **VBM IN ACTION** (Value Based Management) participants will have the opportunity to analyze how businesses work – and how to use VBM modeling to optimize business success.
+In **VBM IN ACTION** (Value Based Management) participants will have the opportunity to analyze how businesses work – and how to use VBM modelling to optimize business success.
 
 It is an approach to management that aligns a company’s overall aspirations, analytical techniques, management processes and value-based performance metrics to focus management decision-making on the key drivers of value.
 
-As entrepreneurs, participants start and run their own box making businesses for several months in a one-day experience.
+### THE SIMULATION PROCESS
+
+As entrepreneurs, participants start and run their own box-making businesses for several months in a one-day experience.
 
 Throughout the experience, participants learn 10 theories and how to apply them in their thinking and decision-making process. Then using the business tools and VBM model of thinking, staff are enabled to identify value-creating ideas and solutions for their business.
 
-Your staff will learn to view a business more holistically and not simply functionally. They will learn how to use financial tools (income and cashflow statements) to evaluate their business' performance, as well as the competitions'.
+Your staff will learn to view a business more holistically and not simply functionally. They will learn how to use financial tools (income and cash flow statements) to evaluate their business' performance, as well as the competitions'.
+
+### THE APPLICATION
 
 Employees take the lessons from the Value-Based Management Training and, guided by the facilitator, apply them to their own value-adding roles in the organization. They learn how to view the business holistically and not just from their department or individual vantage point. They learn the language of business.
 
 Armed with this knowledge, employees are empowered to drive bottom-line, meaningful impact for the business – in this employee empowerment training program.
 
-### In the corporate or non profit environment:
+### VALUE MODELLING & VALUE BASED PERFORMANCE MEASUREMENT
 
-**Here’s how to benefit from Value-Based Management Training:**
+**STEP 1 | VALUE MODELING**
+
+WHAT ARE OUR MAIN **VALUE DRIVERS** AND HOW CAN WE OPTIMIZE THEM? WHAT ARE OUR MAIN **VALUE DESTROYERS** AND HOW CAN WE MINIMIZE THEM?
+
+WHAT ARE OUR MAIN **VALUE CONSTRAINTS** AND HOW CAN WE MANAGE THEM? **STEP 2 | VALUE-BASED PERFORMANCE MEASUREMENT**
+
+HOW WILL WE MEASURE OUR PERFORMANCE OF **VALUE DRIVERS, DESTROYERS** AND **CONSTRAINTS?** WHAT ROLE WILL MANAGEMENT PLAY IN IN SUPPORTING A VBM APPROACH?
+
+### KEY LEARNINGS
 
 * The ability to contribute to, and the willingness to embrace change
 * A shared language with management to facilitate business-like communications
