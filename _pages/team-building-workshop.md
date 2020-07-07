@@ -20,7 +20,7 @@ In this simulation, business competition among the teams is structured to be par
 
 ### THE APPLICATION
 
-Participants learn not only about the importance of teamwork, communication and leadership but also their own strengths and limitations in intense situations. The emotional power of these
+Participants learn not only about the importance of teamwork and communication but also their own strengths and limitations in intense situations. The emotional power of these interactions has a powerful and lasting effect and is for many, a road to increased self-awareness and self-confidence.
 
 ### Why run the TEAM+ Team Building Workshop in the Corporate or Non-Profit Environment?
 
