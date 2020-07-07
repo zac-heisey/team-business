@@ -23,7 +23,7 @@ Over a series of five business cycles, they are presented with a range of strate
 
 ### Part Two: The Application to your Company
 
-Part two is designed to ensure that learning translates into bottom-line impact for your business. It enables participants to now use the theories and decision-making processes they have acquired in relation to their individual work situations.
+Part two is designed to ensure that learning translates into bottom-line impact for your business. It enables participants to now use the tools they have acquired in relation to their own work decision-making processes.
 
 ### Why run the Classic 10 Workshop?
 
