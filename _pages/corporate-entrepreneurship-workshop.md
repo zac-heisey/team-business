@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Corporate Entrepreneurship Workshop
-permalink: /corporate-entrepreneurship-workshop/
-description:
+title: Corporate Entrepreneurship Workshop DELETE
+permalink: "/corporate-entrepreneurship-workshop/"
+description: 
+
 ---
 OUR BUSINESS IS SEEING YOUR EMPLOYEES EXCEL<span style="color: #000; font-size: 45px;">GIVE STAFF THE TOOLS TO MAKE DECISIONS </span>
 
@@ -22,5 +23,3 @@ OUR BUSINESS IS SEEING YOUR EMPLOYEES EXCEL<span style="color: #000; font-size:
  	<li style="text-align: left;">Participants implement and track these lessons in the workplace</li>
 </ul>
 <style>div.wpforms-container-full .wpforms-form input, div.wpforms-container-full .wpforms-form button, div.wpforms-container-full .wpforms-form .wpforms-page-button{background:#000!important;}</style>
-
-
