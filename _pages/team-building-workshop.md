@@ -24,7 +24,7 @@ Participants learn not only about the importance of teamwork and communication b
 
 ### WHY RUN THIS SIMULATION?
 
-During the team-building workshop, employees gain valuable personal leadership and team working lessons, which they can apply when they return to their organization.
+During the program, employees gain valuable personal leadership and team working lessons, which they can apply when they return to their organization.
 
 * Break down functional silos
 * Encourage cooperation across departments
