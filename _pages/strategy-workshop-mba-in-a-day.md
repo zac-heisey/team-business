@@ -23,9 +23,11 @@ Over a series of five business cycles, they are presented with a range of strate
 
 Part two is designed to ensure that learning translates into bottom-line impact for your business. It enables participants to now use the theories and decision-making processes they have acquired in relation to their individual work situations.
 
-## THE SIMULATION PROCESS
+THE SIMULATION PROCESS
 
 ## THE APPLICATION
+
+## 
 
 ### Why run the Classic 10 Workshop?
 
