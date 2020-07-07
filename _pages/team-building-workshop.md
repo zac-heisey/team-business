@@ -10,7 +10,7 @@ intro-2: 'The TEAM program exposes participants to how team dynamics in the work
 header-image: "/assets/images/accounting-workshop.jpg"
 
 ---
-The TEAM program focuses on behavioural dynamics, teamwork skills and creating bonds. In this simulation, business competition among the teams is structured to be particularly intense and dynamic. As the workshop progresses, new business challenges place participants under extreme time and challenge pressures, allowing individual behaviours to rise to the surface. This creates an excellent environment for behaviours to be observed and a platform for leadership coaching.
+The TEAM program focuses on behavioural dynamics, teamwork skills and creating bonds. 
 
 In this “safe” learning environment, peoples’ true personalities are exposed and they learn how to enhance their strengths and work on their weaknesses, in a non-threatening environment. This creates a great environment for behaviours to be observed and a platform for leadership coaching.
 
@@ -28,7 +28,11 @@ Participants learn not only about the importance of teamwork, communication and 
 
 ### THE SIMULATION
 
+In this simulation, business competition among the teams is structured to be particularly intense and dynamic. As the workshop progresses, new business challenges place participants under extreme time and challenge pressures, allowing individual behaviours to rise to the surface. This creates an excellent environment for behaviours to be observed and a platform for leadership coaching.
+
 ### THE APPLICATION
+
+Participants learn not only about the importance of teamwork, communication and leadership but also their own strengths and limitations in intense situations. The emotional power of these
 
 ### **Key Learnings**
 
