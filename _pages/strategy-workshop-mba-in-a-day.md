@@ -3,7 +3,7 @@ layout: page
 title: Strategy Workshop MBA in a Day LARA WORK ON THIS ONE
 permalink: "/strategy-workshop-mba-in-a-day/"
 description: ''
-section-title: MBA in a Day - Strategy Workshop
+section-title: Strategic Thinking Workshop
 intro-1: The Classic 10 Program Workshop is Like Getting an MBA in a Day!
 intro-2: Participants engage in a two-part program – the first an intellectually challenging,
   high level strategic simulation and the second part guides them through how to apply
