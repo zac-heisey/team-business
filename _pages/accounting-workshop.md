@@ -9,7 +9,7 @@ intro-2: Whether in the corporate, non-profit, hospital or university environmen
   is fundamental to knowing the “business” of your business and making sound business
   decisions.
 intro-1: Critial Financial Accumen
-section-title: Accounting Workshop
+section-title: ACCOUNTING WORKSHOP
 
 ---
 ## Accounting Comes Alive helps participants understand the basis for sound financial decision making, which drives business decisions.
