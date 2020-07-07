@@ -3,7 +3,7 @@ layout: page
 title: Box Program
 permalink: "/programs/box/"
 description: ''
-section-title: ENTRENEURSHIP WORKSHOP
+section-title: ENTRENEURSHIP SIMULATION
 header-image: "/assets/images/box-program.jpg"
 intro-1: Training Entrepreneurs
 intro-2: Transform your people from thinking like an ‘employee’ to thinking like a
