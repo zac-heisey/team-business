@@ -27,6 +27,10 @@ Part two is designed to ensure that learning translates into profit maximization
 
 ### Why run the Classic 10 Workshop?
 
+Prior to running the program, company-specific case studies (challenges) are identified. The tools from the simulation are applied by the teams to these company case studies. It is our experience that real opportunities and solutions are identified, analyzed and action plans initiated. In addition, during the process of discussing the cases, the participants will move from an operational/problem orientation to a strategic/opportunity one.
+
+Finally, participants are better prepared to use the tools to explain their decisions and the underlying logic of these to clients, superiors, subordinates and suppliers.
+
 **Participants:**
 
 * Gain an applied understanding of classic business theories
@@ -36,3 +40,25 @@ Part two is designed to ensure that learning translates into profit maximization
 * Learn how to make decisions for your own function that align with corporate strategy
 * Move from an operational mode of thinking to that of a strategic one
 * Learn how to effectively communicate decisions to others
+
+### The Classic 10 Theories
+
+ 1. The Business Decision-Making Cycle
+
+2\. The Profit Triangle
+
+3\. Demand and Supply Theory
+
+4\. Porter’s Sub Sector Theory
+
+5\. The Product Life Cycle
+
+6\. The Four P’s of Marketing
+
+7\. Marketing Segmentation Theory
+
+8\. Product Differentiation Theory
+
+9\. Valency Theory
+
+10\. Value Chain Analysis
