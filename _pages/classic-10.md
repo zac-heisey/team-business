@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Classic 10 Program
-permalink: /programs/classic-10/
-description:
+title: Classic 10 Program DELETE
+permalink: "/programs/classic-10/"
+description: 
+
 ---
 The Classic 10 Program<span style="color: #ffffff;">Participants engage in a highly challenging, competitive business simulation. Over a series of five business cycles, they are presented with a range of strategic challenges, taught the relevant business theory and required to make business decisions, using the theories provided.</span><span style="color: #ffffff;">Working in teams, they face the challenges, make decisions, implement them, see the results, and reflect on their performance.</span>BOOK THIS EXPERIENCE
 <p style="font-size: 24px; text-align: left;">10 classic business theories and demonstrations on how to use them to structure your business decision making process and result in bottom-line impact.</p>
