@@ -43,13 +43,12 @@ Finally, participants are better prepared to use the tools to explain their deci
 
 ### The Classic 10 Theories
 
- 1. The Business Decision-Making Cycle
- 2. THE PROFIT TRIANGLE
- 3. Demand and Supply Theory
- 4. Porter’s Sub Sector Theory
- 5. The Product Life Cycle
- 6. The Four P’s of Marketing
- 7. Marketing Segmentation Theory
- 8. Product Differentiation Theory
- 9. Valency Theory
-10. Value Chain Analysis
+1. THE BUSINESS DECISION-MAKING CYCLE
+2. THE PROFIT TRIANGLE
+3. DEMAND AND SUPPLY THEORY
+4. PORTER'S SUB SECTOR THEORY
+5. THE PRODUCT LIFE CYCLE
+6. THE FOUR P'S OF MARKETING
+7. MARKET SEGMENTATION THEORY
+8. PRODUCT DIFFERENTIATION THEORY
+9. VALUE CHAIN ANALYSIS
