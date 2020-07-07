@@ -6,7 +6,7 @@ description: ''
 section-title: CRITICAL THINKING & VALUE-BASED MANAGEMENT WORKSHOP
 intro-1: Inspire team members to utilize C-Suite thinking
 intro-2: Our business simulations are designed to accelerate business learning and
-  team bonding–enabling great business decisions to be made in the business environment.
+  team bonding–enabling profit maximization decisions to be made.
 header-image: "/assets/images/accounting-workshop.jpg"
 
 ---
