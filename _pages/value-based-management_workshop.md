@@ -45,7 +45,7 @@ Armed with this knowledge, employees are empowered to drive bottom-line, meaning
 * HOW WILL WE **_MEASURE_** OUR PERFORMANCE OF **_VALUE DRIVERS, DESTROYERS_** _AND **CONSTRAINTS**_**?** 
 * WHAT **_ROLE WILL MANAGEMENT PLAY_** IN IN SUPPORTING A VBM APPROACH?
 
-##### KEY LEARNINGS
+### KEY LEARNINGS
 
 * The ability to contribute to, and the willingness to embrace change
 * A shared language with management to facilitate business-like communications
