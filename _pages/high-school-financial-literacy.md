@@ -1,8 +1,9 @@
 ---
 layout: page
-title: High School Financial Literacy
-permalink: /high-school-financial-literacy/
-description:
+title: High School Financial Literacy DELETE
+permalink: "/high-school-financial-literacy/"
+description: 
+
 ---
 OUR BUSINESS IS SEEING YOUR STUDENTS EXCEL<span style="color: #000; font-size: 45px;">ENRICH YOUR CURRICULUM WITH HANDS-ON,
 INTERACTIVE, LEARNING EXPERIENCES</span>
@@ -17,5 +18,3 @@ INTERACTIVE, LEARNING EXPERIENCES</span>
  	<li style="text-align: left;">Business and Financial Communication</li>
 </ul>
 <style>div.wpforms-container-full .wpforms-form input, div.wpforms-container-full .wpforms-form button, div.wpforms-container-full .wpforms-form .wpforms-page-button{background:#000!important;}</style>
-
-
