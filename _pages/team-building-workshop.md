@@ -26,6 +26,10 @@ During the team-building workshop, employees gain valuable personal leadership a
 
 Participants learn not only about the importance of teamwork, communication and team dynamics in the workplace but also their own strengths and limitations in intense situations. The emotional power of these interactions has a powerful and lasting effect and is for many a road to increased self-awareness and self-confidence.
 
+### THE SIMULATION
+
+### THE APPLICATION
+
 ### **Key Learnings**
 
 * A view into the participant's individual behaviour under stress
