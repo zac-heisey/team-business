@@ -15,19 +15,15 @@ header-image: "/assets/images/accounting-workshop.jpg"
 
 Turn staff into strategic thinkers through a one-day deep-dive learning and applying 10 classic MBA theories to their business. Teach them how to use theory to structure their business decision making.
 
-### Part One: The Business Simulation
+**Classic 10** is a challenging, hands-on exploration of ten powerful business tools used in successful decision-making, the dynamic relationships between them and their business imperatives. Classic 10 is designed to assist executives and managers to make more scientific, strategic and operational decisions.
+
+## Part One: The Business Simulation
 
 Over a series of five business cycles, they are presented with a range of strategic challenges, taught the relevant business theory and required to make business decisions, using the theories provided. Working in teams, they face the challenges, make decisions, implement them, see the results, and reflect on their performance.
 
 ### Part Two: The Application to your Company
 
 Part two is designed to ensure that learning translates into bottom-line impact for your business. It enables participants to now use the theories and decision-making processes they have acquired in relation to their individual work situations.
-
-### THE SIMULATION PROCESS
-
-### THE APPLICATION
-
-## 
 
 ### Why run the Classic 10 Workshop?
 
