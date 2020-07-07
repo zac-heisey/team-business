@@ -5,9 +5,8 @@ permalink: "/team-building-workshop/"
 description: ''
 section-title: TEAM DYNAMICS AND TEAM BUILDING SIMULATION
 intro-1: Teamwork, Leadership, Self-Awareness
-intro-2: The TEAM program is a team-building workshops. These workshops expose participants
-  to how team dynamics in the workplace strongly impact business relationships and
-  performance. They can be run in a full or half day experiential learning workshop.
+intro-2: 'The TEAM program exposes participants to how team dynamics in the workplace
+  strongly impact business relationships and performance. '
 header-image: "/assets/images/accounting-workshop.jpg"
 
 ---
