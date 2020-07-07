@@ -10,7 +10,7 @@ intro-2: 'The TEAM program exposes participants to how team dynamics in the work
 header-image: "/assets/images/accounting-workshop.jpg"
 
 ---
-The TEAM program places participants under extreme time and challenges pressures to create an environment for behavioral observation under stress.
+The TEAM program focuses on behavioural dynamics, teamwork skills and creating bonds. In this simulation, business competition among the teams is structured to be particularly intense and dynamic. As the workshop progresses, new business challenges place participants under extreme time and challenge pressures, allowing individual behaviours to rise to the surface. This creates an excellent environment for behaviours to be observed and a platform for leadership coaching.
 
 In this “safe” learning environment, peoples’ true personalities are exposed and they learn how to enhance their strengths and work on their weaknesses, in a non-threatening environment. This creates a great environment for behaviours to be observed and a platform for leadership coaching.
 
@@ -26,16 +26,10 @@ During the team-building workshop, employees gain valuable personal leadership a
 
 Participants learn not only about the importance of teamwork, communication and team dynamics in the workplace but also their own strengths and limitations in intense situations. The emotional power of these interactions has a powerful and lasting effect and is for many a road to increased self-awareness and self-confidence.
 
-**Key Learnings:**
+### **Key Learnings**
 
-* A view into the participants individual behavior under stress
+* A view into the participant's individual behaviour under stress
 * An interesting insight into the power or weakness of collective decision making
 * A sound understanding of the decision making and thinking processes of their team members
 * The experience breaks down barriers and encourages cooperation beyond the workshop
 * Team dynamics in the workplace
-
-### Why run the TEAM Building Workshop in the Education Environment?
-
-Educational institutions usually use TEAM at the beginning of a course, which brings people together, who did not previously know one another. The extreme bonding that occurs, enables all future coursework and projects to execute more seamlessly. The team building workshop experience accelerates the natural stages of team performance.
-
-A creative use of the TEAM workshop is as a leadership observation and selection tool. Applicants undergo an intensive application and interview process, which narrows the candidate pool down to a short list of strong candidates. The finalists participate in the TEAM program and their behaviors are measured against desired leadership traits for their role as leadership coaches.
