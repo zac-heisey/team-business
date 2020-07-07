@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Entrepreneurship Workshop
+title: Entrepreneurship Workshop WHAT DO DO WITH THIS PAGE?
 permalink: "/entrepreneurship-workshop/"
 description: ''
 section-title: Entrepreneurship Workshop
