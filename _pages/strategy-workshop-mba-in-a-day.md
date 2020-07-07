@@ -13,6 +13,8 @@ header-image: "/assets/images/accounting-workshop.jpg"
 ---
 ## Turn strong operational leaders into strategic thinkers.
 
+Turn staff into strategic thinkers through a one-day deep-dive learning and applying 10 classic MBA theories to their business. Teach them how to use theory to structure their business decision making.
+
 ### Part One: The Business Simulation
 
 Over a series of five business cycles, they are presented with a range of strategic challenges, taught the relevant business theory and required to make business decisions, using the theories provided. Working in teams, they face the challenges, make decisions, implement them, see the results, and reflect on their performance.
@@ -25,10 +27,10 @@ Part two is designed to ensure that learning translates into bottom-line impact 
 
 **Participants:**
 
-- Gain an applied understanding of classic business theories
-- Understand the business logic underpinning executive decisions
-- Understand why clarifying the objective is critical to effective decision-making
-- Learn how to translate strategy into effective operational decisions
-- Learn how to make decisions for your own function that align with corporate strategy
-- Move from an operational mode of thinking to that of a strategic one
-- Learn how to effectively communicate decisions to others
+* Gain an applied understanding of classic business theories
+* Understand the business logic underpinning executive decisions
+* Understand why clarifying the objective is critical to effective decision-making
+* Learn how to translate strategy into effective operational decisions
+* Learn how to make decisions for your own function that align with corporate strategy
+* Move from an operational mode of thinking to that of a strategic one
+* Learn how to effectively communicate decisions to others
