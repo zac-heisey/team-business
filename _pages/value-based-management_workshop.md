@@ -4,15 +4,14 @@ title: Critical Thinking & Value-Based Decision Making
 permalink: "/value-based-management_workshop/"
 description: ''
 section-title: CRITICAL THINKING & VALUE-BASED MANAGEMENT WORKSHOP
-intro-1: What If Your Employees Acted Like They Owned the Company?
+intro-1: Inspire team members to utilize C-Suite thinking by learning how to use financial
+  tools to develop innovative plans, benchmark against the competition and drive results.
 intro-2: Our business simulations are designed to accelerate business learning and
   team bonding–enabling great business decisions to be made in the business environment.
 header-image: "/assets/images/accounting-workshop.jpg"
 
 ---
 ## CRITICAL THINKING & VALUE-BASED DECISION MAKING
-
-Inspire team members to utilize C-Suite thinking by learning how to use financial tools to develop innovative plans, benchmark against the competition and drive results.
 
 In **VBM IN ACTION** (Value Based Management) participants will have the opportunity to analyze how businesses work – and how to use VBM modeling to optimize business success.
 
