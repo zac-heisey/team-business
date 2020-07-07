@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Value-Based Management Workshop
+title: Value-Based Management Workshop LARA TO WORK ON
 permalink: "/value-based-management_workshop/"
 description: ''
 section-title: Value-Based Management Workshop
