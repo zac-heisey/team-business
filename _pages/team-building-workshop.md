@@ -22,7 +22,7 @@ In this simulation, business competition among the teams is structured to be par
 
 Participants learn not only about the importance of teamwork and communication but also their own strengths and limitations in intense situations. The emotional power of these interactions has a powerful and lasting effect and is for many, a road to increased self-awareness and self-confidence.
 
-### Why run the TEAM+ Team Building Workshop in the Corporate or Non-Profit Environment?
+### WHY RUN THIS SIMULATION?
 
 During the team-building workshop, employees gain valuable personal leadership and team working lessons, which they can apply when they return to their organization.
 
