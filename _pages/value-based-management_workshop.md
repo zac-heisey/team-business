@@ -3,7 +3,7 @@ layout: page
 title: Critical Thinking & Value-Based Decision Making
 permalink: "/value-based-management_workshop/"
 description: ''
-section-title: CRITICAL THINKING & VALUE-BASED MANAGEMENT Workshop
+section-title: CRITICAL THINKING & VALUE-BASED MANAGEMENT WORKSHOP
 intro-1: What If Your Employees Acted Like They Owned the Company?
 intro-2: Our business simulations are designed to accelerate business learning and
   team bonding–enabling great business decisions to be made in the business environment.
