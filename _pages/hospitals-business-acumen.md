@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Hospitals Business Acumen
-permalink: /hospitals-business-acumen/
-description:
+title: Hospitals Business Acumen DELETE
+permalink: "/hospitals-business-acumen/"
+description: 
+
 ---
 OUR BUSINESS IS SEEING YOUR HOSPITAL EXCEL<span style="color: #000; font-size: 45px;">ACCELERATE BUSINESS ACUMEN OF MEDICAL PROFESSIONALS</span>
 <p style="text-align: left;">Team Business offers business education programs in the form of hands-on simulations that are designed to teach through experience in order to accelerate business learning.</p>
@@ -14,5 +15,3 @@ OUR BUSINESS IS SEEING YOUR HOSPITAL EXCEL<span style="color: #000; font-size: 4
  	<li style="text-align: left;"><strong>Increased Budgeting Competency</strong> – greater involvement and confidence in making tougher budgeting decisions.</li>
 </ul>
 <style>div.wpforms-container-full .wpforms-form input, div.wpforms-container-full .wpforms-form button, div.wpforms-container-full .wpforms-form .wpforms-page-button{background:#000!important;}</style>
-
-
