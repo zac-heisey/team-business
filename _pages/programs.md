@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Programs DELETE
+title: Programs
 permalink: "/programs/"
 description: ''
 header-image: "/assets/images/programs-bg.jpg"
