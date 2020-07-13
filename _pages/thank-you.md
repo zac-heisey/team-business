@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thank You WHAT IS THIS?
+title: Thank You
 permalink: "/contact/thank-you/"
 description: 
 
