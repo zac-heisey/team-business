@@ -6,18 +6,18 @@ layout: default
 This layout is used for pages for example about.md, contact.ms etc...
 Making any change will effect all the pages(not posts) -->
 <main>
-	{% if page.header-image %}
+	{% if page.header-image and page.header-image != '' %}
 	<header class="position-relative text-center rev">
 		<div class="header-image page" style="background-image: url({{ page.header-image }}), linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6))" title="{{ page.title }} | Team Business" alt="{{ page.title }} featured image"></div>
 		<div class="position-absolute page-intro">
-			{% if page.section-title %}
+			{% if page.section-title and page.section-title != '' %}
 			<p id="section-title">{{ page.section-title }}</p>
 			{% endif %}
-			{% if page.intro-1 %}
+			{% if page.intro-1 and page.intro-1 != '' %}
 			<h1 id="intro-1">{{ page.intro-1 }}</h1>
 			<hr class="divider">
 			{% endif %}
-			{% if page.intro-1 %}
+			{% if page.intro-2 and page.intro-2 != '' %}
 			<p id="intro-2">{{ page.intro-2 }}</p>
 			{% endif %}
 		</div>
@@ -25,14 +25,14 @@ Making any change will effect all the pages(not posts) -->
 	{% else %}
 	<header class="position-relative text-center rev">
 		<div class="no-image">
-			{% if page.section-title %}
+			{% if page.section-title and page.section-title != '' %}
 			<p id="section-title">{{ page.section-title }}</p>
 			{% endif %}
-			{% if page.intro-1 %}
+			{% if page.intro-1 and page.intro-1 != '' %}
 			<h1 id="intro-1">{{ page.intro-1 }}</h1>
 			<hr class="divider">
 			{% endif %}
-			{% if page.intro-1 %}
+			{% if page.intro-2 and page.intro-2 != '' %}
 			<p id="intro-2">{{ page.intro-2 }}</p>
 			{% endif %}
 		</div>
