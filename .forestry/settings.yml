@@ -17,9 +17,6 @@ sections:
 - type: jekyll-pages
   label: Homepage
   create: documents
-- type: jekyll-posts
-  label: Posts
-  create: all
 - type: directory
   path: _team-members
   label: Team members
