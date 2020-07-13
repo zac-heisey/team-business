@@ -4,13 +4,19 @@ hide_body: true
 fields:
 - type: text
   name: client
-  label: client
+  label: Client
+  description: Business or organization name
+  config:
+    required: true
 - type: text
   name: name
-  label: name
+  label: Contact Name
+  description: Name of person Team Business worked with at the business or organization
+    (used for testimonial attribution)
 - type: text
   name: testimonial
-  label: testimonial
+  label: Testimonial
+  description: Client testimonial (if available)
 - type: file
   name: logo
   label: logo
