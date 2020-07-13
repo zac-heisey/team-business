@@ -13,13 +13,23 @@ fields:
   label: Contact Name
   description: Name of person Team Business worked with at the business or organization
     (used for testimonial attribution)
-- type: text
-  name: testimonial
-  label: Testimonial
-  description: Client testimonial (if available)
 - type: file
   name: logo
-  label: logo
+  label: Client Logo
+  description: Upload client logo image
+- name: testimonial
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Testimonial
+  description: Client testimonial (if available)
 - type: boolean
   name: featured
-  label: featured
+  label: Featured On Homepage
+  default: false
+  description: Show this client's logo on the homepage under 'Who We've Worked With"
+    (maximum 4 client logos should be set to 'Featured')
