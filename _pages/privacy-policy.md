@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Privacy Policy
-permalink: /privacy-policy/
-description:
+permalink: "/privacy-policy/"
+description: 
+
 ---
 Privacy PolicyTeam Business LLC
 
@@ -30,23 +31,23 @@ Should we offer the following free services, which require some type of voluntar
 
 Should we offer a free electronic newsletter and publications to users, Team Business LLC will gather the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every message that points users to the subscription management page. Users can also subscribe to the newsletters, bulletins and publications at the time of registration.
 
-2. Message boards/forums
+  1) Message boards/forums
 
 Should we offer Message Boards and Forums, users must register separately for these services (both are free of charge) in order to post messages, although they do not need to register to visit the site. During registration, the user is required to supply a username, password, and email address.
 
-3. "E-mail this to a friend" service
+  2) "E-mail this to a friend" service
 
 Users on our site can choose to electronically forward a link, page, or document to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and to let the recipient know who sent the email. The information is not used for any other purpose.
 
-4. Polling
+  3) Polling
 
 We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. Team Business LLC may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
 
-5. Surveys
+  4) Surveys
 
 Team Business LLC may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party.
 
-6. Webinars
+  5) Webinars
 
 Should Team Business LLC offer webinar programs, by registering for a Team Business LLC, professionals consent to receive marketing messages from Team Business LLC regarding webinars, publications and other services designed to support the professionals. Information provided by webinar registrants may be shared with webinar sponsors to further educational opportunities and knowledge transfer for training professionals.
 
