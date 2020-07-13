@@ -1,4 +1,16 @@
 ---
 label: Test
 hide_body: true
-fields: []
+fields:
+- name: test_label
+  type: select
+  default: ''
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: data
+      file: _data/cta.yml
+      path: 
+  label: Test Label
