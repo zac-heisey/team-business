@@ -1,16 +1,18 @@
 ---
 layout: page
-title: Landing Page Template
+title: Landing Page Template - Hospitals
 permalink: /landing-page-template/
-description:
+description: ''
+section-title: ''
+header-image: ''
+intro-1: Our Business is Seeing Your Hospital Excel
+intro-2: Accelerate the Business Acumen of Medical Professionals
 ---
-OUR BUSINESS IS SEEING YOUR HOSPITAL EXCEL<span style="color: #000; font-size: 45px;">ACCELERATE BUSINESS ACUMEN OF MEDICAL PROFESSIONALS</span>
-<p style="text-align: left;">Team Business offers business education programs in the form of hands-on simulations that are designed to teach through experience in order to accelerate business learning.</p>
-<p style="text-align: left;"><span style="color: #000000;"><strong>Here’s what medical participants said they gained from the Team Business workshop:</strong></span></p>
 
-<ul>
- 	<li style="text-align: left;"><strong>Exceeded Revenue Targets</strong> – increased revenue and exceeded targets in desired growth areas.</li>
- 	<li style="text-align: left;"><strong>Increased Financial Confidence</strong> – more polished presentations on financial topics.</li>
- 	<li style="text-align: left;"><strong>Increased Budgeting Competency</strong> – greater involvement and confidence in making tougher budgeting decisions.</li>
-</ul>
+Team Business offers business education programs in the form of hands-on simulations that are designed to teach through experience in order to accelerate business learning.
 
+Here’s what medical participants said they gained from the Team Business workshop:
+
+* **Exceeded Revenue Targets** - Increased revenue and exceeded targets in desired growth areas.
+* **Increased Financial Confidence** - More polished presentations on financial topics.
+* **Increased Budgeting Competency** - Greater involvement and confidence in making tougher budgeting decisions.

@@ -5,9 +5,6 @@ permalink: /search/
 description: Search anything in the site from here.
 ---
 
-
-
-
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="Search..." autofocus>
@@ -25,6 +22,6 @@ description: Search anything in the site from here.
     noResultsText: 'No results found',
     limit: 20,
     fuzzy: false,
-    exclude: ['Welcome'] 
+    exclude: ['Welcome']
   });
 </script>
