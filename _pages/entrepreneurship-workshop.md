@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Entrepreneurship Workshop DELETE?
+title: Entrepreneurship Workshop POSSIBLY DELETE??
 permalink: "/entrepreneurship-workshop/"
 description: ''
 section-title: Entrepreneurship Workshop
