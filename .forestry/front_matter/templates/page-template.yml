@@ -33,15 +33,12 @@ fields:
   name: intro-1
   label: Intro Text 1
   description: Primary intro text in header
-  config:
-    required: true
 - type: textarea
   name: intro-2
   label: Intro Text 2
   description: Secondary intro text in header
   config:
     wysiwyg: false
-    required: true
 - type: file
   name: header-image
   label: Header Image
