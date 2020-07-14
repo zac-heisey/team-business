@@ -2,7 +2,9 @@
 layout: page
 title: Box Program
 permalink: "/programs/box/"
-description: ''
+description: 'Teach Business Acumen | Participants start and run a business in a simulation
+  and are placed under pressure to perform and beat the competition by making more
+  profit. '
 section-title: ENTRENEURSHIP SIMULATION
 header-image: "/assets/images/box-program.jpg"
 intro-1: Training Entrepreneurs
