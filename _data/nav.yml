@@ -1,11 +1,11 @@
 ---
-- title: Clients
-  link: ''
 - title: Home
   link: "/"
 - title: About
   link: "/about/"
-- title: Contact
-  link: "/contact/"
+- title: Clients
+  link: ''
 - title: Workshops
   link: "/programs/"
+- title: Contact
+  link: "/contact/"
