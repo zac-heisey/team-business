@@ -2,7 +2,8 @@
 layout: page
 title: Strategy Workshop MBA in a Day
 permalink: "/strategy-workshop-mba-in-a-day/"
-description: ''
+description: 'Turn staff into strategic thinkers through a one-day deep-dive learning
+  and applying 10 classic MBA theories to their business. '
 section-title: STRATEGIC THINKING WORKSHOP
 intro-1: The Classic 10 Program Workshop is Like Getting an MBA in a Day!
 intro-2: Participants engage in a two-part program – the first an intellectually challenging,
