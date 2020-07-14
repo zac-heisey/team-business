@@ -1,23 +1,30 @@
+---
 - title: Entrepeneurship
-  description: The BOX entrepreneurship program is an entrepreneurship training that will teach students - both intellectually and emotionally - what it really means to start, run, and build a business.
-  link: /programs/box/
-
+  description: The BOX entrepreneurship program is an entrepreneurship training that
+    will teach students - both intellectually and emotionally - what it really means
+    to start, run, and build a business.
+  link: "/programs/box/"
 - title: Continuous Improvement
-  description: The CAR simulation teaches participants how important it is to set targets, measure performance against those targets, and provides tools to continuously improve, no matter what industry they end up in.
-  link: /programs/car/
-
+  description: The CAR simulation teaches participants how important it is to set
+    targets, measure performance against those targets, and provides tools to continuously
+    improve, no matter what industry they end up in.
+  link: "/programs/car/"
 - title: Team Dynamics
-  description: The TEAM simulation is a highly effective workshop for teaching the interdependence of teams in achieving business objectives through fast-paced and dynamic competition.
-  link: /programs/team/
-
+  description: The TEAM simulation is a highly effective workshop for teaching the
+    interdependence of teams in achieving business objectives through fast-paced and
+    dynamic competition.
+  link: "/programs/team/"
 - title: Interpreting Numbers
-  description: Using visual and tactile illustrations, participants learn the language of business without the complexity normally associated with dry financial literacy education.
-  link: /programs/accounting-comes-alive/
-
+  description: Using visual and tactile illustrations, participants learn the language
+    of business without the complexity normally associated with dry financial literacy
+    education.
+  link: "/programs/accounting-comes-alive/"
 - title: MBA in a Day
-  description: This program teaches 10 classic business theories and demonstrates how to use them to structure business decision making process and result in bottom-line impact.
-  link: /programs/classic-10/
-
-- title: Corporate Programs
-  description: The same core principles as our higher-learning programs, but specially designed for the corporate and enterprise environments.
-  link: /corporate-programs/
+  description: This program teaches 10 classic business theories and demonstrates
+    how to use them to structure business decision making process and result in bottom-line
+    impact.
+  link: "/programs/classic-10/"
+- title: Critical Thinking | Value Based Management
+  description: The same core principles as our higher-learning programs, but specially
+    designed for the corporate and enterprise environments.
+  link: "/corporate-programs/"
