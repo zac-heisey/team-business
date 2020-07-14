@@ -2,7 +2,8 @@
 layout: page
 title: Team Building Workshop LARA WORK ON THIS
 permalink: "/team-building-workshop/"
-description: ''
+description: The TEAM program exposes participants to how team dynamics in the workplace
+  strongly impact business relationships and performance.
 section-title: TEAM DYNAMICS AND TEAM BUILDING SIMULATION
 intro-1: Teamwork, Leadership, Self-Awareness
 intro-2: 'The TEAM program exposes participants to how team dynamics in the workplace
