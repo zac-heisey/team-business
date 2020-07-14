@@ -2,7 +2,9 @@
 layout: page
 title: Critical Thinking & Value-Based Decision Making
 permalink: "/value-based-management_workshop/"
-description: ''
+description: Inspire team members to utilize C-Suite thinking by learning how to use
+  financial tools to develop innovative plans, benchmark against the competition and
+  drive results.
 section-title: CRITICAL THINKING & VALUE-BASED MANAGEMENT WORKSHOP
 intro-1: Inspire team members to utilize C-Suite thinking
 intro-2: Our business simulations are designed to accelerate business learning and
