@@ -2,8 +2,8 @@
 layout: page
 title: About
 permalink: "/about/"
-description: Team Business helps universities, colleges, high schools, businesses,
-  and organizations build business experience through specialized programs and workshops.
+description: Team Business offers business education programs in the form of hands-on
+  simulations that are designed to teach through experience.
 section-title: ''
 intro-1: Our Experience Can Improve Your Learning Experience
 intro-2: Team Business offers business education programs that improve business decision
