@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Programs
+title: Programs - ZAC Let's keep this page and replicate the home page program section
+  (let's discuss)
 permalink: "/programs/"
 description: Our business simulations are designed to accelerate business learning
   and team bonding–strengthening collaboration and business decisions that are made.
