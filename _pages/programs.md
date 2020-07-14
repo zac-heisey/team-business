@@ -2,7 +2,8 @@
 layout: page
 title: Programs
 permalink: "/programs/"
-description: ''
+description: Our business simulations are designed to accelerate business learning
+  and team bonding–strengthening collaboration and business decisions that are made.
 header-image: "/assets/images/programs-bg.jpg"
 section-title: ''
 intro-1: There's no substitute for experience. That's why we teach it.
