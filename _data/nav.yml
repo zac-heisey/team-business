@@ -3,9 +3,9 @@
   link: "/"
 - title: About
   link: "/about/"
-- title: Clients
-  link: ''
 - title: Workshops
   link: "/programs/"
+- title: Clients
+  link: ''
 - title: Contact
   link: "/contact/"
