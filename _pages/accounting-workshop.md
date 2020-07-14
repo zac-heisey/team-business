@@ -17,7 +17,7 @@ section-title: ACCOUNTING WORKSHOP
 
 Our proprietary system, Color Accounting uses color, visual and tactile techniques to quickly and easily help participants understand and analyze financial information. This one-day experience uses diagrams and logical colors to show _graphically_ how accounting works and as a result builds a potent model of how business works. **Once participants gain a visual understanding of how accounting works, they will be able to navigate financial statements, regardless of how complex.**
 
-![](/assets/images/color-accounting.jpeg)![](/assets/images/color-accounting-2.jpeg)
+![](/assets/images/color-accounting.jpeg)
 
 What adds to the uniqueness of our program, is that it begins by using lay terms - terms anyone can understand and then incorporates the formal language of accounting once the participants gain confidence in the financial concepts.
 
