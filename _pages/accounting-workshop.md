@@ -2,7 +2,8 @@
 layout: page
 title: Accounting Workshop
 permalink: "/accounting-workshop/"
-description: ''
+description: The Color Accounting approach to accounting education is interactive
+  | logical colors, vivid diagrams, plain language and accelerated learning techniques.
 header-image: "/assets/images/accounting-workshop.jpg"
 intro-2: Whether in the corporate, non-profit, hospital or university environment,
   accounting can be a difficult topic to learn and understand. Understanding accounting
