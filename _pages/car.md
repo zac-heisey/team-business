@@ -2,7 +2,9 @@
 layout: page
 title: Car Program
 permalink: "/programs/car/"
-description: ''
+description: The Continous Improvement Simulation puts participants in an immersive
+  & competitive environment that exposes them to the complexities of running & operating
+  a business.
 section-title: THE CONTINUOUS IMPROVEMENT SIMULATION (CIS)
 intro-1: Learn Critical Business Drivers
 intro-2: By thinking hard about the business inputs of Staff, Time, Resources, Information
