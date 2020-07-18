@@ -6,7 +6,7 @@ intro-main: We Teach the Hard-Learned Lessons of Business Through Face-to-Face E
 intro-sub: We Are Team Business
 ---
 
-<!-- This pulls text from the intro-main and intro-sub fields in the left-hand pane -->
+<!-- This pulls text from the 'Intro Main' and 'Intro Sub' fields in the left-hand pane -->
 {% include intro.html hero-intro-1="{{ page.intro-main }}" hero-intro-2="page.intro-sub" %}
 
 ___
