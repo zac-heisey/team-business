@@ -34,4 +34,28 @@ fields:
   description: Show this client's logo on the homepage under 'Who We've Worked With"
     (maximum 4 client logos should be set to 'Featured')
 pages:
-- _clients/*
+- _clients/carlson-school-management.md
+- _clients/dartmouth-university.md
+- _clients/denison-university.md
+- _clients/duke-fuqua.md
+- _clients/ebay.md
+- _clients/gaithersburg-high-school.md
+- _clients/georgetown-university.md
+- _clients/girls-who-invest.md
+- _clients/glowpoint.md
+- _clients/harker-school.md
+- _clients/haut-lac.md
+- _clients/isb.md
+- _clients/jhu-carey.md
+- _clients/kellogg.md
+- _clients/kent-school.md
+- _clients/lauder-institute.md
+- _clients/lausanne.md
+- _clients/mlt.md
+- _clients/penn-engineering.md
+- _clients/usda-grad-school.md
+- _clients/uva-darden.md
+- _clients/west-point.md
+- _clients/wharton-school-upenn.md
+- _clients/whitman-school-management.md
+- _clients/women-in-tech.md
