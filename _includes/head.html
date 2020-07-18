@@ -25,12 +25,12 @@
 	{% seo %}
 
 	{% if page.layout != 'post' %}
-	<meta property="og:image" content="{{site.url}}{{site.logo}}" />
+	<meta property="og:image" content="{{ site.url }}{{ site.logo }}" />
 	{% endif %}
 
 	<!-- Custom CSS -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Work+Sans:100,300,400">
-	<link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css">
+	<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
 
 
 	<!-- Font Awesome Icons CSS -->
@@ -38,9 +38,6 @@
 
 	<!-- Font Awesome Icons JS Kit -->
 	<script src="https://kit.fontawesome.com/7714b246db.js" crossorigin="anonymous"></script>
-	
-	<!-- Replace these icons with your own. -->
-	<link rel="icon" href="{{site.baseurl}}/favicon.ico" type="image/x-icon">
 
 	{% if site.analytics %}
 

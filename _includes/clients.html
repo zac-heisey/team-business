@@ -1,11 +1,17 @@
 <section id="clients" class="bg-white">
 	<div class="container" style="text-align: center;">
+		<div class="client-logo-wrapper">
 		{% for client in site.clients %}
-		{% if client.featured == true %}
-		<div class="featured-client">
-			<img src="{{ client.logo }}" alt="{{ client.client }} logo" title="{{ client.client }}">
-		</div>
+		<!-- Show featured clients on homepage -->
+		{% if page.url == '/' %}
+			{% if client.featured == true %}
+			<div class="client-logo-item" style="background-image: url({{ client.logo }});"></div>
+			{% endif %}
+		<!-- Show all clients on about page, etc. -->
+		{% else %}
+		<div class="client-logo-item" style="background-image: url({{ client.logo }});"></div>
 		{% endif %}
-		{% endfor %}
+		{% endfor%}
+		</div>
 	</div>
 </section>

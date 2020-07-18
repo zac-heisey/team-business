@@ -25,23 +25,17 @@ We believe in learning through doing, so we create a safe environment to make mi
 <a href="#" class="btn btn-default" style="margin:10px;">View Our Corporate Offerings</a>
 </div>
 
-<!-- Team Business Programs Video -->
+<!-- Team Business Programs Video (you can edit the video ID, heading, and sub-text fields below) -->
 {% include video.html id="M9_TtXZFefc" heading="See Our Programs in Action" sub-text="" %}
 
 ## Team Business is honored to work with top universities, colleges, high schools, businesses and organizations.
-
-<!-- Client Logo Display -->
-<div class="client-logo-wrapper">
-{% for client in site.clients %}
-<div class="client-logo-item" style="background-image: url({{ client.logo }});"></div>
-{% endfor%}
-</div>
+<!-- Add, delete, or edit these in 'Clients' -->
+{% include clients.html %}
 
 ## What Our Clients Say
-
-<!-- Testimonials -->
+<!-- Add, delete, or edit these in 'Clients' -->
 {% include testimonial.html %}
 
 ## Who is Team Business?
-
+<!-- Add, delete, or edit these in 'Team Members' -->
 {% include team.html %}

@@ -1,8 +1,8 @@
-<section id="testimonial" class="">
+<section id="testimonial">
 	<div class="container">
 		<div class="owl-carousel owl-theme carousel-2 position-relative rev">
 		{% for client in site.clients %}
-			{% if client.testimonial %}
+			{% if client.testimonial and client.testimonial != '' %}
 			<div class="item">
 				<div class="testimonial-box card">
 					<div class="row">
