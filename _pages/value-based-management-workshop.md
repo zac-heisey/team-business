@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Critical Thinking & Value-Based Decision Making
-permalink: "/value-based-management_workshop/"
+permalink: "/value-based-management-workshop/"
 description: Inspire team members to utilize C-Suite thinking by learning how to use
   financial tools to develop innovative plans, benchmark against the competition and
   drive results.
@@ -44,7 +44,7 @@ Armed with this knowledge, employees are empowered to drive bottom-line, meaning
 
 #### **STEP 2 | VALUE-BASED PERFORMANCE MEASUREMENT**
 
-* HOW WILL WE **_MEASURE_** OUR PERFORMANCE OF **_VALUE DRIVERS, DESTROYERS_** _AND **CONSTRAINTS**_**?** 
+* HOW WILL WE **_MEASURE_** OUR PERFORMANCE OF **_VALUE DRIVERS, DESTROYERS_** _AND **CONSTRAINTS**_**?**
 * WHAT **_ROLE WILL MANAGEMENT PLAY_** IN IN SUPPORTING A VBM APPROACH?
 
 ### KEY LEARNINGS
