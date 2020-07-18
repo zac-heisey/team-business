@@ -34,5 +34,4 @@ fields:
   description: Show this client's logo on the homepage under 'Who We've Worked With"
     (maximum 4 client logos should be set to 'Featured')
 pages:
-- _clients/wharton-school-upenn.md
-- _clients/women-in-tech.md
+- _clients/*
