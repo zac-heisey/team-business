@@ -7,7 +7,13 @@ intro-sub: We Are Team Business
 ---
 
 <!-- This pulls text from the 'Intro Main' and 'Intro Sub' fields in the left-hand pane -->
-{% include intro.html hero-intro-1="{{ page.intro-main }}" hero-intro-2="page.intro-sub" %}
+{% capture main %}
+{{ page.intro-main }}
+{% endcapture %}
+{% capture sub %}
+{{ page.intro-sub }}
+{% endcapture %}
+{% include intro.html hero-intro-1=main hero-intro-2=sub %}
 
 ___
 
