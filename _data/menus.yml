@@ -1,1 +1,6 @@
---- {}
+---
+items:
+- url: "/"
+  title: Home
+  identifier: home
+  weight: 1
