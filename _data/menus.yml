@@ -1,5 +1,9 @@
 ---
 items:
+- url: "#"
+  weight: 3
+  identifier: item__ASz25-
+  title: Workshops
 - url: "/"
   title: Home
   identifier: home

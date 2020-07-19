@@ -12,6 +12,11 @@ intro-2: Transform your people from thinking like an ‘employee’ to thinking 
   ‘business owner’.  The BOX entrepreneurship program is a carefully constructed entrepreneurship
   training that will teach participants–both intellectually and emotionally–what it
   really takes to start and build a business.
+menu:
+  items:
+    weight: 1
+    parent: item__ASz25-
+    title: Entrepreneurship
 
 ---
 The BOX workshop uses a hands-on, experiential simulation as a tool to improve your people's business decision making, whether they are staff or students! Participants start and run a box-making business for several 'imaginary' months and are placed under pressure to perform and beat the competition by making more profit. Through the experience, they play the role of managers (financial, production, HR), and workers and during the simulation interact with suppliers and customers.  In many cases, they need to accomplish their objective or task by influencing others. We create a fun, yet pressure-filled environment, in which great learning occurs - business and behavioural.
