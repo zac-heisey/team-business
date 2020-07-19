@@ -10,7 +10,9 @@ intro-1: Inspire team members to utilize C-Suite thinking
 intro-2: Our business simulations are designed to accelerate business learning and
   team bonding–strengthening collaboration and business decisions that are made.
 header-image: "/assets/images/accounting-workshop.jpg"
-
+menus:
+  workshops:
+    weight: 6
 ---
 ## CRITICAL THINKING & VALUE-BASED DECISION MAKING
 

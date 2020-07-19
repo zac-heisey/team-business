@@ -16,7 +16,33 @@ h2:after {
   margin: 1rem auto;
 }
 
-/* Homepage Styles */
+/* Menu */
+
+.navbar-nav ul {
+
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+.navbar-nav ul > li {
+
+  font-size: inherit;
+
+}
+
+.navbar-nav a.dropdown-item.nav-link {
+
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 300px;
+
+}
+
+
+/* Homepage */
 
 #intro {
 
@@ -63,7 +89,7 @@ h2:after {
   margin: 0 1rem;
 }
 
-/* Page Styles */
+/* Pages */
 
 .header-image.page {
   height: 75vh;

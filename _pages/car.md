@@ -11,7 +11,9 @@ intro-2: By thinking hard about the business inputs of Staff, Time, Resources, I
   and Processes, participants gain an understanding of how to identify opportunities
   for improvement with bottom-line impact.
 header-image: "/assets/images/car-program.jpg"
-
+menus:
+  workshops:
+    weight: 2
 ---
 **The Continous Improvement Simulation (CIS)** puts participants in an immersive and competitive environment that gives them a front-row seat to the stresses and complexities of running and operating a business.
 

@@ -9,9 +9,11 @@ intro-1: Teamwork, Leadership, Self-Awareness
 intro-2: 'The TEAM program exposes participants to how team dynamics in the workplace
   strongly impact business relationships and performance. '
 header-image: "/assets/images/accounting-workshop.jpg"
-
+menus:
+  workshops:
+    weight: 3
 ---
-The TEAM program focuses on behavioural dynamics, teamwork skills and creating bonds. 
+The TEAM program focuses on behavioural dynamics, teamwork skills and creating bonds.
 
 In this “safe” learning environment, peoples’ true personalities are exposed and they learn how to enhance their strengths and work on their weaknesses, in a non-threatening environment. This creates a great environment for behaviours to be observed and a platform for leadership coaching.
 
