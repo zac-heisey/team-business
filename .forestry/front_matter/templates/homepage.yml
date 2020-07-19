@@ -40,7 +40,7 @@ fields:
   name: video-id
   label: Video ID
   description: Indicates which YouTube video to be displayed. The video ID can be
-    found in the URL of your YoutTube video (e.g. youtube.com/watch?v=<strong>{{video
+    found in the URL of your YouTube video (e.g. youtube.com/watch?v=<strong>{{video
     id is here}})</strong>
 - type: field_group_list
   name: sections
