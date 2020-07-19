@@ -9,7 +9,7 @@ intro-1: Teamwork, Leadership, Self-Awareness
 intro-2: 'The TEAM program exposes participants to how team dynamics in the workplace
   strongly impact business relationships and performance. '
 header-image: "/assets/images/accounting-workshop.jpg"
-menus:
+menu:
   workshops:
     weight: 3
 ---

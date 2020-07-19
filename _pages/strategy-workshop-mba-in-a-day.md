@@ -10,7 +10,7 @@ intro-2: Participants engage in a two-part program – the first an intellectual
   high level strategic simulation and the second part guides them through how to apply
   the learning to their roles at work.
 header-image: "/assets/images/accounting-workshop.jpg"
-menus:
+menu:
   workshops:
     weight: 5
 ---

@@ -11,7 +11,7 @@ intro-2: By thinking hard about the business inputs of Staff, Time, Resources, I
   and Processes, participants gain an understanding of how to identify opportunities
   for improvement with bottom-line impact.
 header-image: "/assets/images/car-program.jpg"
-menus:
+menu:
   workshops:
     weight: 2
 ---

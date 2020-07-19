@@ -12,7 +12,7 @@ intro-2: Transform your people from thinking like an ‘employee’ to thinking 
   ‘business owner’.  The BOX entrepreneurship program is a carefully constructed entrepreneurship
   training that will teach participants–both intellectually and emotionally–what it
   really takes to start and build a business.
-menus:
+menu:
   workshops:
     weight: 1
 ---
