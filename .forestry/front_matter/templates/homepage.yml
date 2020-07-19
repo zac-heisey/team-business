@@ -1,0 +1,38 @@
+---
+label: Homepage
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: text
+  name: intro-big
+  label: intro-big
+- type: text
+  name: intro-small
+  label: intro-small
+- type: text
+  name: video-heading
+  label: video-heading
+- type: textarea
+  name: video-sub-text
+  label: video-sub-text
+- type: text
+  name: video-id
+  label: video-id
+- type: field_group_list
+  name: sections
+  label: sections
+  fields:
+  - type: text
+    name: heading
+    label: heading
+  - type: text
+    name: include
+    label: include
