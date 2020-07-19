@@ -13,9 +13,8 @@ intro-2: Transform your people from thinking like an ‘employee’ to thinking 
   training that will teach participants–both intellectually and emotionally–what it
   really takes to start and build a business.
 menu:
-  items:
+  workshops:
     weight: 1
-    parent: workshops
     title: Entrepreneurship
 
 ---
