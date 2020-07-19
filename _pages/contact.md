@@ -8,8 +8,7 @@ description: Every interaction begins with a conversation because every experien
 menu:
   items:
     identifier: contact
-    weight: 1
-    parent: workshops
+    weight: 4
 
 ---
 ## Our Business is Seeing Your Business Excel
