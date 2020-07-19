@@ -11,11 +11,6 @@ intro-2: Whether in the corporate, non-profit, hospital or university environmen
   decisions.
 intro-1: Critial Financial Accumen
 section-title: ACCOUNTING WORKSHOP
-menu:
-  items:
-    weight: 4
-    parent: workshops
-    title: Interpreting Numbers
 
 ---
 ## Accounting Comes Alive helps participants understand the basis for sound financial decision making, which drives business decisions.

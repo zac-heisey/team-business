@@ -1,6 +1,1 @@
----
-items:
-- url: "#"
-  title: Workshops
-  identifier: workshops
-  weight: 3
+--- {}
