@@ -11,9 +11,6 @@ intro-2: Team Business offers business education programs that improve business 
   and business outcomes by enabling new ways of thinking in a risk-free environment
   with immediate impact to your business performance.
 header-image: "/assets/images/about-bg.jpg"
-menu:
-  items:
-    weight: 2
 
 ---
 ## Team Business offers business education programs in the form of hands-on simulations that are designed to teach through experience.
