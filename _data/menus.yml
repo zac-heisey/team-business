@@ -1,10 +1,22 @@
 ---
 items:
-- url: "#"
-  weight: 3
-  identifier: item__ASz25-
-  title: Workshops
 - url: "/"
   title: Home
   identifier: home
   weight: 1
+- url: "/about/"
+  title: About
+  identifier: about
+  weight: 3
+- url: "#"
+  title: Workshops
+  identifier: workshops
+  weight: 3
+- url: "/client-stories/"
+  title: Clients
+  identifier: clients
+  weight: 4
+- url: "/contact/"
+  title: Contact
+  identifier: contact
+  weight: 5
