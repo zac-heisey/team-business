@@ -11,7 +11,7 @@ intro-2: Whether in the corporate, non-profit, hospital or university environmen
   decisions.
 intro-1: Critial Financial Accumen
 section-title: ACCOUNTING WORKSHOP
-menu:
+menus:
   workshops:
     weight: 4
 ---
