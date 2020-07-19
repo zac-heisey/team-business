@@ -18,6 +18,11 @@ sections:
   include: testimonial.html
 - heading: Who We've Worked With
   include: clients.html
+menu:
+  items:
+    title: Home
+    identifier: home
+    weight: 1
 
 ---
 <!-- This pulls text from the 'Intro Main' and 'Intro Sub' fields in the left-hand pane -->
