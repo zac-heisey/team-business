@@ -1,38 +1,58 @@
 ---
 label: Homepage
-hide_body: false
+hide_body: true
 fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: title
-  label: title
+  label: Page Title
+  description: Title of your page
+  config:
+    required: true
 - type: text
   name: description
-  label: description
+  label: Page Description
+  description: Description of your page for SEO and Google search results
 - type: text
   name: intro-big
-  label: intro-big
+  label: Big Intro
+  description: This is the large text over your homepage hero image
+  config:
+    required: true
 - type: text
   name: intro-small
-  label: intro-small
+  label: Small Intro
+  description: This is the small text over your homepage hero image
+  config:
+    required: true
 - type: text
   name: video-heading
-  label: video-heading
+  label: Video Heading
+  description: The heading text that appears above your video
 - type: textarea
   name: video-sub-text
-  label: video-sub-text
+  label: Video Sub-Text
+  description: The text that appears below your video
 - type: text
   name: video-id
-  label: video-id
+  label: Video ID
+  description: Indicates which YouTube video to be displayed. The video ID can be
+    found in the URL of your YoutTube video (e.g. youtube.com/watch?v=<strong>{{video
+    id is here}})</strong>
 - type: field_group_list
   name: sections
-  label: sections
+  label: Sections
   fields:
   - type: text
     name: heading
-    label: heading
+    label: Heading
+    description: Heading of a section
   - type: text
     name: include
     label: include
+    hidden: true
+  description: These are the different sections of your homepage (Programs, Services,
+    Testimonials, and Featured Clients)
