@@ -56,3 +56,5 @@ fields:
     hidden: true
   description: These are the different sections of your homepage (Programs, Services,
     Testimonials, and Featured Clients)
+pages:
+- index.md

@@ -5,19 +5,21 @@ description: ''
 intro-big: We Teach the Hard-Learned Lessons of Business Through Face-to-Face Experiences
 intro-small: We Are Team Business
 video-heading: There's An Easier Way to Learn the Hard Way
-video-sub-text: Fast-track your team’s business acumen with hands-on business training simulations. For anyone from students to executives, Team Business can help turn principles of business operation into habits.
+video-sub-text: Fast-track your team’s business acumen with hands-on business training
+  simulations. For anyone from students to executives, Team Business can help turn
+  principles of business operation into habits.
 video-id: zWNO2mUUcYA
 sections:
-  - heading: Our Programs
-    include: programs.html
-  - heading: Our Services
-    include: services.html
-  - heading: What Our Clients Say
-    include: testimonial.html
-  - heading: Who We've Worked With
-    include: clients.html
----
+- heading: Our Programs
+  include: programs.html
+- heading: Our Services
+  include: services.html
+- heading: What Our Clients Say
+  include: testimonial.html
+- heading: Who We've Worked With
+  include: clients.html
 
+---
 <!-- This pulls text from the 'Intro Main' and 'Intro Sub' fields in the left-hand pane -->
 {% capture big %}{{ page.intro-big }}{% endcapture %}
 {% capture small %}{{ page.intro-small }}{% endcapture %}
