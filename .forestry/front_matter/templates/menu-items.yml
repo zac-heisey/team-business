@@ -29,4 +29,4 @@ fields:
         required: false
       label: URL
 pages:
-- _data/nav.yml
+- _data/menu.yml
