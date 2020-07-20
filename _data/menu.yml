@@ -2,39 +2,28 @@
 items:
 - title: Home
   url: "/"
-  weight: 1
   sub-items: []
 - title: About
   url: "/about/"
-  weight: 2
   sub-items: []
 - title: Workshops
   url: "#"
-  weight: 3
   sub-items:
   - title: Entrepreneurship
     url: "/programs/box/"
-    weight: 1
   - title: Continuous Improvement
     url: "/programs/car/"
-    weight: 2
   - title: Team Dynamics
     url: "/team-building-workshop/"
-    weight: 
   - title: Interpreting Numbers
     url: "/accounting-workshop/"
-    weight: 
   - title: MBD in a Day
     url: "/strategy-workshop-mba-in-a-day/"
-    weight: 
   - title: Critical Thinking
     url: "/value-based-management-workshop/"
-    weight: 
 - title: Clients
   url: "/client-stories/"
-  weight: 4
   sub-items: []
 - title: Contact
   url: "/contact/"
-  weight: 5
   sub-items: []

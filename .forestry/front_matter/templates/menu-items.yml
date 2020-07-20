@@ -13,12 +13,10 @@ fields:
     name: url
     label: URL
     description: The URL of the menu item
-  - type: number
-    name: weight
-    label: Weight
-    description: The order of the menu item in your menu
-  - name: sub-items
-    type: field_group_list
+  - type: field_group_list
+    name: sub-items
+    label: Sub-items
+    description: Menu sub-items for the current menu item
     fields:
     - name: title
       type: text
@@ -30,21 +28,5 @@ fields:
       config:
         required: false
       label: URL
-    - name: weight
-      type: number
-      label: Weight
-      description: ''
-      default: 0
-      required: true
-      config:
-        min: 
-        max: 
-        step: 
-    config:
-      min: 
-      max: 
-      labelField: 
-    label: Sub-items
-    description: Menu sub-items for the current menu item
 pages:
 - _data/nav.yml
