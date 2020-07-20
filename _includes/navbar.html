@@ -8,13 +8,29 @@
 		</button>
 		<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 			<div class="navbar-nav ml-auto">
-				{% for item in site.menus.items %}
+				<!-- {% for item in site.menus.items %}
 					{% if item.children %}
 					<ul>
 						<li class="nav-item dropdown">
 							<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ item.title }}</a>
 							<div class="dropdown-menu" aria-labelledby="navbarDropdown">
 								{% for item in item.children %}
+								<a class="dropdown-item nav-link" href="{{ item.url }}">{{ item.title }}</a>
+								{% endfor %}
+							</div>
+						</li>
+					</ul>
+					{% else %}
+					<a class="nav-item nav-link {% if page.url == item.link %}active{% endif %}" href="{{ item.url }}">{{ item.title }}</a>
+					{% endif %}
+				{% endfor %} -->
+				{% for item in site.data.nav.items %}
+					{% if item.sub-items %}
+					<ul>
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ item.title }}</a>
+							<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+								{% for item in item.sub-items %}
 								<a class="dropdown-item nav-link" href="{{ item.url }}">{{ item.title }}</a>
 								{% endfor %}
 							</div>
