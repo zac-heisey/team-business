@@ -6,9 +6,6 @@ items:
 - title: About456
   url: "/about/"
   weight: "2"
-- title: Clients
-  url: "/client-stories/"
-  weight: "4"
 - title: Workshops
   url: "#"
   weight: "3"
@@ -19,6 +16,9 @@ items:
   - title: Continuous Improvement
     url: "/programs/car/"
     weight: 2
+- title: Clients
+  url: "/client-stories/"
+  weight: "4"
 - title: Contact
   url: "/contact/"
   weight: "5"
