@@ -46,3 +46,5 @@ fields:
       labelField: 
     label: Sub-items
     description: Menu sub-items for the current menu item
+pages:
+- _data/nav.yml
