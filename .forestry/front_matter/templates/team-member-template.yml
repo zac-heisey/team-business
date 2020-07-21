@@ -27,4 +27,5 @@ fields:
   config:
     wysiwyg: false
 pages:
+- _team-members/1-lara.md
 - _team-members/2-andre.md
