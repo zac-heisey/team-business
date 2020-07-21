@@ -31,28 +31,25 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Work+Sans:100,300,400">
 	<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
 
-
 	<!-- Font Awesome Icons CSS -->
 	<!-- <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> -->
 
 	<!-- Font Awesome Icons JS Kit -->
 	<script src="https://kit.fontawesome.com/7714b246db.js" crossorigin="anonymous"></script>
 
+	<!-- Google Analytics -->
 	{% if site.analytics %}
-
-	<!-- Google Analytics code. <head> tag is the right place for analytics code as directed by Google. This is unofficial light version which loads blazing fast! Implemented for faster page load.  -->
-	{% include analytics-lite.html %}
-
+		{% include analytics-lite.html %}
 	{% endif %}
 
-{% if site.enable-mathjax %}
-		<script async
-	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
-	</script>
-{% endif %}
+	{% if site.enable-mathjax %}
+			<script async
+		src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML">
+		</script>
+	{% endif %}
 
-{% if site.enable-chartjs %}
-	<script  src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
-{% endif %}
+	{% if site.enable-chartjs %}
+		<script  src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
+	{% endif %}
 
 </head>
