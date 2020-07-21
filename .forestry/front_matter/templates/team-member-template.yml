@@ -1,16 +1,28 @@
 ---
 label: Team Member Template
 hide_body: true
+display_field: name
 fields:
 - type: text
   name: name
-  label: name
+  label: Name
+  description: Name of team member
+  config:
+    required: true
 - type: text
   name: title
-  label: title
+  label: Title
+  description: Title of team member (e.g. CEO, Director of Marketing, VP of Business
+    Development, etc.)
+  config:
+    required: true
 - type: file
   name: image
-  label: image
+  label: Image
+  description: Headshot of team member<br><em>Ideal image size is 150px by 150px</em>
 - type: textarea
   name: bio
-  label: bio
+  label: Bio
+  description: Bio of team member
+  config:
+    wysiwyg: false
