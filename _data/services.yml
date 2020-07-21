@@ -5,7 +5,7 @@
     for the lessons learned, we augment the classroom with practical and fundamental
     experience-based examples that help to make the curriculum real.
   fa-icon: fa-graduation-cap
-  link: 
+  link:
 - title: Corporations & Non Profits
   description: Our group workshops help your team fully comprehend what complex set
     of decisions go into making a business work. We work alongside your team, guiding
@@ -13,7 +13,7 @@
     experience and can rapidly improve the business decisions your teams make – leading
     to better collaboration and business results.
   fa-icon: fa-chart-bar
-  link: 
+  link:
 - title: Hospitals
   description: Hospitals employ staff likely lack business acumen.  With the dramatic
     changes taking place in the industry, business skills are now a critical factor
@@ -21,5 +21,5 @@
     acumen learning through hands-on, group-based experiences.  In one day, medical
     staff can learn business concepts and begin to deploy them immediately back at
     work.
-  fa-icon: fa-hospital-cross
-  link: 
+  fa-icon: fa-clinic-medical
+  link:
