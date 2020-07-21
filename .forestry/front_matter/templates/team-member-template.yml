@@ -26,3 +26,5 @@ fields:
   description: Bio of team member
   config:
     wysiwyg: false
+pages:
+- _team-members/2-andre.md
