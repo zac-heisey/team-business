@@ -54,3 +54,5 @@ Finally, participants are better prepared to use the tools to explain their deci
  8. PRODUCT DIFFERENTIATION THEORY
  9. VALENCY THEORY
 10. VALUE CHAIN ANALYSIS
+
+![](/assets/images/screen-shot-2020-07-22-at-5-17-25-am.png)
