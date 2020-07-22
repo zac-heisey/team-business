@@ -42,3 +42,7 @@ The result is your employees will use a common language, understand where they f
 * Use financials to collaborate with your colleagues and to explain the “why” of  business decisions
 
 Participants will have an intense - yet fun experience whose impact goes beyond learning and into discovery.
+
+![](/assets/images/colour_accounting_basis_board-1.jpg)
+
+![](/assets/images/colour_accounting_basis_board-13.jpg)
