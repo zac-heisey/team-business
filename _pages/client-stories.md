@@ -44,7 +44,7 @@ Aluminum Manufacturing Company from the CEO
 
 We were a business that was in financial trouble – when we engaged Team Business, there was a strong chance we would go out of business or into Chapter 11. I needed a tool to help my staff think like real business people – understanding the implications of each decision they were making. I needed creative ideas and solutions to be brought to the table - fast. Team Business’ program, BOX+ helped my staff think across the whole business and not just in their functional silos. At a time when my leadership team was under incredible stress, the Team Business folks brought solid business thinking, a tremendous amount of fun and engaged my whole team in becoming a part of the solution.
 
-GlowPoint | $26M in Revenues, 130 employees
+GlowPoint, $26M in Revenues, 130 employees
 
 From Michael Brandofino, Former CEO GlowPoint
 
