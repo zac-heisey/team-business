@@ -47,3 +47,7 @@ Finally, participants are better prepared to use the tools to explain their deci
 ![](/assets/images/screen-shot-2020-07-22-at-5-17-25-am.png)
 
 #### EXAMPLE LESSON
+
+![](/assets/images/180600-team-biz-booklet-pdf-2-blake.jpg)
+
+![](/assets/images/screen-shot-2020-07-22-at-5-23-55-am.png)
