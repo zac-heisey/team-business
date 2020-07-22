@@ -40,13 +40,13 @@ Team Business offers team-based, experiential business workshops to public and p
 
 ### CORPORATIONS & NON PROFITS
 
-**Aluminum Manufacturing Company from the CEO**
+#### **Aluminum Manufacturing Company from the CEO**
 
 We were a business that was in financial trouble – when we engaged Team Business, there was a strong chance we would go out of business or into Chapter 11. I needed a tool to help my staff think like real business people – understanding the implications of each decision they were making. I needed creative ideas and solutions to be brought to the table - fast. Team Business’ program, BOX+ helped my staff think across the whole business and not just in their functional silos. At a time when my leadership team was under incredible stress, the Team Business folks brought solid business thinking, a tremendous amount of fun and engaged my whole team in becoming a part of the solution.
 
-**GlowPoint, $26M in Revenues, 130 employees**
+#### **GlowPoint, $26M in Revenues, 130 employees**
 
-From Michael Brandofino, Former CEO GlowPoint
+#### **From Michael Brandofino, Former CEO GlowPoint**
 
 I was CTO for a small publicly-traded company that was having difficulty and in 2006 I took over as CEO and had to make drastic changes to stop the bleeding and turn the company around. Interestingly we had invested the prior year in the Team Business Program where we cycled all of our employees through the program.
 
@@ -54,9 +54,9 @@ The BOX+ experience gave the employees an understanding of the challenges and de
 
 ### HOSPITALS & HEALTHCARE
 
-**Multi-Regional Hospital, $1.4B in Revenues,** 
+#### **Multi-Regional Hospital, $1.4B in Revenues,** 
 
-Learning and Development Organization
+#### **Learning and Development Organization**
 
 I design curriculum for our high potential medical professionals and administrators running multi-million dollar business units. These are very talented medical professionals with limited business experience – I needed a tool to rapidly teach them business. They needed to understand their business drivers and constraints and to uncover what to do about them. Team Business provided them with business tools and theories to structure their thinking.
 
