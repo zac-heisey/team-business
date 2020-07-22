@@ -44,6 +44,8 @@ Finally, participants are better prepared to use the tools to explain their deci
 
 ### The Classic 10 Theories
 
+![](/assets/images/screen-shot-2020-07-22-at-5-17-25-am.png)
+
  1. THE BUSINESS DECISION-MAKING CYCLE
  2. THE PROFIT TRIANGLE
  3. DEMAND AND SUPPLY THEORY
@@ -54,5 +56,3 @@ Finally, participants are better prepared to use the tools to explain their deci
  8. PRODUCT DIFFERENTIATION THEORY
  9. VALENCY THEORY
 10. VALUE CHAIN ANALYSIS
-
-![](/assets/images/screen-shot-2020-07-22-at-5-17-25-am.png)
