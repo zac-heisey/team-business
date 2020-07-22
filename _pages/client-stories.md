@@ -36,7 +36,7 @@ Team Business offers team-based, experiential business workshops to Universities
 
 Team Business offers team-based, experiential business workshops to public and private high schools. Our workshops give teachers and students a hands-on experience that enriches their education. The experiential and highly interactive nature of our programs provide the added benefit of rapid team bonding and the opportunity to observe personality traits in a safe environment. We are not a replacement for the lessons learned; we augment the classroom with practical and fundamental experience-based examples that help to make the curriculum real.
 
-## WHAT CLIENTS SAY
+## WHAT CLIENTS SAY ABOUT OUR PROGRAMS
 
 ### CORPORATIONS & NON PROFITS
 
@@ -57,3 +57,23 @@ Former CEO GlowPoint
 I was CTO for a small publicly-traded company that was having difficulty and in 2006 I took over as CEO and had to make drastic changes to stop the bleeding and turn the company around. Interestingly we had invested the prior year in the Team Business Program where we cycled all of our employees through the program.
 
 The BOX+ experience gave the employees an understanding of the challenges and decisions that must be made to drive business and more importantly the ramifications of those decisions. When it came time to right-size the staff, our employees understood that it was to save other jobs and help us focus on fixing the company. We were successful and the company still exists today because the team pulled together and leveraged things they learned in the program.
+
+### HOSPITALS & HEALTHCARE
+
+$1.4B in Revenues, Multi-Regional Hospital
+
+Learning and Development Organization
+
+$1.4B Multi-Regional Hospital
+
+I design curriculum for our high potential medical professionals and administrators running multi-million dollar business units. These are very talented medical professionals with limited business experience – I needed a tool to rapidly teach them business. They needed to understand their business drivers and constraints and to uncover what to do about them. Team Business provided them with business tools and theories to structure their thinking.
+
+Our high-potential leaders gained perspective on the Classic 10 business theories, and directly applied that knowledge in strategic action learning projects that benefited our organization. The facilitated discussion of the Team Business Classic 10 theories helped the group make strong connections from the practical application in the simulation to how our business operates. That segment was rated highest out of all the ones we had at the two-day leadership workshop.
+
+Both André and Lara explain finance, accounting and business management concepts eloquently, and with a delightful bit of humor. They make the business theories come to life through excellent real-world examples.
+
+The Box simulation was fun! All the participants had a great time getting to know each other as they were “running their businesses.” The simulation had a dual purpose for us: it served as a team-building exercise, as well as a way to teach the group about financial and business management concepts that can be applied in our organization.
+
+André meets the participants where they are. We had several medical and health care professionals in our group, and they were able to understand concepts quickly, so André adjusted the content in the moment to reflect the fast pace the participants wanted.
+
+It is also so easy to work with Lara and André to customize the workshop and materials for the needs of our learners.
