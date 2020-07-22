@@ -125,3 +125,19 @@ The program includes a four-week summer session designed to help students apprec
 In the process, students test and develop their skills in negotiation, leadership, and teamwork, and come to appreciate more fully the roles of individuals and teams in effective organizational functioning. The success of Team Business simulations is due in no small part to the wit and wisdom of facilitator Andre van der Bergh. He develops a rapport with students that promotes extensive interaction and active learning. Student evaluations of Andre and his work fall somewhere between awesome and mind-blowing.
 
 ### HIGH SCHOOLS
+
+#### T**he Kent School, Summer High School Program**
+
+#### **Ben Nadire Ph.D., Wentz Pre-Engineering Program Director The Judith B. Wentz and Howard B. Wentz Jr. Teaching Chair in Interdisciplinary Studies**
+
+Kent's SEEK summer program consists of engineering and entrepreneurship programs for high schools students. We needed a tool to give our students a good understanding of the fundamentals of business, as they work toward developing a new product idea and presenting how they plan to go to market. The Team Business workshop promotes teamwork and our students find it captivating. It is an enjoyable and useful tool.
+
+***
+
+#### **The Harker School, Private High School in Silicon Valley**
+
+#### **Juston Glass, MS, CPA, Director of Business and Entrepreneurial Programs, Business and Entrepreneurship (BE) Department**
+
+Along with teaching principles of business, I also direct our business and entrepreneurship programs at The Harker School. In the summer, I offer a multi-week summer intensive program, where students innovate a new product or service and then develop a “pitch presentation” to a panel of investors. I include Team Business programs so that I integrate hands-on, learn by doing instruction in my curriculum. I have found that students best learn beyond just through lectures – having something dynamic and exciting to keep them engaged and energetic is what makes the best experience possible!
+
+I engage Team Business because their programs teach great lessons first hand about business, all the while combining competition, negotiation, teamwork and many other essential soft skills that can’t be learned in a textbook. Team Business is a great team to work with, can customize to your specific dynamics, are very responsive, and their facilitators (André and Lara) really help make the group experience one to remember! I highly recommend Team Business for any of your business educational and/or team building needs!
