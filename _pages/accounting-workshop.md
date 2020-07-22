@@ -21,7 +21,7 @@ What adds to the uniqueness of our program, is that it begins by using lay terms
 
 In the seminar, participants are presented with real business scenarios, which must be analyzed using standard accounting principles and terminology.
 
-The result is your employees will use a common language, understand where they fit in, and know-how they impact profitability. In the end... they will make better business decisions. 
+The result is your employees will use a common language, understand where they fit in, and know-how they impact profitability. In the end... they will make better business decisions.
 
 ### In our accounting workshops, every participant will be exposed to key financial concepts:
 
