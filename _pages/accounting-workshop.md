@@ -45,6 +45,6 @@ Participants will have an intense - yet fun experience whose impact goes beyond 
 
 ***
 
-![](/assets/images/colour_accounting_basis_board-1.jpg)
+![collection of BASIS accounting workshop resources and books](/assets/images/color-accounting-basis-board-2.jpg "Color Accounting BASIS Board")
 
-![](/assets/images/colour_accounting_basis_board-13.jpg)
+![image of BASIS accounting workshop resource](/assets/images/color-accounting-basis-board-1.jpg "Color Accounting BASIS Board")
