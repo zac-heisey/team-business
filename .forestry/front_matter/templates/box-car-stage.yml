@@ -28,3 +28,5 @@ fields:
   - type: file
     name: image
     label: image
+pages:
+- _data/box-car.yml
