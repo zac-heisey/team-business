@@ -1,0 +1,30 @@
+---
+label: Box / Car Stage
+hide_body: true
+fields:
+- type: field_group_list
+  name: car
+  label: car
+  fields:
+  - type: text
+    name: stage-title
+    label: stage-title
+  - type: text
+    name: stage-description
+    label: stage-description
+  - type: file
+    name: image
+    label: image
+- type: field_group_list
+  name: box
+  label: box
+  fields:
+  - type: text
+    name: stage-title
+    label: stage-title
+  - type: text
+    name: stage-description
+    label: stage-description
+  - type: file
+    name: image
+    label: image
