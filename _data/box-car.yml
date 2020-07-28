@@ -16,6 +16,9 @@ car:
   stage-description: Participants experience the relationship between decisions made,
     and outcomes realized.
   image: "/assets/images/car-4.png"
+- stage-title: ZAC TEST
+  stage-description: ''
+  image: "/assets/images/about-bg.jpg"
 box:
 - stage-title: 1) Your cross-functional teams receive a business assignment
   stage-description: ''
