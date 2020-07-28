@@ -1,0 +1,31 @@
+<div class="programs-wrapper">
+
+  {% if include.program == 'box' %}
+
+    {% for program in site.data.box-car.box %}
+    <div class="program-stage">
+      <img src="{{ program.image }}" alt="{{ program.image }} illustration">
+      <h3>{{ program.stage-title }}</h3>
+      {% if program.stage-description != ""  %}
+      <p>{{ program.stage-description }}</p>
+      {% endif %}
+    </div>
+    {% endfor %}
+
+  {% else %}
+
+    {% for program in site.data.box-car.car %}
+    <div class="program-stage">
+      <img src="{{ program.image }}" alt="{{ program.image }} illustration">
+      <h3>{{ program.stage-title }}</h3>
+      {% if program.stage-description != ""  %}
+      <p>{{ program.stage-description }}</p>
+      {% endif %}
+    </div>
+    {% endfor %}
+
+  {% endif %}
+
+
+
+</div>

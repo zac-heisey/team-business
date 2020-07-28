@@ -138,6 +138,22 @@ hr.divider {
   margin: 2rem 0;
 }
 
+/* Box/Car Program Stages */
+
+.programs-wrapper {
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+}
+
+.program-stage {
+
+  width: 400px;
+  
+}
+
 /*== MEDIA QUERIES ==*/
 
 // 800px

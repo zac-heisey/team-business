@@ -1,0 +1,33 @@
+---
+car:
+- stage-title: The Planning of Efficient Production
+  stage-description: Participants will see and experience the result and repercussions of planning and efficiency.
+  image: "/assets/images/car-1.png"
+- stage-title: The Application of Limited Resources
+  stage-description: Participants will learn how to apply both human and capital resources in order to accomplish business goals.
+  image: "/assets/images/car-2.png"
+- stage-title: The Concept of Benchmarking
+  stage-description: Participants will learn the proper measurement of performance and how performance affects a business.
+  image: "/assets/images/car-3.png"
+- stage-title: An Understanding of Causality
+  stage-description: Participants experience the relationship between decisions made, and outcomes realized.
+  image: "/assets/images/car-4.png"
+box:
+- stage-title: 1) Your cross-functional teams receive a business assignment
+  stage-description: ""
+  image: "/assets/images/box-1.png"
+- stage-title: 2) The teams go into management meetings to develop basic business plans
+  stage-description: ""
+  image: "/assets/images/box-2.png"
+- stage-title: 3) They turn their business plans into action, against the clock
+  stage-description: ""
+  image: "/assets/images/box-3.png"
+- stage-title: 4) Each team markets their value to the customer
+  stage-description: ""
+  image: "/assets/images/box-4.png"
+- stage-title: 5) They measure and analyze their businesse results, including an income statement
+  stage-description: ""
+  image: "/assets/images/box-5.png"
+- stage-title: 6) Most critically, they reflect on what happened and learn from their mistakes and successes
+  stage-description: ""
+  image: "/assets/images/box-6.png"
