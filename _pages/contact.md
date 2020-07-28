@@ -15,16 +15,16 @@ Every interaction begins with a conversation because every experience we lead ca
 <form class="" action="https://usebasin.com/f/c996c70ebd7e" method="POST">
 
   <div class="form-row">
-    <input type="hidden" name="hidden">
+    <input type="hidden" name="_gotcha">
     <!-- First Name-->
     <div class="form-group col-md-4">
       <label class="sr-only" for="first-name">First Name</label>
-      <input class="form-control" type="text" name="First Name" id="first-name" placeholder="First Name">
+      <input class="form-control" type="text" name="First Name" id="first-name" placeholder="First Name" required>
     </div>
     <!-- Last Name-->
     <div class="form-group col-md-4">
       <label class="sr-only" for="last-name">Last Name</label>
-      <input class="form-control" type="text" name="Last Name" id="last-name" placeholder="Last Name">
+      <input class="form-control" type="text" name="Last Name" id="last-name" placeholder="Last Name" required>
     </div>
   </div>
 
@@ -32,12 +32,12 @@ Every interaction begins with a conversation because every experience we lead ca
     <!-- Email Address -->
     <div class="form-group col-md-4">
       <label class="sr-only" for="first-name">Email Address</label>
-      <input class="form-control" type="email" name="Email" id="email" placeholder="Email Address">
+      <input class="form-control" type="email" name="Email" id="email" placeholder="Email Address" required>
     </div>
     <!-- Phone Number -->
     <div class="form-group col-md-4">
       <label class="sr-only" for="phone">Phone Number</label>
-      <input class="form-control" type="text" name="Phone" id="phone" placeholder="Phone Number">
+      <input class="form-control" type="text" name="Phone" id="phone" placeholder="Phone Number" required>
     </div>
   </div>
 
@@ -45,7 +45,7 @@ Every interaction begins with a conversation because every experience we lead ca
     <!-- Message -->
     <div class="form-group col-md-8">
       <label class="sr-only" for="message">Phone Number</label>
-      <textarea class="form-control" name="Message" id="message" rows="8" placeholder="How can we help your business or organization?"></textarea>
+      <textarea class="form-control" name="Message" id="message" rows="8" placeholder="How can we help your business or organization?" required></textarea>
     </div>
   </div>
 
@@ -53,6 +53,6 @@ Every interaction begins with a conversation because every experience we lead ca
   <div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy" style="margin-bottom: 1rem;"></div>
 
   <!-- Submit Form -->
-  <button class="btn btn-default" type="submit" name="button" >Send Message</button>
+  <button class="btn btn-default" type="submit">Send Message</button>
 
 </form>
