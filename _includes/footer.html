@@ -7,15 +7,28 @@
 					<p>{{ site.description }}</p>
 				</div>
 			</div>
-			<div class="col-md-4">
+			<div class="col-md-2">
 				<h3>Pages</h3>
 				<ul>
-					{% for item in site.data.nav %}
-					<li><a href="{{ item.link }}">{{ item.title }}</a></li>
+					<li><a href="/">Home</a></li>
+					<li><a href="/about/">About</a></li>
+					<li><a href="/client-stories/">Clients</a></li>
+					<li><a href="/contact/">Contact</a></li>
+				</ul>
+			</div>
+			<div class="col-md-3">
+				<h3>Workshops</h3>
+				<ul>
+					{% for item in site.data.menu.items %}
+						{% if item.sub-items.size > 0 %}
+							{% for item in item.sub-items %}
+							<li><a href="{{ item.url }}">{{ item.title }}</a></li>
+							{% endfor %}
+						{% endif %}
 					{% endfor %}
 				</ul>
 			</div>
-			<div class="col-md-4">
+			<div class="col-md-3">
 				<h3>Contact Us</h3>
 				<p>Email:<a href="mailto:{{ site.email }}"> {{ site.email }}</a></p>
 				<p>Phone:<a href="tel:{{ site.phone }}"> {{ site.phone }}</a></p>
