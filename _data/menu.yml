@@ -9,6 +9,8 @@ items:
 - title: Workshops
   url: "#"
   sub-items:
+  - title: All Programs
+    url: "/#our-programs"
   - title: Entrepreneurship
     url: "/programs/box/"
   - title: Continuous Improvement

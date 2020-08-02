@@ -41,7 +41,7 @@ ___
 
 {% for section in page.sections %}
 
-  <h2>{{ section.heading }}</h2>
+  <h2 id="{{ section.heading | slugify }}">{{ section.heading }}</h2>
 
   {% include {{ section.include }} %}
 
