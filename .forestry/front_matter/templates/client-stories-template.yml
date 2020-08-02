@@ -53,18 +53,18 @@ fields:
   - type: text
     name: description
     label: Description
-    - type: field_group_list
-      name: client-stories
-      label: Client Stories
-      fields:
-      - type: text
-        name: byline-1
-        label: Byline 1
-      - type: text
-        name: byline-2
-        label: Byline 2
-      - type: text
-        name: story
-        label: Story
+  - type: field_group_list
+    name: client-stories
+    label: Client Stories
+    fields:
+    - type: text
+      name: byline-1
+      label: Byline 1
+    - type: text
+      name: byline-2
+      label: Byline 2
+    - type: text
+      name: story
+      label: Story
 pages:
 - _pages/client-stories.md
