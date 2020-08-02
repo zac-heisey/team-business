@@ -5,9 +5,10 @@ description: ''
 intro-big: We Teach the Hard-Learned Lessons of Business Through Face-to-Face Experiences
 intro-small: We Are Team Business
 video-heading: There's An Easier Way to Learn the Hard Way
-video-sub-text: Fast-track your team’s business acumen with hands-on business training
-  simulations. For anyone from students to executives, Team Business can help turn
-  principles of business operation into habits.
+video-sub-text: |-
+  Fast-track your team’s business acumen with hands-on business training simulations. For anyone from students to executives, Team Business can help turn principles of business operation into habits.
+
+  Yolo Bigoté
 video-id: zWNO2mUUcYA
 sections:
 - heading: Our Programs
