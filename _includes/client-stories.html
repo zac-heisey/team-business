@@ -1,0 +1,24 @@
+{% for vertical in page.verticals %}
+
+  <h3>{{ vertical.title }}</h3>
+  <p>{{ vertical.description }}</p>
+
+  {% for story in vertical.client-stories %}
+  <div>
+
+    {% if story.byline-1 and story.byline-1 != '' %}
+    <h4>{{ story.byline-1 }}</h4>
+    {% endif %}
+
+    {% if story.byline-2 and story.byline-2 != '' %}
+    <h4>{{ story.byline-2 }}</h4>
+    {% endif %}
+
+    <p>{{ story.story }}</p>
+
+    <hr>
+
+  </div>
+  {% endfor %}
+
+{% endfor %}
