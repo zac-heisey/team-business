@@ -1,0 +1,70 @@
+---
+label: Client Stories Template
+hide_body: true
+fields:
+- type: text
+  name: layout
+  label: layout
+  default: page
+  hidden: true
+- type: text
+  name: title
+  label: Page Title
+  config:
+    max: ''
+    required: true
+  description: Title of your page
+- type: text
+  name: permalink
+  label: permalink
+  hidden: true
+- type: textarea
+  name: description
+  label: Page Description
+  description: Description of your page for SEO
+  config:
+    wysiwyg: false
+    max: '170'
+- type: text
+  name: section-title
+  label: Small Title
+  description: Adds a small title in your header above the larger intro text
+- type: text
+  name: intro-1
+  label: Intro Text 1
+  description: Primary intro text in header
+- type: textarea
+  name: intro-2
+  label: Intro Text 2
+  description: Secondary intro text in header
+  config:
+    wysiwyg: false
+- type: file
+  name: header-image
+  label: Header Image
+  description: Header background image
+- type: field_group_list
+  name: verticals
+  label: Verticals
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: text
+    name: description
+    label: Description
+    - type: field_group_list
+      name: client-stories
+      label: Client Stories
+      fields:
+      - type: text
+        name: byline-1
+        label: Byline 1
+      - type: text
+        name: byline-2
+        label: Byline 2
+      - type: text
+        name: story
+        label: Story
+pages:
+- _pages/client-stories.md
