@@ -7,7 +7,7 @@ intro-small: We Are Team Business
 video-heading: There's An Easier Way to Learn the Hard Way
 video-sub-text: "<p>Fast-track your team’s business acumen with hands-on business
   training simulations. For anyone from students to executives, Team Business can
-  help turn principles of business operation into habits.</p><p>Yolo Bigoté</p>"
+  help turn principles of business operation into habits.</p>"
 video-id: zWNO2mUUcYA
 sections:
 - heading: Our Programs
