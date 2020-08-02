@@ -2,7 +2,8 @@
 layout: page
 title: Client Stories
 permalink: "/client-stories/"
-description: 'The tactile, experiential and highly interactive nature of our programs compliment our solid business acumen training with the added benefit of rapid team bonding and the opportunity for managers to observe personality traits in a safe environment.'
+description: See what previous participants in business, education, and healthcare
+  have to say about Team Business workshops and experiences.
 section-title: ''
 intro-1: Team Business offers team-based, experiential business simulations to Universities,
   Colleges, High Schools, Businesses and Organization
@@ -11,34 +12,98 @@ intro-2: Our simulations give participants hands-on experience that accelerate
 header-image: "/assets/images/about-bg.jpg"
 verticals:
 - title: Corporations & Non-profits
-  description: Our group workshops and narrative-based exercises help your team fully comprehend what complex set of decisions go into making a business work. We work alongside your team, guiding them through a structured program. Our programs can deliver value as a team-building experience and can rapidly improve the business decisions your teams make – leading to better collaboration and business results. If you offer internship programs, enhance your offerings by giving participants actionable workshops that teach them foundational business principles. These programs enhance their contribution to your business during their internship, as well as reveal important character and behavioral traits.
+  description: Our group workshops and narrative-based exercises help your team fully
+    comprehend what complex set of decisions go into making a business work. We work
+    alongside your team, guiding them through a structured program. Our programs can
+    deliver value as a team-building experience and can rapidly improve the business
+    decisions your teams make – leading to better collaboration and business results.
+    If you offer internship programs, enhance your offerings by giving participants
+    actionable workshops that teach them foundational business principles. These programs
+    enhance their contribution to your business during their internship, as well as
+    reveal important character and behavioral traits.
   client-stories:
   - byline-1: Aluminum Manufacturing Company from the CEO
     byline-2: ''
-    story: We were a business that was in financial trouble – when we engaged Team Business, there was a strong chance we would go out of business or into Chapter 11. I needed a tool to help my staff think like real business people – understanding the implications of each decision they were making. I needed creative ideas and solutions to be brought to the table - fast. Team Business’ program, BOX+ helped my staff think across the whole business and not just in their functional silos. At a time when my leadership team was under incredible stress, the Team Business folks brought solid business thinking, a tremendous amount of fun and engaged my whole team in becoming a part of the solution.
+    story: We were a business that was in financial trouble – when we engaged Team
+      Business, there was a strong chance we would go out of business or into Chapter
+      11. I needed a tool to help my staff think like real business people – understanding
+      the implications of each decision they were making. I needed creative ideas
+      and solutions to be brought to the table - fast. Team Business’ program, BOX+
+      helped my staff think across the whole business and not just in their functional
+      silos. At a time when my leadership team was under incredible stress, the Team
+      Business folks brought solid business thinking, a tremendous amount of fun and
+      engaged my whole team in becoming a part of the solution.
   - byline-1: GlowPoint, $26M in Revenues, 130 employees
     byline-2: From Michael Brandofino, Former CEO GlowPoint
-    story: I was CTO for a small publicly-traded company that was having difficulty and in 2006 I took over as CEO and had to make drastic changes to stop the bleeding and turn the company around. Interestingly we had invested the prior year in the Team Business Program where we cycled all of our employees through the program. The BOX+ experience gave the employees an understanding of the challenges and decisions that must be made to drive business and more importantly the ramifications of those decisions. When it came time to right-size the staff, our employees understood that it was to save other jobs and help us focus on fixing the company. We were successful and the company still exists today because the team pulled together and leveraged things they learned in the program.
+    story: I was CTO for a small publicly-traded company that was having difficulty
+      and in 2006 I took over as CEO and had to make drastic changes to stop the bleeding
+      and turn the company around. Interestingly we had invested the prior year in
+      the Team Business Program where we cycled all of our employees through the program.
+      The BOX+ experience gave the employees an understanding of the challenges and
+      decisions that must be made to drive business and more importantly the ramifications
+      of those decisions. When it came time to right-size the staff, our employees
+      understood that it was to save other jobs and help us focus on fixing the company.
+      We were successful and the company still exists today because the team pulled
+      together and leveraged things they learned in the program.
 - title: Hospitals & Healthcare
-  description: Hospitals employ staff that are talented medical professionals – they likely lack business acumen knowledge and experience. With the dramatic changes taking place in the hospital industry, business skills are now a critical factor for a hospital’s profitability and viability. Our business workshops fast track business acumen learning through hands-on, group-based experiences. In one day, medical staff can learn business concepts and begin to deploy them to their individual challenges, as well as those of their hospital. When Team Business workshops are deployed across departments and roles, it results in stronger collaboration, driving better patient care and financial results.
+  description: Hospitals employ staff that are talented medical professionals – they
+    likely lack business acumen knowledge and experience. With the dramatic changes
+    taking place in the hospital industry, business skills are now a critical factor
+    for a hospital’s profitability and viability. Our business workshops fast track
+    business acumen learning through hands-on, group-based experiences. In one day,
+    medical staff can learn business concepts and begin to deploy them to their individual
+    challenges, as well as those of their hospital. When Team Business workshops are
+    deployed across departments and roles, it results in stronger collaboration, driving
+    better patient care and financial results.
   client-stories:
-  - byline-1: $30B in Revenues, Global Healthcare Solutions Company
+  - byline-1: "$30B in Revenues, Global Healthcare Solutions Company"
     byline-2: Learning and Development Organization
-    story: Team Business was engaged to run the Value Based Management (VBM), experiential learning workshop to address the enterprise-wide objective of increasing business acumen competency across all staff levels and disciplines. Our staff is comprised of talented engineers and technologists. We needed a tool to help our specialized practitioners understand the end-to-end business impact of the decisions they were making. Historically, our product leaders focused on developing innovative, life-saving devices where we surpassed quality targets without exception. As we expanded our market reach and moved into new products and therapies, our staff struggled to shift their mindset to the new products and markets we were serving. In addition, while our focus had been so product intensive, we now needed our staff to think more broadly to incorporate markets, customer needs and expectations, competition, opportunity identification and cross-business unit collaboration. Team Business’ Value Based Management helped us to shift our mindsets and equipped us to be more strategic in how we achieve our multi-level objectives in the one program, in just two days. We could bring cross-business unit staff and teams together to experience the Value Based Management simulation. The simulation created an environment of collaboration, taught solid business acumen and encouraged cross-role thinking. Following the simulation, the program then turned the discussion to real challenges in our business and the teams worked towards identifying ideas and deploying solutions to meet these objectives.
+    story: Team Business was engaged to run the Value Based Management (VBM), experiential
+      learning workshop to address the enterprise-wide objective of increasing business
+      acumen competency across all staff levels and disciplines. Our staff is comprised
+      of talented engineers and technologists. We needed a tool to help our specialized
+      practitioners understand the end-to-end business impact of the decisions they
+      were making. Historically, our product leaders focused on developing innovative,
+      life-saving devices where we surpassed quality targets without exception. As
+      we expanded our market reach and moved into new products and therapies, our
+      staff struggled to shift their mindset to the new products and markets we were
+      serving. In addition, while our focus had been so product intensive, we now
+      needed our staff to think more broadly to incorporate markets, customer needs
+      and expectations, competition, opportunity identification and cross-business
+      unit collaboration. Team Business’ Value Based Management helped us to shift
+      our mindsets and equipped us to be more strategic in how we achieve our multi-level
+      objectives in the one program, in just two days. We could bring cross-business
+      unit staff and teams together to experience the Value Based Management simulation.
+      The simulation created an environment of collaboration, taught solid business
+      acumen and encouraged cross-role thinking. Following the simulation, the program
+      then turned the discussion to real challenges in our business and the teams
+      worked towards identifying ideas and deploying solutions to meet these objectives.
 - title: Universities & Colleges
-  description: Team Business offers team-based, experiential business workshops to Universities and Colleges. Our workshops give faculty and students a hands-on experience that enriches their education. The experiential and highly interactive nature of our programs provide the added benefit of rapid team bonding and the opportunity to observe personality traits in a safe environment. We are not a replacement for the lessons learned; we augment the classroom with practical and fundamental experience-based examples that help to make the curriculum real.
+  description: Team Business offers team-based, experiential business workshops to
+    Universities and Colleges. Our workshops give faculty and students a hands-on
+    experience that enriches their education. The experiential and highly interactive
+    nature of our programs provide the added benefit of rapid team bonding and the
+    opportunity to observe personality traits in a safe environment. We are not a
+    replacement for the lessons learned; we augment the classroom with practical and
+    fundamental experience-based examples that help to make the curriculum real.
   client-stories:
   - byline-1: ''
     byline-2: ''
     story: ''
 - title: High Schools
-  description: Team Business offers team-based, experiential business workshops to public and private high schools. Our workshops give teachers and students a hands-on experience that enriches their education. The experiential and highly interactive nature of our programs provide the added benefit of rapid team bonding and the opportunity to observe personality traits in a safe environment. We are not a replacement for the lessons learned; we augment the classroom with practical and fundamental experience-based examples that help to make the curriculum real.
+  description: Team Business offers team-based, experiential business workshops to
+    public and private high schools. Our workshops give teachers and students a hands-on
+    experience that enriches their education. The experiential and highly interactive
+    nature of our programs provide the added benefit of rapid team bonding and the
+    opportunity to observe personality traits in a safe environment. We are not a
+    replacement for the lessons learned; we augment the classroom with practical and
+    fundamental experience-based examples that help to make the curriculum real.
   client-stories:
   - byline-1: ''
     byline-2: ''
     story: ''
----
 
+---
 ## What our Clients Say About Our Programs
 
 {% include client-stories.html %}
