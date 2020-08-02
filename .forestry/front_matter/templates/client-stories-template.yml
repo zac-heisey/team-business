@@ -50,9 +50,13 @@ fields:
   - type: text
     name: title
     label: Title
-  - type: text
+  - type: textarea
     name: description
     label: Description
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
   - type: field_group_list
     name: client-stories
     label: Client Stories
@@ -63,8 +67,12 @@ fields:
     - type: text
       name: byline-2
       label: Byline 2
-    - type: text
+    - type: textarea
       name: story
       label: Story
+      config:
+        wysiwyg: true
+        schema:
+          format: html-blocks
 pages:
 - _pages/client-stories.md
