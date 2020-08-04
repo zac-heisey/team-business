@@ -41,7 +41,6 @@ h2:after {
 
 }
 
-
 /* Homepage */
 
 #intro {
@@ -156,16 +155,105 @@ hr.divider {
 
 /* Client Stories */
 
-.client-stories hr {
+#client-stories {
 
-  margin: 2rem 0;
+	.story-box {
+
+		max-width: 900px;
+		margin: 0 auto;
+		padding: 40px 50px;
+
+		@include media-query( $on-palm ) {
+
+			max-width: 80%;
+
+		}
+
+	}
+
+	blockquote {
+
+		font-weight: 300;
+		border: none;
+		padding: 0 !important;
+		margin: 0 0 10px 0 !important;
+		font-size: 1.2em !important;
+
+	}
+
+	blockquote:before {
+
+		content: "\f10d";
+		font-family: 'Fontawesome';
+		float: left;
+		color: $brand-color;
+		margin-right: 10px;
+		font-style: normal;
+
+	}
+
+	small {
+
+		color: $brand-color;
+    font-size: 1rem;
+		font-weight: 300;
+		text-transform: capitalize;
+
+	}
+
+  .carousel-2 {
+
+  	.owl-nav {
+
+  		position: absolute;
+  		top: 30%;
+  		color: #999;
+  		font-size: 125px;
+  		line-height: 0;
+  		width: 100%;
+
+  		@include media-query($on-palm) {
+
+  			font-size: 50px;
+  			top: 50%;
+
+  		}
+
+  		.owl-next,
+  		.owl-prev {
+
+  			position: absolute;
+
+  			&:hover {
+
+  				background-color: transparent;
+  				outline: none;
+  				color: #ddd;
+
+  			}
+
+  		}
+
+  		.owl-next {
+
+  			right: 0;
+  		}
+
+  		.owl-prev {
+
+  			left: 0;
+  		}
+
+  	}
+
+  }
 
 }
 
 /*== MEDIA QUERIES ==*/
 
 // 800px
-@include media-query($on-laptop) {
+@include media-query( $on-laptop ) {
 
   .header-image.page {
     margin-top: 91px;

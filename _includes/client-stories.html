@@ -1,4 +1,39 @@
-{% for vertical in page.verticals %}
+<section id="client-stories">
+
+	<div class="container">
+
+    {% for vertical in page.verticals %}
+    <h3>{{ vertical.title }}</h3>
+    <p>{{ vertical.description }}</p>
+
+		<div class="owl-carousel owl-theme carousel-2 position-relative rev">
+      {% for story in vertical.client-stories %}
+  		<div class="stories">
+  			<div class="story-box">
+  				<div class="row">
+  					<div class="col-md-12">
+  						<blockquote>{{ story.story }}</blockquote>
+              {% if story.byline-1 and story.byline-1 != '' %}
+              <small>{{ story.byline-1 }}</small>
+              {% endif %}
+              {% if story.byline-2 and story.byline-2 != '' %}
+              <br><small>{{ story.byline-2 }}</small>
+              {% endif %}
+  					</div>
+  				</div>
+  			</div>
+  		</div>
+      {% endfor %}
+		</div>
+    {% endfor %}
+
+	</div>
+
+</section>
+
+<!-- OLD VERSION OF CLIENT STORIES -->
+
+<!-- {% for vertical in page.verticals %}
 
   <h3>{{ vertical.title }}</h3>
   <p>{{ vertical.description }}</p>
@@ -21,4 +56,4 @@
   </div>
   {% endfor %}
 
-{% endfor %}
+{% endfor %} -->
