@@ -24,17 +24,16 @@ verticals:
   client-stories:
   - byline-1: GlowPoint, $26M in Revenues, 130 employees
     byline-2: From Michael Brandofino, Former CEO GlowPoint
-    story: "<blockquote><p>I was CTO for a small publicly-traded company that was
-      having difficulty and in 2006 I took over as CEO and had to make drastic changes
-      to stop the bleeding and turn the company around. Interestingly we had invested
-      the prior year in the Team Business Program where we cycled all of our employees
-      through the program. The BOX+ experience gave the employees an understanding
-      of the challenges and decisions that must be made to drive business and more
-      importantly the ramifications of those decisions. When it came time to right-size
-      the staff, our employees understood that it was to save other jobs and help
-      us focus on fixing the company. We were successful and the company still exists
-      today because the team pulled together and leveraged things they learned in
-      the program.</p></blockquote>"
+    story: "<p>I was CTO for a small publicly-traded company that was having difficulty
+      and in 2006 I took over as CEO and had to make drastic changes to stop the bleeding
+      and turn the company around. Interestingly we had invested the prior year in
+      the Team Business Program where we cycled all of our employees through the program.
+      The BOX+ experience gave the employees an understanding of the challenges and
+      decisions that must be made to drive business and more importantly the ramifications
+      of those decisions. When it came time to right-size the staff, our employees
+      understood that it was to save other jobs and help us focus on fixing the company.
+      We were successful and the company still exists today because the team pulled
+      together and leveraged things they learned in the program.</p>"
   - byline-1: Aluminum Manufacturing Company from the CEO
     byline-2: ''
     story: "<blockquote><p>We were a business that was in financial trouble – when
