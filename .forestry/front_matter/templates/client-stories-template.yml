@@ -74,7 +74,7 @@ fields:
         wysiwyg: true
         schema:
           format: html-blocks
-      description: Keeping client stories to around 775 characters (~130 words) will
-        keep things looking nice and uniform.
+      description: Client stories should be limited to 775 characters (~130 words)
+        to keep things looking nice and uniform.
 pages:
 - _pages/client-stories.md
