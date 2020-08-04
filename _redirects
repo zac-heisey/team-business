@@ -1,0 +1,42 @@
+### NETLIFY DEV DOMAIN REDIRECTS
+https://teambusiness.netlify.app/*  https://teambusiness.com/:splat  301!
+
+### PAGE & BLOG REDIRECTS
+/categories/	/	301!
+/contact-1/	/contact/	301!
+/corporate-accounting-workshop/	/accounting-workshop/	301!
+/corporate-business-acumen-workshop/	/programs/car/	301!
+/corporate-employee-decision-making/	/programs/car/	301!
+/corporate-employee-productivity/	/programs/car/	301!
+/corporate-entrepreneurship-workshop/	/programs/box/	301!
+/corporate-financial-acumen-workshop/	/accounting-workshop/	301!
+/corporate-programs/	/#our-programs/	301!
+/corporate-programs/accounting-comes-alive-plus/	/accounting-workshop/	301!
+/corporate-programs/car-plus/	/programs/car/	301!
+/corporate-programs/team-plus/	/team-building-workshop/	301!
+/corporate-programs/value-based-management/	/value-based-management-workshop/	301!
+/corporate-team-effectiveness/	/team-building-workshop/	301!
+/corporate-teambuilding/	/team-building-workshop/	301!
+/corporations-nonprofits/	/client-stories/	301!
+/high-school-entrepreneurship-business/	/programs/box/	301!
+/high-school-entrepreneurship/	/programs/box/	301!
+/high-school-financial-literacy/	/accounting-workshop/	301!
+/high-school-leadership/	/team-building-workshop/	301!
+/high-school-teambuilding/	/team-building-workshop/	301!
+/highschools/	/client-stories/	301!
+/hospitals-business-acumen/	/programs/car/	301!
+/hospitals/	/client-stories/	301!
+/portfolio/	/client-stories/	301!
+/programs/	/#our-programs/	301!
+/programs/accounting-comes-alive/	/accounting-workshop/	301!
+/programs/car/	/programs/box/	301!
+/programs/classic-10/	/strategy-workshop-mba-in-a-day/	301!
+/programs/team/	/team-building-workshop/	301!
+/universities_and_colleges/	/client-stories/	301!
+/university-accounting-workshop/	/accounting-workshop/	301!
+/university-entrepreneurship-workshop/	/programs/box/	301!
+/university-financial-accumen-workshop/	/accounting-workshop/	301!
+/university-leadership-workshop/	/team-building-workshop/	301!
+/universityl-teambuilding/	/team-building-workshop/	301!
+/value-based-management_workshop/	/value-based-management-workshop/	301!
+/what-we-do/	/about/	301!
