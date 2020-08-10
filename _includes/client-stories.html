@@ -1,9 +1,17 @@
 <section id="client-stories">
 
+	<nav class="anchors">
+		<p>Verticals We Serve:
+			{% for vertical in page.verticals %}
+				<a href="#{{ vertical.title | slugify }}">{{ vertical.title }}</a> |
+			{% endfor %}
+		</p>
+	</nav>
+
 	<div class="container">
 
     {% for vertical in page.verticals %}
-    <h3>{{ vertical.title }}</h3>
+    <h3 id="{{ vertical.title | slugify }}">{{ vertical.title }}</h3>
     <p>{{ vertical.description }}</p>
 
 		<div class="owl-carousel owl-theme carousel-2 position-relative rev">

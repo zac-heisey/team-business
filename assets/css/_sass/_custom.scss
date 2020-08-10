@@ -82,7 +82,6 @@ h2:after {
   }
 }
 
-
 .featured-client {
   display: inline-block;
   margin: 0 1rem;
@@ -156,6 +155,23 @@ hr.divider {
 /* Client Stories */
 
 #client-stories {
+
+  .anchors {
+
+    margin-bottom: 3rem;
+
+  }
+
+  h3::before {
+
+    display: block;
+    content: '';
+    margin-top: -95px;
+    height: 95px; 
+    visibility: hidden;
+    pointer-events: none;
+
+  }
 
 	.story-box {
 
