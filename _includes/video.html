@@ -5,7 +5,7 @@
         {% if include.heading and include.heading != "" %}
         <h2>{{ include.heading }}</h2>
         {% endif %}
-        <iframe class="video" src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="video" src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
         {% if include.sub-text and include.sub-text != "" %}
         <p>{{ include.sub-text }}</p>
         {% endif %}
