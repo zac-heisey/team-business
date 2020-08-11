@@ -178,6 +178,9 @@
 	-->
 	<script>
 
+		// The element that you want to watch
+		const element = document.querySelector('iframe');
+
 		// Create a new Intersection Observer
 		let observer = new IntersectionObserver(function (entries, observer) {
 		  entries.forEach(entry => {
@@ -191,12 +194,9 @@
 		});
 
 		function loadElement(element) {
-		  const src = element.getAttribute('data-src');
+			const src = element.getAttribute('data-src');
 		  element.src = src;
 		}
-
-		// The element that you want to watch
-		const element = document.querySelector('iframe');
 
 		// Register the element with the observe method
 		observer.observe(element);
