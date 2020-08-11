@@ -24,10 +24,7 @@
 		<a href="#top" class="scrollup"><i class="fa fa-long-arrow-up" aria-hidden="true"></i></a>
 		{% include footer.html %}
 
-
 	</div>
-
-
 
 	<!-- JQuery  -->
 	<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
@@ -51,7 +48,6 @@
 		});
 
 	</script>
-
 
 	<script>
 		$(document).ready(function() {
@@ -93,8 +89,6 @@
 
 		});
 	</script>
-
-
 
 	<!-- Reveal items on scroll -->
 	<script type="text/javascript" src="{{site.baseurl}}/assets/js/scrollreveal.min.js"></script>
@@ -177,6 +171,38 @@
 		});
 
 	</script>
+
+	<!--
+		Lazy Load YouTube Embed via IntersectionObserver
+		(https://web.dev/codelab-optimize-third-party-javascript/)
+	-->
+	<script>
+
+		// Create a new Intersection Observer
+		let observer = new IntersectionObserver(function (entries, observer) {
+		  entries.forEach(entry => {
+		    if (entry.isIntersecting) {
+		      // Do this when the element enters the viewport
+		      loadElement(entry.target);
+		      // Stop watching
+		      observer.unobserve(entry.target);
+		    }
+		  });
+		});
+
+		function loadElement(element) {
+		  const src = element.getAttribute('data-src');
+		  element.src = src;
+		}
+
+		// The element that you want to watch
+		const element = document.querySelector('iframe');
+
+		// Register the element with the observe method
+		observer.observe(element);
+
+	</script>
+
 </body>
 
 </html>
