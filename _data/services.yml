@@ -4,7 +4,7 @@
     active learning experiences that enrich their education. We are not a replacement
     for the lessons learned, we augment the classroom with practical and fundamental
     experience-based examples that help to make the curriculum real.
-  fa-icon: fa-graduation-cap
+  icon: graduation-cap-white
   link: /client-stories/#universities-colleges
 - title: Corporations & Non Profits
   description: Our group workshops help your team fully comprehend what complex set
@@ -12,7 +12,7 @@
     them through a structured program. Our programs deliver value as BOTH a team-building
     experience and can rapidly improve the business decisions your teams make – leading
     to better collaboration and business results.
-  fa-icon: fa-chart-bar
+  icon: bar-chart-white
   link: /client-stories/#corporations-non-profits
 - title: Hospitals
   description: Hospitals employ staff likely lack business acumen.  With the dramatic
@@ -21,5 +21,5 @@
     acumen learning through hands-on, group-based experiences.  In one day, medical
     staff can learn business concepts and begin to deploy them immediately back at
     work.
-  fa-icon: fa-clinic-medical
+  icon: medical-clinic-white
   link: /client-stories/#hospitals-healthcare

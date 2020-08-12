@@ -28,13 +28,13 @@
 	}
 
 	blockquote:before {
-		content: "\f10d";
-		font-family: 'Fontawesome';
+		content: '❝';
 		float: left;
 		color: $brand-color;
 		margin-right: 10px;
 		font-style: normal;
 	}
+
 	small {
 		color: $brand-color;
 		font-weight: 300;
