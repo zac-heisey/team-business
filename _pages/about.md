@@ -21,8 +21,8 @@ We believe in learning through doing, so we create a safe environment to make mi
 
 <!-- Buttons -->
 <div style="display:flex; justify-content:center; flex-wrap:wrap; margin:2rem 0;">
-<a href="#" class="btn btn-default" style="margin:10px;">Learn More About Our Programs</a>
-<a href="#" class="btn btn-default" style="margin:10px;">View Our Corporate Offerings</a>
+<a href="/#our-programs" class="btn btn-default" style="margin:10px;">Learn More About Our Programs</a>
+<a href="/client-stories/" class="btn btn-default" style="margin:10px;">View Our Client Stories</a>
 </div>
 
 <!-- Team Business Programs Video (you can edit the video ID, heading, and sub-text fields below) -->
