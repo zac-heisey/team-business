@@ -25,7 +25,7 @@ We believe in learning through doing, so we create a safe environment to make mi
 <a href="/client-stories/" class="btn btn-default" style="margin:10px;">View Our Client Stories</a>
 </div>
 
-<!-- Team Business Programs Video (you can edit the video ID, heading, and sub-text fields below) --> {% include video.html id="[https://youtu.be/__ZmNIYuz4Q](https://youtu.be/__ZmNIYuz4Q "https://youtu.be/__ZmNIYuz4Q")" heading="See Our Programs in Action" sub-text="" %}
+<!-- Team Business Programs Video (you can edit the video ID, heading, and sub-text fields below) --> {% include video.html id="[__ZmNIYuz4Q](https://youtu.be/__ZmNIYuz4Q "https://youtu.be/__ZmNIYuz4Q")" heading="See Our Programs in Action" sub-text="" %}
 
 ## Team Business is honored to work with top universities, colleges, high schools, businesses and organizations.
 
