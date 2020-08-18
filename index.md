@@ -12,7 +12,7 @@ video-id: zWNO2mUUcYA
 sections:
 - heading: Our Programs
   include: programs.html
-- heading: Our Services
+- heading: Who Uses Our Programs
   include: services.html
 - heading: What Our Clients Say
   include: testimonial.html
