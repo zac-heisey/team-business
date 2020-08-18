@@ -60,8 +60,6 @@ Employees take the lessons from the entrepreneurship workshop and, guided by the
 
 In the BOX entrepreneurship workshop, students are intensively engaged in starting and running a “start-up” business.
 
-Everyone is challenged to participate in the fun and competitive production and management of a product. Starting with a kickoff meeting, roles and processes are established. Participants are presented with the management of a number of concepts and activities that impact real businesses.
-
 The BOX entrepreneurship program teaches great lessons first hand about business, all the while combining competition, negotiation, teamwork and many other essential soft skills that can’t be learned via a textbook or lecture. Here are some concepts taught in BOX:
 
 **Key Learnings:**
