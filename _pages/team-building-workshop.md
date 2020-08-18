@@ -11,7 +11,7 @@ intro-2: 'The TEAM program exposes participants to how team dynamics in the work
 header-image: "/assets/images/accounting-workshop.jpg"
 
 ---
-## **The TEAM program focuses on behavioural dynamics, teamwork skills and creating bonds.**
+## **THE TEAM PROGRAM TEACHES LEADERSHIP AND TEAM DYNAMICS WHILE CREATING LONG-LASTING BONDS.** 
 
 In this “safe” learning environment, peoples’ true personalities are exposed and they learn how to enhance their strengths and work on their weaknesses, in a non-threatening environment. This creates a great environment for behaviours to be observed and a platform for leadership coaching.
 
