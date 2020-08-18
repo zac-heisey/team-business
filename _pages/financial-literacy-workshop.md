@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Financial Literacy Workshop POSSIBLY DELETE??
+title: Financial Literacy Workshop -  DELETE
 permalink: "/financial-literacy-workshop/"
 description: ''
 header-image: "/assets/images/financial-literacy-workshop.jpg"
