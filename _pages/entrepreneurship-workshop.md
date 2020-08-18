@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Entrepreneurship Workshop POSSIBLY DELETE??
+title: Entrepreneurship Workshop - DELETE
 permalink: "/entrepreneurship-workshop/"
 description: ''
 section-title: Entrepreneurship Workshop
@@ -9,6 +9,7 @@ intro-2: Our business simulations are designed to accelerate business learning a
   team bonding–enabling great business decisions to be made in the business environment
   and deeper and more relevant lessons to be taught in the education environment.
 header-image: "/assets/images/accounting-workshop.jpg"
+
 ---
 Participants are led through an imaginary 4 to 6 months in the development of a new business and are faced with competition from other groups all developing products in the same market.
 
