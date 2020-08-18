@@ -14,7 +14,9 @@ intro-2: Transform your people from thinking like an ‘employee’ to thinking 
   really takes to start and build a business.
 
 ---
-## **BOX IS A FAST-PACED COMPETITIVE ENVIRONMENT, SPECIFICALLY CRAFTED FOR THE BUSINESS WORLD, THAT PRESERVES THE IMPORTANCE OF COMMUNICATION, TEAMWORK, AND LISTENING SKILLS. IT IS AN INTENSE AND EXCITING LEARNING EXPERIENCE THAT IS NOT SOON FORGOTTEN.**
+## **BOX IS A FAST-PACED COMPETITIVE ENVIRONMENT THAT PRESERVES THE IMPORTANCE OF COMMUNICATION, TEAMWORK, AND LISTENING SKILLS.**
+
+**BOX IS A FAST-PACED COMPETITIVE ENVIRONMENT, SPECIFICALLY CRAFTED FOR THE BUSINESS WORLD, THAT PRESERVES THE IMPORTANCE OF COMMUNICATION, TEAMWORK, AND LISTENING SKILLS. IT IS AN INTENSE AND EXCITING LEARNING EXPERIENCE THAT IS NOT SOON FORGOTTEN.**
 
 The BOX workshop uses a hands-on, experiential simulation as a tool to improve your people's business decision making, whether they are staff or students! Participants start and run a box-making business for several 'imaginary' months and are placed under pressure to perform and beat the competition by making more profit. Through the experience, they play the role of managers (financial, production, HR), and workers and during the simulation interact with suppliers and customers.  In many cases, they need to accomplish their objective or task by influencing others. We create a fun, yet pressure-filled environment, in which great learning occurs - business and behavioural.
 
