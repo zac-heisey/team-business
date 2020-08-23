@@ -10,6 +10,9 @@ intro-2: Team Business offers business education programs that improve business 
   making through simulations. Our programs improve critical thinking, collaboration
   and business outcomes by enabling new ways of thinking in a risk-free environment
   with immediate impact to your business performance.
+video-heading: See Our Programs in Action
+video-sub-text:
+video-id: __ZmNIYuz4Q
 header-image: "/assets/images/about-bg.jpg"
 
 ---
@@ -25,7 +28,12 @@ We believe in learning through doing, so we create a safe environment to make mi
 <a href="/client-stories/" class="btn btn-default" style="margin:10px;">View Our Client Stories</a>
 </div>
 
-<!-- Team Business Programs Video (you can edit the video ID, heading, and sub-text fields below) --> {% include video.html id="[__ZmNIYuz4Q](https://youtu.be/__ZmNIYuz4Q "https://youtu.be/__ZmNIYuz4Q")" heading="See Our Programs in Action" sub-text="" %}
+<!-- Team Business Programs Video (you can edit the video ID, heading, and sub-text fields in the left pane) -->
+{% capture video-heading %}{{ page.video-heading }}{% endcapture %}
+{% capture video-sub %}{{ page.video-sub-text }}{% endcapture %}
+{% capture video-id %}{{ page.video-id }}{% endcapture %}
+
+{% include video.html id=video-id heading=video-heading sub-text=video-sub %}
 
 ## Team Business is honored to work with top universities, colleges, high schools, businesses and organizations.
 

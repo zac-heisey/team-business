@@ -28,7 +28,7 @@ sections:
 
 ___
 
-<!-- Homepage Video (you can edit the video ID, heading, and sub-text fields below) -->
+<!-- Homepage Video (you can edit the video ID, heading, and sub-text fields in the left pane) -->
 {% capture video-heading %}{{ page.video-heading }}{% endcapture %}
 {% capture video-sub %}{{ page.video-sub-text }}{% endcapture %}
 {% capture video-id %}{{ page.video-id }}{% endcapture %}
