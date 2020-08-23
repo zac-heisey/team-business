@@ -1,17 +1,25 @@
 <section id="clients" class="bg-white">
+	{% if page.url == '/' %}
+	<!-- Show featured clients on homepage -->
 	<div class="container" style="text-align: center;">
 		<div class="client-logo-wrapper">
 		{% for client in site.clients %}
-		<!-- Show featured clients on homepage -->
-		{% if page.url == '/' %}
 			{% if client.featured == true %}
 			<div class="client-logo-item" style="background-image: url({{ client.logo }});"></div>
 			{% endif %}
-		<!-- Show all clients on about page, etc. -->
-		{% else %}
-		<div class="client-logo-item" style="background-image: url({{ client.logo }});"></div>
-		{% endif %}
-		{% endfor%}
+		{% endfor %}
+		</div>
+		<!-- View Additional Clients -->
+		<a href="/about#clients" class="btn btn-default" style="margin:10px;">View Additional Clients</a>
+	</div>
+	{% else %}
+	<!-- Show all clients on about page, etc. -->
+	<div class="container" style="text-align: center;">
+		<div class="client-logo-wrapper">
+			{% for client in site.clients %}
+			<div class="client-logo-item" style="background-image: url({{ client.logo }});"></div>
+			{% endfor%}
 		</div>
 	</div>
+	{% endif %}
 </section>

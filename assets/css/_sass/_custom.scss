@@ -183,6 +183,25 @@ hr.divider {
 
 }
 
+/* Client Logos (About Page) */
+
+#clients {
+
+  padding: 0 0 50px 0;
+
+  &::before {
+
+    display: block;
+    content: '';
+    margin-top: -200px;
+    height: 200px;
+    visibility: hidden;
+    pointer-events: none;
+
+  }
+
+}
+
 /* Client Stories */
 
 #client-stories {
