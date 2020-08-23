@@ -39,6 +39,24 @@ fields:
   description: Secondary intro text in header
   config:
     wysiwyg: false
+- type: text
+  name: video-heading
+  label: Video Heading
+  description: The heading text that appears above your video
+- type: textarea
+  name: video-sub-text
+  label: Video Sub-Text
+  description: The text that appears below your video
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: text
+  name: video-id
+  label: Video ID
+  description: Indicates which YouTube video to be displayed. The video ID can be
+    found in the URL of your YouTube video (e.g. youtube.com/watch?v=<strong>{{video
+    id is here}})</strong>
 - type: file
   name: header-image
   label: Header Image
