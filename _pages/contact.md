@@ -42,6 +42,14 @@ Every interaction begins with a conversation because every experience we lead ca
   </div>
 
   <div class="form-row">
+    <!-- Company / Organization -->
+    <div class="form-group col-md-8">
+      <label class="sr-only" for="organization">Company / Organization</label>
+      <input class="form-control" type="text" name="Company / Organization" id="organization" placeholder="Company / Organization" required>
+    </div>
+  </div>
+
+  <div class="form-row">
     <!-- Message -->
     <div class="form-group col-md-8">
       <label class="sr-only" for="message">Phone Number</label>
