@@ -1,5 +1,5 @@
 ### NETLIFY DEV DOMAIN REDIRECTS
-https://teambusiness.netlify.app/*  https://teambusiness.com/:splat  301!
+https://teambusiness.netlify.app/*  https://www.teambusiness.com/:splat  301!
 
 ### PAGE & BLOG REDIRECTS
 /categories/	/	301!
