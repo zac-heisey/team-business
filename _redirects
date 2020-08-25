@@ -1,7 +1,7 @@
-### NETLIFY DEV DOMAIN REDIRECTS
+# NETLIFY DEV DOMAIN REDIRECTS
 https://teambusiness.netlify.app/*  https://www.teambusiness.com/:splat  301!
 
-### PAGE & BLOG REDIRECTS
+# PAGE & BLOG REDIRECTS
 /categories/	/	301!
 /contact-1/	/contact/	301!
 /corporate-accounting-workshop/	/accounting-workshop/	301!
