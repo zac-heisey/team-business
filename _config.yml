@@ -45,6 +45,9 @@ compress_html:
 
 #########################################
 
+include:
+  - _redirects
+
 exclude:
   - .git
 
