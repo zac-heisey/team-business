@@ -23,6 +23,7 @@ kramdown:
 # Jekyll will read contents inside _pages only if we tell it to
 include:
   - _pages
+  - _redirects
 
 # Google Ananlytics Tracker
 analytics: UA-92266803-2  # Sign up with Google analytics and replce with your analytics ID
@@ -44,9 +45,6 @@ compress_html:
   startings: []
 
 #########################################
-
-include:
-  - _redirects
 
 exclude:
   - .git
