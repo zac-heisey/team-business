@@ -29,7 +29,6 @@ https://teambusiness.netlify.app/*  https://www.teambusiness.com/:splat  301!
 /portfolio/	/client-stories/	301!
 /programs/	/#our-programs/	301!
 /programs/accounting-comes-alive/	/accounting-workshop/	301!
-/programs/car/	/programs/box/	301!
 /programs/classic-10/	/strategy-workshop-mba-in-a-day/	301!
 /programs/team/	/team-building-workshop/	301!
 /universities_and_colleges/	/client-stories/	301!
