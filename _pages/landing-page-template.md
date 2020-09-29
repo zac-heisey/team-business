@@ -1,13 +1,15 @@
 ---
-layout: page
-title: Landing Page Template - Hospitals
+layout: landing-page
+title: Landing Page Template - Demo
 permalink: /landing-page-template/
-description: ''
+description: This is a demo landing page to show how the landing page template can be used.
 section-title: ''
 header-image: ''
-intro-1: Our Business is Seeing Your Hospital Excel
-intro-2: Accelerate the Business Acumen of Medical Professionals
+intro-1: ''
+intro-2: ''
 ---
+
+# Super Duper Awesome Landing Page Headline Right Here!
 
 Team Business offers business education programs in the form of hands-on simulations that are designed to teach through experience in order to accelerate business learning.
 
