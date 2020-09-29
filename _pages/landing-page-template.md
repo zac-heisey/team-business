@@ -1,14 +1,15 @@
 ---
 layout: landing-page
 title: Landing Page Template - Demo
-permalink: /landing-page-template/
-description: This is a demo landing page to show how the landing page template can be used.
+permalink: "/landing-page-template/"
+description: This is a demo landing page to show how the landing page template can
+  be used.
 section-title: ''
 header-image: ''
 intro-1: ''
 intro-2: ''
----
 
+---
 # Super Duper Awesome Landing Page Headline Right Here!
 
 Team Business offers business education programs in the form of hands-on simulations that are designed to teach through experience in order to accelerate business learning.

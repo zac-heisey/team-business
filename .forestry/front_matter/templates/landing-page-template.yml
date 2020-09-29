@@ -54,3 +54,5 @@ fields:
     maxSize: 64
   label: Header Image
   description: Header background image
+pages:
+- _pages/landing-page-template.md
