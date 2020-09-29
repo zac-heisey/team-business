@@ -1,0 +1,28 @@
+---
+label: Landing Page Template
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: description
+  label: description
+- type: text
+  name: section-title
+  label: section-title
+- type: text
+  name: header-image
+  label: header-image
+- type: text
+  name: intro-1
+  label: intro-1
+- type: text
+  name: intro-2
+  label: intro-2
