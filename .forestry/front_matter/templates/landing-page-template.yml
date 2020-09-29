@@ -5,24 +5,52 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: landing-page
 - type: text
   name: title
-  label: title
+  label: Title
+  description: Title of your landing page
 - type: text
   name: permalink
   label: permalink
-- type: text
-  name: description
-  label: description
-- type: text
-  name: section-title
-  label: section-title
-- type: text
-  name: header-image
-  label: header-image
-- type: text
-  name: intro-1
-  label: intro-1
-- type: text
-  name: intro-2
-  label: intro-2
+  hidden: true
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+    max: 170
+  label: Page Description
+  description: Description of your page for SEO
+- name: section-title
+  type: text
+  config:
+    required: false
+  label: Small Title
+  description: Adds a small title in your header above the larger intro text
+- name: intro-1
+  type: text
+  config:
+    required: false
+  label: Intro Text 1
+  description: Primary intro text in header
+- name: intro-2
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Intro Text 2
+  description: Secondary intro text in header
+- name: header-image
+  type: file
+  config:
+    maxSize: 64
+  label: Header Image
+  description: Header background image
