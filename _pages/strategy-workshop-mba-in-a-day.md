@@ -10,6 +10,9 @@ intro-2: Participants engage in a two-part program – the first an intellectual
   high level strategic simulation and the second part guides them through how to apply
   the learning to their roles at work.
 header-image: "/assets/images/accounting-workshop.jpg"
+video-heading: ''
+video-sub-text: ''
+video-id: ''
 
 ---
 ## Turn strong operational leaders into strategic thinkers.
@@ -43,6 +46,26 @@ Finally, participants are better prepared to use the tools to explain their deci
 * Learn how to effectively communicate decisions to others
 
 ### The Classic 10 Theories
+
+1\. THE DECISION-MAKING CYCLE
+
+2\. THE PROFIT TRIANGLE
+
+3\. DEMAND AND SUPPLY THEORY
+
+4\. PORTER’S SUB SECTOR ANALYSIS
+
+5\. THE PRODUCT LIFE CYCLE
+
+6\. THE FOUR P’S OF MARKETING
+
+7\. MARKET SEGMENTATION THEORY
+
+8\. PRODUCT DIFFERENTIATION THEORY
+
+9\. VALENCY THEORY
+
+10\. VALUE CHAIN ANALYSIS
 
 ![](/assets/images/screen-shot-2020-07-22-at-5-17-25-am.png)
 
