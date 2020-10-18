@@ -25,8 +25,8 @@ include:
   - _pages
   - _redirects
 
-# Google Ananlytics Tracker
-analytics: UA-92266803-2  # Sign up with Google analytics and replce with your analytics ID
+# Google Ananlytics Tracker - replace with your analytics ID
+analytics: UA-8606456-1
 
 # All compression variables are declared here.
 sass:
