@@ -34,9 +34,9 @@
 	<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
 
 	<!-- Google Analytics -->
-	{% if site.analytics %}
-		{% include analytics-lite.html %}
-	{% endif %}
+	<script defer src="/assets/js/analytics.js"></script>
+	<script defer src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics }}"></script>
+
 
 	<!-- Google reCAPTCHA -->
 	{% if page.url == '/contact/' %}
