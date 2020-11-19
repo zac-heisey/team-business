@@ -1,5 +1,8 @@
 ---
 items:
+- title: Partners
+  url: ''
+  sub-items: []
 - title: Home
   url: "/"
   sub-items: []
