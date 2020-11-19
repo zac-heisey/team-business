@@ -26,9 +26,6 @@ items:
 - title: Clients
   url: "/client-stories/"
   sub-items: []
-- title: Partners
-  url: "/partners/"
-  sub-items: []
 - title: Contact
   url: "/contact/"
   sub-items: []
