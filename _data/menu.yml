@@ -1,8 +1,5 @@
 ---
 items:
-- title: Partners
-  url: ''
-  sub-items: []
 - title: Home
   url: "/"
   sub-items: []
@@ -28,6 +25,9 @@ items:
     url: "/value-based-management-workshop/"
 - title: Clients
   url: "/client-stories/"
+  sub-items: []
+- title: Partners
+  url: "/partners/"
   sub-items: []
 - title: Contact
   url: "/contact/"
