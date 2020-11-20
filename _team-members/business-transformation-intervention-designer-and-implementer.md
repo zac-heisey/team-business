@@ -1,6 +1,6 @@
 ---
 name: Ian Clark
-title: Business Transformation Intervention Designer and Implementer
+title: Business Transformation Intervention Designer and Implementer, Team Business
 image: "/assets/images/ian-clark.png"
 bio: 'Ian Clark has 45 years of experience globally in the design and implementation
   of experiential, active-learning, business impact programs.  In 1994 he was the
