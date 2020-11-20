@@ -8,7 +8,7 @@ bio: "Mark, born in Ireland, started his career as a commercial banker and then 
   Banks in 12 countries over 30 months. Mark has worked extensively in academia both
   as a senior lecturer in marketing and strategy and as an administrator as the Managing
   Director of The Graduate Institute of Management, the Director of Henley Management
-  College and as the Director of Executive Education at Wits Business School. <br>\n\nMark
+  College and as the Director of Executive Education at Wits Business School. <br><br>\n\nMark
   holds an MBA, with Distinction, from Brunel and Henley Management College UK, a
   Graduate Diploma in Company Direction, Diplomas in Finance, HR, IR and PDM (UK).
   \ He holds the MASA Chartered Marketer designation and an IEDP from London Business
