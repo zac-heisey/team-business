@@ -8,6 +8,5 @@ bio: 'Ian Clark has 45 years of experience globally in the design and implementa
   Experiential Learning worldwide.  His work spans private, non-profit, economic development
   and education sectors, and thousands of participants have experienced and benefited
   from his programs. '
-published: false
 
 ---
