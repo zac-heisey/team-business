@@ -9,13 +9,12 @@ bio: "Mark, born in Ireland, started his career as a commercial banker and then 
   as a senior lecturer in marketing and strategy and as an administrator as the Managing
   Director of The Graduate Institute of Management, the Director of Henley Management
   College and as the Director of Executive Education at Wits Business School.\n\nMark
-  holds an MBA, with Distinction, from Brunel and Henley Management College UK, (he
-  was Henley’s top student in 1997), a Graduate Diploma in Company Direction, Diplomas
-  in Finance, HR, IR and PDM (UK).  He holds the MASA Chartered Marketer designation
-  and an IEDP from London Business School. He is a Phd Candidate at UFS Business School,
-  studying competencies of Boards of Directors. He has won distinguished teaching
-  awards at GIMT, Henley & WBS, and was awarded a case teaching scholarship to Harvard
-  Business School in 2008. "
+  holds an MBA, with Distinction, from Brunel and Henley Management College UK, a
+  Graduate Diploma in Company Direction, Diplomas in Finance, HR, IR and PDM (UK).
+  \ He holds the MASA Chartered Marketer designation and an IEDP from London Business
+  School. He is a PhD Candidate at UFS Business School, studying competencies of Boards
+  of Directors. He has won distinguished teaching awards at GIMT, Henley & WBS, and
+  was awarded a case teaching scholarship to Harvard Business School in 2008. "
 published: false
 
 ---
