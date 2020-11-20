@@ -8,6 +8,5 @@ bio: 'Ian has over 30 years of experience in business leadership, and marketing 
   and group/team learning and development sessions. People find him creative in facilitating
   personal development. Ian holds a degree from Oxford University in liberal arts
   - Greek and Latin literature, ancient history and philosophy. '
-published: false
 
 ---
