@@ -1,5 +1,5 @@
 ---
-name: Ian Woddop
+name: Ian Widdop
 title: Learning Consultant
 image: "/assets/images/ian-widdop.png"
 bio: 'Ian has over 30 years of experience in business leadership, and marketing and
