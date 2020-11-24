@@ -1,7 +1,7 @@
 ---
 name: Mark Peters
 title: Strategy Facilitator
-image: "/assets/images/mark-j-peters_jfp0626_opt.jpg"
+image: "/assets/images/mark-j-peters_jfp0626.jpg"
 bio: "Mark, born in Ireland, started his career as a commercial banker and then moved
   to the Ford Foundation researching financing of small business and community development,
   based in South Africa.  This research involved working directly with Community Investment
