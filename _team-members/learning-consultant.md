@@ -1,7 +1,7 @@
 ---
 name: Ian Widdop
 title: Learning Consultant
-image: "/assets/images/ian-widdop.png"
+image: "/assets/images/ian-widdop-_opt.png"
 bio: 'Ian has over 30 years of experience in business leadership, and marketing and
   sales strategy consulting. His expertise includes Business Coaching, Project Management,
   Facilitation and Training.  He has facilitated more than ten thousand hours of 1-1
