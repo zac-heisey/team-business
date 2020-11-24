@@ -1,7 +1,7 @@
 ---
 name: Chris Dykes
 title: Founder, Infinity Learning
-image: "/assets/images/chris-dykes.png"
+image: "/assets/images/chris-dykes_opt.png"
 bio: Infinity Learning is a consultancy that assists corporates with Broad-Based Black
   Economic Development (BEE), growth strategies, skills training, social, and entrepreneurial
   development programmes. Not only has Infinity Learning worked with multiple corporates
