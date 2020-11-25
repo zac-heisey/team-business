@@ -26,9 +26,9 @@ items:
 - title: Clients
   url: "/client-stories/"
   sub-items: []
-- title: Contact
-  url: "/contact/"
-  sub-items: []
 - title: Partners
   url: https://drive.google.com/drive/u/1/folders/1KPNXs-oAHSOzwF6ktfW_iLJmM3a9qiT5
+  sub-items: []
+- title: Contact
+  url: "/contact/"
   sub-items: []
