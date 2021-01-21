@@ -16,5 +16,6 @@ bio: "Mark, born in Ireland, started his career as a commercial banker and then 
   competencies of Boards of Directors. He has won distinguished teaching awards at
   GIMT, Henley & WBS, and was awarded a case teaching scholarship to Harvard Business
   School in 2008. "
+published: false
 
 ---
