@@ -10,5 +10,6 @@ bio: Infinity Learning is a consultancy that assists corporates with Broad-Based
   a program to promote learning strategies as part of a vision to contribute to quality
   learning and life-skills within South Africa.  Chris Dykes has an MBA from the Wits
   Business School.
+published: false
 
 ---
