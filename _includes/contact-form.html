@@ -1,8 +1,12 @@
-<!-- Contact Form -->
-<form class="" action="https://usebasin.com/f/c996c70ebd7e" method="POST">
+<!-- Contact Form (Netlify) -->
+<form name="Website Contact Form" method="post" data-netlify="true" data-netlify-recaptcha="true">
+
+  <!-- Honeypot Field -->
+  <p class="hidden">
+    <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
+  </p>
 
   <div class="form-row">
-    <input type="hidden" name="_gotcha">
     <!-- First Name-->
     <div class="form-group col-md-6">
       <label class="sr-only" for="first-name">First Name</label>
@@ -44,8 +48,8 @@
     </div>
   </div>
 
-  <!-- Google reCAPTCHA -->
-  <div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy" style="margin-bottom: 1rem;"></div>
+  <!-- reCAPTCHA 2 via Netlify -->
+  <div data-netlify-recaptcha="true"></div>
 
   <!-- Submit Form -->
   <button class="btn btn-default" type="submit">Send Message</button>
