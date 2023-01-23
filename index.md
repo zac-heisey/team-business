@@ -2,7 +2,7 @@
 layout: default
 title: Team Business
 description: ''
-intro-big: We Teach the Hard-Learned Lessons of Business Through Face-to-Face Experiences
+intro-big: We Teach the Hard-Learned Lessons of Business Through Face-to-Face and Virtual Experiences
 intro-small: We Are Team Business
 video-heading: There's An Easier Way to Learn the Hard Way
 video-sub-text: "<p>Fast-track your team’s business acumen with hands-on business
